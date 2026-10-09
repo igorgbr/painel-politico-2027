@@ -66,7 +66,6 @@ node scripts/check-prototype.mjs
 
 É possível usar Chrome ou Brave no lugar do Chromium. `CDP_URL` e `APP_URL` permitem alterar os endereços. O script verifica seleção de estado por teclado, navegação ao parlamentar, 81/513 cadeiras, indicadores indisponíveis, fontes oficiais, filtros, persistência da busca, exportações e impressão dos 594 registros. Também simula falha HTTP, recuperação e arquivo com indicador indevido. Também verifica overflow em 375, 640 e 768px e salva capturas da área visível em `/tmp/painel-*.png`.
 
-Para a integração futura com dados oficiais, veja HANDOFF.md.
 
 Use `npm run ingest -- --refresh` para ignorar o cache de uma hora e `npm run ingest -- --export-only` para republicar do SQLite sem acessar a rede. `--db` e `--cache` permitem diretórios alternativos. A ingestão permite uma execução por banco por vez no Linux. Para produção, gerar e publicar todo `dist/`, incluindo os detalhes; nenhuma hospedagem ou rotina externa foi configurada nesta etapa.
 
