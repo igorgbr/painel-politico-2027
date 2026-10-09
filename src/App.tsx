@@ -216,20 +216,20 @@ function House({ casa, list, hemi, parties, sel, setSel, version }: { casa: Casa
             <p className="muted" style={{ margin: '4px 0 16px', fontSize: 14 }}>
               Mandato {mem.mandato} · {mem.fim - mem.ini} anos de mandato · {new Date().getFullYear() > mem.ini ? `${new Date().getFullYear() - mem.ini} cumpridos` : `inicia em fev/${mem.ini}`}
             </p>
-            {mem.fonte && <div className="source-note"><p>{mem.situacao} · {mem.participacao}{mem.titular ? ` · Titular registrado na fonte: ${mem.titular}` : ''}</p><p>{mem.partidoEleicao ? `Partido na eleição: ${mem.partidoEleicao}` : `Partido no cadastro da coleta: ${mem.partidoAtual}`}</p><p aria-live="polite">{detailsError ? 'Histórico temporariamente indisponível.' : currentDetails?.historico ?? mem.historico}</p><a href={mem.fonte.url} target="_blank" rel="noopener noreferrer">Consultar fonte oficial</a><p>Fonte gerada em {date(mem.fonte.geradoEm)}</p>{Object.entries(mem.indicadores ?? {}).map(([key, evidence]) => <p key={key}>{({aprov:'Convertidos em lei',neg:'Rejeitados',faltas:'Faltas',salario:'Salário',custo:'Despesas'} as Record<string,string>)[key]}: {evidence.periodoInicio} a {evidence.periodoFim} · {evidence.criterio}</p>)}</div>}
+            {mem.fonte && <div className="source-note"><p>{mem.situacao} · {mem.participacao}{mem.titular ? ` · Titular registrado na fonte: ${mem.titular}` : ''}</p><p>{mem.partidoEleicao ? `Partido na eleição: ${mem.partidoEleicao}` : `Partido no cadastro da coleta: ${mem.partidoAtual}`}</p><p aria-live="polite">{detailsError ? 'Histórico temporariamente indisponível.' : currentDetails?.historico ?? mem.historico}</p><a href={mem.fonte.url} target="_blank" rel="noopener noreferrer">Consultar fonte oficial</a><p>Fonte gerada em {date(mem.fonte.geradoEm)}</p>{Object.entries(Object.entries(mem.indicadores ?? {}).reduce((g, [key, e]) => { const k = `${e.periodoInicio} a ${e.periodoFim} · ${e.criterio}`; (g[k] ??= []).push(({aprov:'Convertidos em lei',neg:'Rejeitados',faltas:'Faltas',salario:'Salário',custo:'Despesas'} as Record<string,string>)[key]); return g; }, {} as Record<string,string[]>)).map(([k, labels]) => <p key={k}>{labels.join(' e ')}: {k}</p>)}</div>}
             {currentDetails?.historicosLegislativos?.map(h => <HistoryPanel key={`${h.casa}-${h.periodoInicio}`} history={h} />)}
             {currentDetails?.despesasHistoricas?.map(h => <ExpensePanel key={`${h.casa}-${h.periodoInicio}`} history={h} />)}
-            {currentDetails?.comparecimentosSenado?.slice().sort((a,b)=>b.periodoFim.localeCompare(a.periodoFim)).map(h => <SenateSessionsPanel key={h.periodoInicio} history={h} />)}
+            {!!currentDetails?.comparecimentosSenado?.length && <SenateSessionsPanel histories={currentDetails.comparecimentosSenado} />}
             {currentDetails?.licencasSenado?.map(h => <SenateLicensesPanel key={h.periodoInicio} history={h} />)}
             {currentDetails?.presencasHistoricas?.map(h => <AttendancePanel key={`${h.casa}-${h.periodoInicio}`} history={h} />)}
-            {mem.subsidioReferencia && <div className="source-note"><p>Subsídio bruto de referência vigente na coleta: {moneyCents(mem.subsidioReferencia.valorCentavos)} por mês, desde {mem.subsidioReferencia.inicioVigencia}. Não comprova pagamento individual ou valor futuro.</p>{mem.subsidioReferencia.fontes.map(url => <p key={url}><a href={url} target="_blank" rel="noopener noreferrer">Fonte oficial do subsídio</a></p>)}<p>Verificado em {date(mem.subsidioReferencia.verificadoEm)}</p></div>}
+            {mem.subsidioReferencia && <div className="source-note"><p>Subsídio bruto de referência vigente na coleta: {moneyCents(mem.subsidioReferencia.valorCentavos)} por mês, desde {mem.subsidioReferencia.inicioVigencia}. Não comprova pagamento individual ou valor futuro.</p>{mem.subsidioReferencia.fontes.map((url, i) => <p key={url}><a href={url} target="_blank" rel="noopener noreferrer">{i ? 'Norma do subsídio' : 'Fonte oficial do subsídio'}</a></p>)}<p>Verificado em {date(mem.subsidioReferencia.verificadoEm)}</p></div>}
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', gap: 10 }}>
-              <div className="stat"><b style={{ color: hist || mem.aprov !== null ? '#1A6B3C' : undefined }}>{hist?.aprov ?? mem.aprov ?? missingMetric(mem,'aprov')}</b><span>Conversões confirmadas · {mem.casaNome}{hist && <><br/>{hist.periodoInicio} a {hist.periodoFim}{hist.pendentes > 0 && <><br/>Contagem mínima; há resultados pendentes</>}</>}</span></div>
-              <div className="stat"><b style={{ color: hist || mem.neg !== null ? '#A3261F' : undefined }}>{hist?.neg ?? mem.neg ?? missingMetric(mem,'neg')}</b><span>Rejeições confirmadas · {mem.casaNome}{hist && <><br/>{hist.periodoInicio} a {hist.periodoFim}{hist.pendentes > 0 && <><br/>Contagem mínima; há resultados pendentes</>}</>}</span></div>
-              <div className="stat"><b>{mem.subsidioReferencia ? moneyCents(mem.subsidioReferencia.valorCentavos) : mem.salario === null ? missingMetric(mem,'salario') : brl(mem.salario)}</b><span>{mem.subsidioReferencia ? 'Subsídio bruto mensal de referência' : 'Pagamento mensal'}</span></div>
-              <div className="stat"><b>{mem.custo === null ? missingMetric(mem,'custo') : brl(mem.custo)}</b><span>Despesas de cota do mandato {mem.mandato}</span></div>
-              <div className="stat"><b>{attendance?.naoJustificada ?? mem.faltas ?? (mem.resumosHistoricos?.presencas?.length ? 'Histórico de presença em outra Casa' : missingMetric(mem,'faltas'))}</b><span>Ausências não justificadas {attendance ? <>(dias) · Câmara<br/>{attendance.periodoInicio} a {attendance.periodoFim}</> : '— classificação histórica'}</span></div>
-              <div className="stat"><b>{hist?.pendentes ? 'Resultados pendentes de confirmação' : mem.aprov === null || mem.neg === null ? 'Histórico sem proporção confirmada' : mem.aprov + mem.neg === 0 ? 'Sem resultados classificados' : pct(mem.aprov, mem.neg)}</b><span>Conversões entre resultados classificados</span></div>
+              <div className="stat"><V style={{ color: hist || mem.aprov !== null ? '#1A6B3C' : undefined }}>{hist?.aprov ?? mem.aprov ?? missingMetric(mem,'aprov')}</V><span>Conversões confirmadas · {mem.casaNome}{hist && <><br/>{hist.periodoInicio} a {hist.periodoFim}{hist.pendentes > 0 && <><br/>Contagem mínima; há resultados pendentes</>}</>}</span></div>
+              <div className="stat"><V style={{ color: hist || mem.neg !== null ? '#A3261F' : undefined }}>{hist?.neg ?? mem.neg ?? missingMetric(mem,'neg')}</V><span>Rejeições confirmadas · {mem.casaNome}{hist && <><br/>{hist.periodoInicio} a {hist.periodoFim}{hist.pendentes > 0 && <><br/>Contagem mínima; há resultados pendentes</>}</>}</span></div>
+              <div className="stat"><V>{mem.subsidioReferencia ? moneyCents(mem.subsidioReferencia.valorCentavos) : mem.salario === null ? missingMetric(mem,'salario') : brl(mem.salario)}</V><span>{mem.subsidioReferencia ? 'Subsídio bruto mensal de referência' : 'Pagamento mensal'}</span></div>
+              <div className="stat"><V>{mem.custo === null ? missingMetric(mem,'custo') : brl(mem.custo)}</V><span>Despesas de cota do mandato {mem.mandato}</span></div>
+              <div className="stat"><V>{attendance?.naoJustificada ?? mem.faltas ?? (mem.resumosHistoricos?.presencas?.length ? 'Histórico de presença em outra Casa' : missingMetric(mem,'faltas'))}</V><span>Ausências não justificadas {attendance ? <>(dias) · Câmara<br/>{attendance.periodoInicio} a {attendance.periodoFim}</> : '— classificação histórica'}</span></div>
+              <div className="stat"><V>{hist?.pendentes ? 'Resultados pendentes de confirmação' : mem.aprov === null || mem.neg === null ? 'Histórico sem proporção confirmada' : mem.aprov + mem.neg === 0 ? 'Sem resultados classificados' : pct(mem.aprov, mem.neg)}</V><span>Conversões entre resultados classificados{!hist?.pendentes && mem.aprov !== null && mem.neg !== null && mem.aprov + mem.neg > 0 && <> · base: {mem.aprov + mem.neg} {mem.aprov + mem.neg === 1 ? 'resultado' : 'resultados'}</>}</span></div>
             </div>
             <div style={{ display: 'flex', gap: 8, marginTop: 16, flexWrap: 'wrap' }}>
               <button className="btn alt" disabled={(!!mem.detalhesUrl && !currentDetails) || !lsFor(mem, currentDetails, 'aprov')} onClick={() => setLawTab('aprov')}>Ver aprovadas</button>
@@ -256,17 +256,29 @@ function House({ casa, list, hemi, parties, sel, setSel, version }: { casa: Casa
   );
 }
 
-function SenateSessionsPanel({history:h}: {history:import('./data').SenateSessionHistory}) {
+// ponytail: texto sem dígito = estado ("ainda não vinculado"), não valor; estilo discreto
+function V({children, style}: {children: React.ReactNode; style?: React.CSSProperties}) {
+  const na = typeof children === 'string' && !/\d/.test(children);
+  return <b className={na ? 'na' : undefined} style={na ? undefined : style}>{children}</b>;
+}
+
+function SenateSessionsPanel({histories}: {histories:import('./data').SenateSessionHistory[]}) {
   const [open,setOpen]=useState(false);
+  const hs=histories.slice().sort((a,b)=>b.periodoFim.localeCompare(a.periodoFim));
+  const counts=new Map<import('./data').SenateSessionStatus,number>();
+  hs.forEach(h=>h.sessoes.forEach(r=>counts.set(r.classificacao,(counts.get(r.classificacao)??0)+1)));
+  const total=hs.reduce((n,h)=>n+h.totalSessoes,0), registered=hs.reduce((n,h)=>n+h.comparecimentosRegistrados,0);
   return <section className="source-note"><h3 style={{fontSize:14}}>Comparecimento e participação · Senado</h3>
+    <p>{hs[hs.length-1].periodoInicio} a {hs[0].periodoFim} · {total} {total===1?'sessão deliberativa conferida':'sessões deliberativas conferidas'} · {registered} {registered===1?'comparecimento registrado':'comparecimentos registrados'} no Diário</p>
+    <ul style={{margin:'4px 0',paddingLeft:18}}>{[...counts].map(([k,n])=><li key={k}>{senateSessionLabel(k)}: <b>{n}</b></li>)}</ul>
+    <p>Recorte parcial de 2026. Faltas não justificadas ainda sem classificação; as sessões conferidas não medem assiduidade anual.</p>
+    <button className="btn alt" aria-expanded={open} onClick={()=>setOpen(v=>!v)}>{open?'Ocultar sessões':'Ver sessões conferidas'}</button>
+    {open&&<><p>{hs[0].criterio}</p>{hs.map(h=><section className="source-note" key={h.periodoInicio}>
     <p>{h.periodoInicio} a {h.periodoFim} · {h.totalSessoes} sessão deliberativa conferida</p>
-    <p><b>{senateSessionLabel(h.sessoes[0].classificacao)}</b><br/>{h.comparecimentosRegistrados} comparecimento registrado no Diário.</p>
-    <p>Recorte parcial de 2026. Faltas não justificadas ainda sem classificação; participação conferida neste recorte não mede assiduidade anual.</p>
-    <button className="btn alt" aria-expanded={open} onClick={()=>setOpen(v=>!v)}>{open?'Ocultar conferência':'Ver conferência da sessão'}</button>
-    {open&&<><p>{h.criterio}</p>{h.sessoes.map(r=><div key={r.id}><p><b>Sessão {r.numero}</b> · continuações contadas uma vez.<br/>{r.registroDiario?`${r.registroDiario.nomeDiario} · ${r.registroDiario.uf} · Diário, página ${r.registroDiario.pagina}`:'Nome não consta no registro de comparecimento; isso não comprova falta não justificada.'}</p>
+    {h.sessoes.map(r=><div key={r.id}><p><b>Sessão {r.numero} · {senateSessionLabel(r.classificacao)}</b> · continuações contadas uma vez.<br/>{r.registroDiario?`${r.registroDiario.nomeDiario} · ${r.registroDiario.uf} · Diário, página ${r.registroDiario.pagina}`:'Nome não consta no registro de comparecimento; isso não comprova falta não justificada.'}</p>
     {!r.votacoes.length&&<p>Sem votação nominal nesta sessão. A conferência confirma apenas o comparecimento registrado no Diário.</p>}
     {r.votacoes.map(v=><p key={v.id}><b>{v.materia} · {v.data}</b><br/>{v.descricao} {v.secreta&&'· Votação secreta: apenas participação pública.'}<br/>{v.classificacao==='pendente'?'Sem evidência suficiente para classificar a participação.':v.classificacao==='fora-exercicio'?'Fora do exercício nesta votação.':v.classificacao==='justificativa-registrada'?'Justificativa registrada; não classifica falta regimental.':'Participação registrada.'}{v.licencasEfetivas.length>0&&<><br/>Licenças com datas efetivas: {v.licencasEfetivas.join(', ')}</>}</p>)}</div>)}
-    {h.fontes.map((url,i)=><p key={url}><a href={url} target="_blank" rel="noopener noreferrer">{['Diário oficial (registro de comparecimento)','Votações oficiais','Legenda dos registros','Mandatos e exercício','Licenças oficiais'][i]}</a></p>)}<p>Conferido com fontes coletadas até {date(h.coletadoEm)}.</p></>}
+    {h.fontes.map((url,i)=><p key={url}><a href={url} target="_blank" rel="noopener noreferrer">{['Diário oficial (registro de comparecimento)','Votações oficiais','Legenda dos registros','Mandatos e exercício','Licenças oficiais'][i]}</a></p>)}<p>Conferido com fontes coletadas até {date(h.coletadoEm)}.</p></section>)}</>}
   </section>;
 }
 
