@@ -1,5 +1,9 @@
 # Painel Político 2027
 
+**Versão beta no ar:** https://painel-politico-2027.pages.dev · [Envie seu feedback](https://docs.google.com/forms/d/1fXrBZAGG1jPIEsmI-PQ2etNhapi6CuMX64FTTf4Krow/viewform)
+
+Código sob licença MIT ([LICENSE](LICENSE)). Os dados vêm de fontes públicas oficiais (TSE, Câmara dos Deputados e Senado Federal); o mapa usa svg-maps/brazil (CC BY 4.0). Erros nos dados podem ser relatados pelo formulário ou por issue.
+
 Protótipo em React, Vite e TypeScript baseado no PDF e no HTML do Claude Design que acompanham o projeto. A versão principal usa composição oficial: eleitos do TSE em 2026 e mandatos do Senado em continuidade até 2031. Histórico legislativo, despesas e fotos estão disponíveis para vínculos confirmados. Subsídio bruto de referência integrado; presença Câmara tem cobertura parcial. Senado tem recorte parcial de sessões conferidas, com painel agregado e cobertura explícita; assiduidade anual e faltas regimentais não estão concluídas. Pagamentos individuais ficam fora da v1. O modo demonstrativo é acessível explicitamente em `/?demo=1`.
 
 ## Executar

@@ -5,6 +5,9 @@ import { STATES, REG, COR, buildData, laws, hemicycle, brl, pct, type Member, ty
 
 import { parseDataset, parseMemberDetails, partyCounts, type Dataset, type MemberDetails } from './dataset';
 
+const FEEDBACK_URL = 'https://docs.google.com/forms/d/1fXrBZAGG1jPIEsmI-PQ2etNhapi6CuMX64FTTf4Krow/viewform';
+const REPO_URL = 'https://github.com/igorgbr/painel-politico-2027';
+
 const demo = new URLSearchParams(window.location.search).get('demo') === '1';
 const metric = (n: number | null) => n === null ? 'Indisponível' : n;
 const date = (value: string) => new Date(value).toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' });
@@ -55,6 +58,9 @@ export default function App() {
           ))}
         </nav>
       </header>
+      <div className="noprint beta-bar">
+        <b>Versão beta</b> · dados oficiais do TSE, Câmara e Senado, com cobertura parcial indicada em cada tela. Encontrou um erro ou tem sugestão? <a href={FEEDBACK_URL} target="_blank" rel="noopener noreferrer">Responda o formulário</a> · <a href={REPO_URL} target="_blank" rel="noopener noreferrer">Código no GitHub</a>
+      </div>
       <div className="noprint" style={{ background: '#FFF4D6', color: '#5A4300', fontSize: 12, padding: '8px 24px' }}>
         {provenance}
       </div>

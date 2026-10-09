@@ -67,3 +67,6 @@ button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible,[r
 .source-note{font-size:12px;color:#55585F;background:#F4F4F1;padding:12px;border-radius:8px;margin:12px 0}
 .source-note p{margin:0 0 8px}
 .stat b.na{font:600 14px/1.35 'Public Sans',sans-serif;color:#55585F;margin-bottom:4px}
+.beta-bar{background:#1F4E8C;color:#fff;font-size:13px;padding:8px 24px}
+.beta-bar a{color:#fff;font-weight:600}
+@media (max-width:640px){.beta-bar{padding:8px 16px}}
