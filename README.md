@@ -1,6 +1,6 @@
 # Painel Político 2027
 
-Protótipo em React, Vite e TypeScript baseado no PDF e no HTML do Claude Design que acompanham o projeto. A versão principal usa composição oficial: eleitos do TSE em 2026 e mandatos do Senado em continuidade até 2031. Histórico legislativo, despesas e fotos estão disponíveis para vínculos confirmados. Subsídio bruto de referência integrado; presença Câmara tem cobertura parcial. Pagamentos individuais e presença Senado seguem pendentes. O modo demonstrativo é acessível explicitamente em `/?demo=1`.
+Protótipo em React, Vite e TypeScript baseado no PDF e no HTML do Claude Design que acompanham o projeto. A versão principal usa composição oficial: eleitos do TSE em 2026 e mandatos do Senado em continuidade até 2031. Histórico legislativo, despesas e fotos estão disponíveis para vínculos confirmados. Subsídio bruto de referência integrado; presença Câmara tem cobertura parcial. Senado tem recorte parcial de sessões conferidas, com painel agregado e cobertura explícita; assiduidade anual e faltas regimentais não estão concluídas. Pagamentos individuais ficam fora da v1. O modo demonstrativo é acessível explicitamente em `/?demo=1`.
 
 ## Executar
 
@@ -81,3 +81,49 @@ Atualização: `npm run ingest:attendance`. Subsídio de referência e presença
 Licenças e missões do Senado: `npm run ingest:senate-attendance` integra registros oficiais de identidades já verificadas. `npm run ingest:senate-sessions` reconcilia doze recortes: sessões 83 (16/6), 84 (17/6), 91 (30/6), 93 (2/7, extraordinária), 98 (7/7), 100 (8/7), 102 (9/7), 106 (14/7), 107 (15/7), 111 (11/8), 113 (12/8) e 120 (1–3/9/2026), com DSF, todas as nominais, exercício e licenças efetivas. Requer `pdftotext`; `--session` seleciona um recorte. `npm run inventory:senate-sessions` registra a agenda anual; `--publish` publica a referência após validar todos os meses. São **12 de 45 sessões identificadas**, com **504 conferências para 42 vínculos**. Assiduidade anual e faltas permanecem pendentes. Detalhes em [docs/SUBSIDIO-PRESENCA.md](docs/SUBSIDIO-PRESENCA.md).
 
 `npm run inspect:senate-diary -- --month 7` consulta o calendário oficial; `--diary 125698` baixa somente o sumário; `--diary 125698 --pages 65 66` consulta um intervalo de até vinte páginas; `--votes 2026-07-14 --end 2026-07-15` consulta votações. Aceita `--offline`. Esse comando prepara a conferência, informa URL/hash/data e guarda respostas no cache privado; não publica indicadores nem cadastra recortes automaticamente.
+
+
+## Preparar a publicação estática da v1
+
+Node.js 24 e Python 3.10+ no computador de operação. O site publicado não precisa de Python ou banco. Na branch `main`, com as dependências instaladas:
+
+```sh
+npm ci
+npm run release:check
+npm run preview -- --host 127.0.0.1
+```
+
+`release:check` executa testes Python, contratos dos dados, build e inspeção do `dist/`: índice igual ao publicado, detalhes da versão correta, fotos locais presentes, somente arquivos públicos e no máximo dois snapshots. Exibe quantidade de arquivos, tamanho e maior arquivo para conferir os limites do provedor. Não faz ingestão nem deploy. Abra a URL indicada pelo preview e confira mapa, seleção de parlamentar, painel agregado Senado, Dados e exportações. O teste completo de navegador descrito acima também pode usar `APP_URL=http://127.0.0.1:4173` para testar o build.
+
+Publique **todo o `dist/` na mesma implantação**, depois de todas as verificações passarem. `var/`, SQLite, cache, downloads brutos, relatórios privados e código Python ficam no computador de operação. A poda mantém o snapshot atual e um anterior por data de modificação; isso não é backup. Arquive privadamente cada pacote aprovado para poder restaurar uma publicação anterior.
+
+**Hospedagem proposta, aguardando escolha:** Cloudflare Pages, com Direct Upload do pacote pronto usando Wrangler. Permite manter a coleta privada separada da hospedagem. Referências: [Direct Upload e limites](https://developers.cloudflare.com/pages/get-started/direct-upload/) e [cabeçalhos de cache](https://developers.cloudflare.com/pages/configuration/headers/). Após a aprovação, configurar projeto, credencial de deploy, revalidação de `data.json` e HTML, cache longo para assets com hash, detalhes versionados e fotos com hash, além de verificar recuperação da publicação anterior. Nenhum projeto, credencial ou domínio foi configurado nesta etapa.
+
+## Rotina de atualização dos dados da v1
+
+Proposta inicial: uma execução semanal no computador de operação e despesas mensais após o fechamento da competência. O agendamento externo e o deploy automático serão definidos após a escolha da hospedagem. Executar os coletores **em sequência**, sem dois processos usando o mesmo banco. Manter `var/` persistente e privado: uma máquina nova sem esse banco não consegue recuperar os históricos apenas dos arquivos do site.
+
+Antes de atualizar, interrompa outros coletores, faça backup consistente de `var/painel.sqlite3` com a API de backup do SQLite e preserve `var/raw`, `var/cache`, o pacote publicado anterior e os relatórios. Registre data, períodos escolhidos e versão inicial. Pare ao primeiro comando com erro e examine os relatórios; uma execução parcial não autoriza deploy.
+
+Exemplo para repetir o recorte da v1 em outubro de 2026:
+
+```sh
+npm run ingest -- --refresh
+npm run ingest:history -- --start 2023-02-01 --end 2026-10-05
+npm run ingest:expenses -- --start 2026-01-01 --end 2026-09-30 --refresh
+npm run ingest:attendance -- --year 2026 --refresh
+npm run ingest:senate-attendance -- --year 2026 --refresh
+npm run ingest:photos
+npm run cache:photos
+npm run release:check
+```
+
+Execute uma linha por vez, continuando somente após sucesso. Histórico usa cache de 24 horas; fotos reutilizam perfis por cache, e cópias existentes são preservadas. Para despesas, avance `--end` apenas para o último dia de um mês completo anterior ao atual. O fim legislativo é explícito: preserve `2026-10-05` para repetir a v1 ou escolha/documente outra data; o padrão do coletor não avança sozinho. Presença e licenças usam o ano informado e o recorte calculado pelos adaptadores. Em 2027, revise ano e critérios antes de alterar os comandos; histórico anterior e composição futura continuam conceitos separados.
+
+A rotina **não amplia as sessões conferidas do Senado**, não executa inventário nem edita o manifesto. Mantém o recorte parcial já publicado; atualização de licenças não reconcilia retroativamente as sessões. Novos recortes dependem de automação e validação próprias, fora desta rotina.
+
+Revise os relatórios de composição, histórico, despesas, presença e licenças em `docs/`: datas das fontes, erros, vínculos e cobertura. Alguns coletores terminam com sucesso mesmo com cobertura parcial; compare com a publicação anterior e investigue quedas inesperadas. Não trate dado ausente como zero nem a data geral do índice como data de todas as fontes. Confira no preview que as pendências continuam visíveis.
+
+Depois da revisão e dos testes, faça commit dos arquivos públicos, relatórios e documentação alterados na `main`. Faça o deploy completo pelo procedimento do provedor aprovado e registre commit, snapshot, data e URL. Se os testes ou a revisão falharem, mantenha o site anterior; os coletores podem já ter alterado o estado local, portanto não use `--export-only` como rollback. Restaure o pacote aprovado anterior para reverter o site e o backup privado para recuperar a operação.
+
+Para apenas reconstruir a publicação existente, use `npm run release:check`. Se precisar regenerar os arquivos a partir do banco sem consultar fontes, use `npm run ingest -- --export-only` antes; isso republica o estado armazenado, sem atualizar datas de coleta das evidências.

@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "release:check": "npm run test:data && npm run test:contract && npm run build && node scripts/check-release.mjs",
     "preview": "vite preview",
     "ingest": "python3 scripts/ingest.py",
     "test:data": "python3 -m unittest discover -s tests -p \"test_*.py\"",
