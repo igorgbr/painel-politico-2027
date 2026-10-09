@@ -4,7 +4,7 @@
 
 Código sob licença MIT ([LICENSE](LICENSE)). Os dados vêm de fontes públicas oficiais (TSE, Câmara dos Deputados e Senado Federal); o mapa usa svg-maps/brazil (CC BY 4.0). Erros nos dados podem ser relatados pelo formulário ou por issue.
 
-Protótipo em React, Vite e TypeScript baseado no PDF e no HTML do Claude Design que acompanham o projeto. A versão principal usa composição oficial: eleitos do TSE em 2026 e mandatos do Senado em continuidade até 2031. Histórico legislativo, despesas e fotos estão disponíveis para vínculos confirmados. Subsídio bruto de referência integrado; presença Câmara tem cobertura parcial. Senado tem recorte parcial de sessões conferidas, com painel agregado e cobertura explícita; assiduidade anual e faltas regimentais não estão concluídas. Pagamentos individuais ficam fora da v1. O modo demonstrativo é acessível explicitamente em `/?demo=1`.
+Protótipo em React, Vite e TypeScript baseado em um protótipo do Claude Design (o HTML acompanha o projeto). A versão principal usa composição oficial: eleitos do TSE em 2026 e mandatos do Senado em continuidade até 2031. Histórico legislativo, despesas e fotos estão disponíveis para vínculos confirmados. Subsídio bruto de referência integrado; presença Câmara tem cobertura parcial. Senado tem recorte parcial de sessões conferidas, com painel agregado e cobertura explícita; assiduidade anual e faltas regimentais não estão concluídas. Pagamentos individuais ficam fora da v1. O modo demonstrativo é acessível explicitamente em `/?demo=1`.
 
 ## Executar
 
@@ -53,7 +53,7 @@ As bancadas, cores disponíveis e totais são calculados dos dados carregados; p
 
 ## Referências visuais
 
-O PDF define a aparência inicial no desktop; o HTML define as interações. As fontes Archivo e Public Sans foram recuperadas dos assets incorporados no HTML, mantendo as fontes do protótipo disponíveis localmente. O crédito do mapa svg-maps/brazil (CC BY 4.0) permanece visível.
+O protótipo do Claude Design definiu a aparência inicial no desktop; o HTML define as interações. As fontes Archivo e Public Sans foram recuperadas dos assets incorporados no HTML, mantendo as fontes do protótipo disponíveis localmente. O crédito do mapa svg-maps/brazil (CC BY 4.0) permanece visível.
 
 ## Verificação no navegador
 
