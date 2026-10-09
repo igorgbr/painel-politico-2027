@@ -97,33 +97,74 @@ npm run preview -- --host 127.0.0.1
 
 Publique **todo o `dist/` na mesma implantação**, depois de todas as verificações passarem. `var/`, SQLite, cache, downloads brutos, relatórios privados e código Python ficam no computador de operação. A poda mantém o snapshot atual e um anterior por data de modificação; isso não é backup. Arquive privadamente cada pacote aprovado para poder restaurar uma publicação anterior.
 
-**Hospedagem proposta, aguardando escolha:** Cloudflare Pages, com Direct Upload do pacote pronto usando Wrangler. Permite manter a coleta privada separada da hospedagem. Referências: [Direct Upload e limites](https://developers.cloudflare.com/pages/get-started/direct-upload/) e [cabeçalhos de cache](https://developers.cloudflare.com/pages/configuration/headers/). Após a aprovação, configurar projeto, credencial de deploy, revalidação de `data.json` e HTML, cache longo para assets com hash, detalhes versionados e fotos com hash, além de verificar recuperação da publicação anterior. Nenhum projeto, credencial ou domínio foi configurado nesta etapa.
+## Cloudflare Pages: token e primeiro deploy
+
+Hospedagem aprovada: **Cloudflare Pages com Direct Upload via Wrangler**, inicialmente no endereço `*.pages.dev`. Wrangler está fixado no `package-lock.json` e instalado por `npm ci`. O projeto remoto ainda depende da conta e do token fornecidos pelo operador.
+
+1. No [painel Cloudflare](https://dash.cloudflare.com/), selecione sua conta, abra **API Tokens** (tokens da conta; também acessível pelo perfil em **My Profile → API Tokens**), clique **Create Token → Custom token / Get started**.
+2. Nome sugerido: `painel-politico-pages-deploy`. Em **Permissions**, configure somente **Account → Cloudflare Pages → Edit**. Em **Account Resources**, selecione **Include → Specific account → sua conta**. Esta permissão vale para Pages nessa conta; não fica restrita a um projeto. Não são necessárias permissões de DNS, zonas, Workers, R2 ou a chave global da conta.
+3. Clique **Continue to summary → Create Token** e guarde o token no seu gerenciador de senhas. Essa é a [permissão documentada para Direct Upload](https://developers.cloudflare.com/pages/how-to/use-direct-upload-with-continuous-integration/).
+4. Copie o **Account ID** na página **Workers & Pages**, conforme [localizar o ID da conta](https://developers.cloudflare.com/fundamentals/account/find-account-and-zone-ids/). Não é necessário adicionar um domínio.
+
+Configure as variáveis **no terminal que executará Wrangler e `npm run deploy`**, não nas configurações de build do site. Em zsh, leia o token de forma oculta, sem colocá-lo no histórico do terminal:
+
+```sh
+read -rs 'CLOUDFLARE_API_TOKEN?Token Cloudflare: '
+export CLOUDFLARE_API_TOKEN
+export CLOUDFLARE_ACCOUNT_ID='SEU_ACCOUNT_ID_DE_32_CARACTERES'
+export CLOUDFLARE_PAGES_PROJECT='painel-politico-2027'
+```
+
+O token fica apenas no ambiente dessa sessão. Não use prefixo `VITE_`, não grave em `.env`, scripts, README, configuração Wrangler ou arquivos versionados. Se houver CI no futuro, cadastre o token no cofre de secrets do executor e injete essas variáveis no processo; não no frontend. `.gitignore` também exclui arquivos locais de ambiente e `.wrangler/` como proteção adicional.
+
+Crie o projeto **uma vez**, com branch de produção `main`, usando o Wrangler instalado:
+
+```sh
+npx --no-install wrangler pages project create "$CLOUDFLARE_PAGES_PROJECT" --production-branch main
+```
+
+Se o nome estiver ocupado, escolha outro e atualize `CLOUDFLARE_PAGES_PROJECT`. Para todas as publicações, depois de revisar os relatórios:
+
+```sh
+npm run deploy
+```
+
+O comando valida as três variáveis, executa `release:check` sem entregar o token aos testes/build e somente após sucesso envia todo o `dist/` com `wrangler pages deploy`, projeto explícito e `--branch main`. Não executa ingestão, não cria domínio e não pede login interativo. O projeto precisa existir; ausência de credenciais, falha de validação ou falha do Wrangler encerra com código diferente de zero. A URL será informada pelo Wrangler; o endereço estável de produção fica no painel do projeto em `*.pages.dev`.
+
+`public/_headers` é copiado ao build: `no-cache` para `/`, `/index.html` e `/data.json`; `public, max-age=31536000, immutable` para `/assets/*`, `/data/snapshots/*` e `/photos/*`. `no-cache` permite armazenamento, exigindo revalidação. Cloudflare normaliza URLs HTML, por isso a raiz também recebe a regra. O preview Vite não aplica `_headers`; após o primeiro deploy, verifique `Cache-Control` com `curl -I` na raiz, no índice de dados e em um arquivo real de cada diretório imutável. [Formato oficial dos cabeçalhos](https://developers.cloudflare.com/pages/configuration/headers/).
+
+Após usar o token, remova-o dessa sessão:
+
+```sh
+unset CLOUDFLARE_API_TOKEN
+```
+
+Para reverter o site, use **Workers & Pages → projeto → Deployments → publicação anterior de produção → Rollback**. Guarde também o pacote aprovado anterior em backup privado. A recuperação do site não restaura o SQLite local.
 
 ## Rotina de atualização dos dados da v1
 
-Proposta inicial: uma execução semanal no computador de operação e despesas mensais após o fechamento da competência. O agendamento externo e o deploy automático serão definidos após a escolha da hospedagem. Executar os coletores **em sequência**, sem dois processos usando o mesmo banco. Manter `var/` persistente e privado: uma máquina nova sem esse banco não consegue recuperar os históricos apenas dos arquivos do site.
-
-Antes de atualizar, interrompa outros coletores, faça backup consistente de `var/painel.sqlite3` com a API de backup do SQLite e preserve `var/raw`, `var/cache`, o pacote publicado anterior e os relatórios. Registre data, períodos escolhidos e versão inicial. Pare ao primeiro comando com erro e examine os relatórios; uma execução parcial não autoriza deploy.
-
-Exemplo para repetir o recorte da v1 em outubro de 2026:
+Rotina proposta: uma execução semanal no computador de operação; ajuste a competência das despesas após cada fechamento mensal. Nenhum agendamento foi criado. Execute:
 
 ```sh
-npm run ingest -- --refresh
-npm run ingest:history -- --start 2023-02-01 --end 2026-10-05
-npm run ingest:expenses -- --start 2026-01-01 --end 2026-09-30 --refresh
-npm run ingest:attendance -- --year 2026 --refresh
-npm run ingest:senate-attendance -- --year 2026 --refresh
-npm run ingest:photos
-npm run cache:photos
-npm run release:check
+npm run update
 ```
 
-Execute uma linha por vez, continuando somente após sucesso. Histórico usa cache de 24 horas; fotos reutilizam perfis por cache, e cópias existentes são preservadas. Para despesas, avance `--end` apenas para o último dia de um mês completo anterior ao atual. O fim legislativo é explícito: preserve `2026-10-05` para repetir a v1 ou escolha/documente outra data; o padrão do coletor não avança sozinho. Presença e licenças usam o ano informado e o recorte calculado pelos adaptadores. Em 2027, revise ano e critérios antes de alterar os comandos; histórico anterior e composição futura continuam conceitos separados.
+`scripts/update.py` faz primeiro um backup consistente com a API SQLite, executa `PRAGMA quick_check` e guarda a cópia com permissão `0600` em `var/backups/` (diretório `0700`, ignorado pelo Git). Banco ausente, banco bloqueado por coletor ou falha no backup impedem a coleta. As cópias têm data UTC e nome único, não são podadas automaticamente. Preserve também `var/raw`, `var/cache`, os relatórios e o pacote aprovado anterior.
+
+Depois do backup, executa em sequência os oito comandos: composição com refresh, histórico, despesas com refresh, presença Câmara, licenças Senado, perfis de fotos, cópias locais das fotos e `release:check`. Para no primeiro código de erro e **nunca executa deploy**. Um lock impede duas rotinas `update` simultâneas. Interrompa coletores individuais antes de iniciar e não os execute durante a rotina: o lock do banco protege cada etapa individual, não toda a sequência.
+
+Padrões explícitos para repetir a v1: histórico de `2023-02-01` a `2026-10-05`, despesas de `2026-01-01` a `2026-09-30`, presença/licenças no ano `2026`. Para alterar somente os fins dos períodos:
+
+```sh
+npm run update -- --history-end 2026-10-09 --expenses-end 2026-09-30
+```
+
+O fim das despesas deve ser o último dia de um mês completo anterior ao atual. Datas futuras ou intervalos inválidos são rejeitados antes do backup. Não há avanço automático de períodos. Histórico usa cache de 24 horas; fotos reutilizam perfis por cache e preservam cópias existentes. Em 2027, revise o ano fixo e os critérios no script antes de executar: composição futura e histórico anterior continuam separados.
 
 A rotina **não amplia as sessões conferidas do Senado**, não executa inventário nem edita o manifesto. Mantém o recorte parcial já publicado; atualização de licenças não reconcilia retroativamente as sessões. Novos recortes dependem de automação e validação próprias, fora desta rotina.
 
 Revise os relatórios de composição, histórico, despesas, presença e licenças em `docs/`: datas das fontes, erros, vínculos e cobertura. Alguns coletores terminam com sucesso mesmo com cobertura parcial; compare com a publicação anterior e investigue quedas inesperadas. Não trate dado ausente como zero nem a data geral do índice como data de todas as fontes. Confira no preview que as pendências continuam visíveis.
 
-Depois da revisão e dos testes, faça commit dos arquivos públicos, relatórios e documentação alterados na `main`. Faça o deploy completo pelo procedimento do provedor aprovado e registre commit, snapshot, data e URL. Se os testes ou a revisão falharem, mantenha o site anterior; os coletores podem já ter alterado o estado local, portanto não use `--export-only` como rollback. Restaure o pacote aprovado anterior para reverter o site e o backup privado para recuperar a operação.
+Depois da revisão e dos testes, faça commit dos arquivos públicos, relatórios e documentação alterados na `main`. Execute `npm run deploy` e registre commit, snapshot, data e URL. Se os testes ou a revisão falharem, mantenha o site anterior; os coletores podem já ter alterado o estado local, portanto não use `--export-only` como rollback. Restaure o pacote aprovado anterior para reverter o site e o backup privado para recuperar a operação.
 
 Para apenas reconstruir a publicação existente, use `npm run release:check`. Se precisar regenerar os arquivos a partir do banco sem consultar fontes, use `npm run ingest -- --export-only` antes; isso republica o estado armazenado, sem atualizar datas de coleta das evidências.

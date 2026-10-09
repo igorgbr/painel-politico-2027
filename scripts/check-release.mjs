@@ -17,7 +17,10 @@ async function walk(directory) {
 }
 await walk(root);
 // A publicação contém somente o app e seus dados públicos.
-assert(files.every(f => /^(index\.html|assets\/[^/]+|fonts\/[^/]+|photos\/[a-f0-9]{64}\.(jpg|jpeg|png)|data\.json|data\/snapshots\/[a-f0-9]+\/[^/]+\.json)$/.test(f.name)), 'Arquivo inesperado no dist; revise antes de publicar');
+assert(files.every(f => /^(index\.html|_headers|assets\/[^/]+|fonts\/[^/]+|photos\/[a-f0-9]{64}\.(jpg|jpeg|png)|data\.json|data\/snapshots\/[a-f0-9]+\/[^/]+\.json)$/.test(f.name)), 'Arquivo inesperado no dist; revise antes de publicar');
+assert.equal(await readFile(resolve(root, '_headers'), 'utf8'), await readFile('public/_headers', 'utf8'), 'Build sem os cabeçalhos atuais');
+assert(files.length <= 20000, 'Cloudflare Pages: mais de 20.000 arquivos');
+assert(files.every(f => f.size <= 25 * 1048576), 'Cloudflare Pages: arquivo maior que 25 MiB');
 const publicIndex = await readFile('public/data.json', 'utf8');
 assert.equal(await readFile(resolve(root, 'data.json'), 'utf8'), publicIndex, 'Build com índice desatualizado');
 const dataset = JSON.parse(publicIndex);

@@ -3,3 +3,8 @@ dist/
 *.tsbuildinfo
 __pycache__/
 var/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+.wrangler/
