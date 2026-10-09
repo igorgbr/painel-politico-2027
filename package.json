@@ -1,0 +1,34 @@
+{
+  "name": "painel-politico",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "ingest": "python3 scripts/ingest.py",
+    "test:data": "python3 -m unittest discover -s tests -p \"test_*.py\"",
+    "test:contract": "node scripts/check-contract.mjs",
+    "ingest:history": "python3 scripts/ingest-history.py",
+    "ingest:expenses": "python3 scripts/ingest-expenses.py",
+    "cache:photos": "python3 scripts/cache-photos.py",
+    "ingest:photos": "python3 scripts/ingest-photos.py",
+    "ingest:senate-attendance": "python3 scripts/ingest-senate-attendance.py",
+    "ingest:attendance": "python3 scripts/ingest-attendance.py",
+    "ingest:senate-sessions": "python3 scripts/ingest-senate-sessions.py",
+    "inventory:senate-sessions": "python3 scripts/inventory-senate-sessions.py",
+    "inspect:senate-diary": "python3 scripts/inspect-senate-diary.py"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.0"
+  }
+}

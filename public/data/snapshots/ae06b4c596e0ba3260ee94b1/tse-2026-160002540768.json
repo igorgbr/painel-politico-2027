@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-9f4b642f-51ae-5637-bb88-40e93d73877a",
+  "mandatoId": "tse-2026-160002540768",
+  "historico": "Histórico Câmara: 2 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "229939",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 2,
+      "projetos": [
+        {
+          "id": "2481733",
+          "num": "PL 5033/2024",
+          "titulo": "Dispõe sobre os princípios, as diretrizes e o Comitê de Cooperação entre instituições públicas e privadas no âmbito do atendimento a vítimas e a familiares de vítimas de acidentes aéreos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481733",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2024-12-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2481694",
+          "num": "PL 5024/2024",
+          "titulo": "Dá nova redação à Lei nº 9.074, de 7 de julho de 1995, referente a Aproveitamentos Hidrelétricos e Termoelétricos até 10.000 kW, usinas dispensadas de concessão, permissão ou autorização.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481694",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-12-19",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [],
+  "presencasHistoricas": [],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

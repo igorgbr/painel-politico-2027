@@ -1,0 +1,1670 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-69ccd9f3-8db7-5035-b948-f863be016cdf",
+  "mandatoId": "tse-2026-250002544341",
+  "historico": "Histórico Câmara: 119 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220642",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 119,
+      "projetos": [
+        {
+          "id": "2639489",
+          "num": "PL 3694/2026",
+          "titulo": "Institui protocolos de resgate, atendimento emergencial e destinação de animais envolvidos em acidentes rodoviários.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639489",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-07-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2636271",
+          "num": "PL 3411/2026",
+          "titulo": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, a Lei nº 8.069, de 13 de julho de 1990, o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, e a Lei nº 14.344, de 24 de maio de 2022, para estabelecer medidas de prevenção, identificação, comunicação, preservação de provas e responsabilização em situações de violência ou risco contra crianças e adolescentes em instituições de educação infantil, cuidado, saúde, assistência, acolhimento, esporte, cultura e lazer, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636271",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-07-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2629706",
+          "num": "PL 2808/2026",
+          "titulo": "Requer, nos termos regimentais, a coautoria do Projeto de Lei nº 177, de 2023.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629706",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2026-06-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2629319",
+          "num": "PL 2738/2026",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para tipificar o crime de zoosadismo; estabelece medidas processuais de remoção de conteúdo ilícito e de constrição patrimonial; e dispõe sobre as obrigações e sanções aplicáveis aos provedores de aplicações de internet.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629319",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-05-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2628456",
+          "num": "PL 2667/2026",
+          "titulo": "Autoriza o Conselho Federal de Medicina Veterinária a instituir o Programa Nacional de Apoio Assistencial e Valorização dos Profissionais de Medicina Veterinária e de Zootecnia, cria diretrizes para seu financiamento, governança, transparência e concessão de benefícios, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628456",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-05-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2628454",
+          "num": "PL 2666/2026",
+          "titulo": "Dispõe sobre o reconhecimento do direito ao adicional de insalubridade e de periculosidade aos médicos-veterinários e profissionais que atuam em atividades relacionadas à saúde animal, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628454",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-05-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2628183",
+          "num": "PL 2637/2026",
+          "titulo": "Dispõe sobre a coleta, processamento, estocagem, distribuição e transfusão de sangue e seus componentes para uso veterinário em cães e gatos; institui o Sistema Nacional de Hemoterapia Veterinária – SINVET; e dá outras providências. (Lei de Segurança Transfusional Veterinária)",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628183",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-05-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2617406",
+          "num": "PL 1899/2026",
+          "titulo": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei 5.452, de 1º de maio de 1943, e a Lei 8.213, de 24 de julho de 1991, para aperfeiçoar a legislação que trata da aprendizagem, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617406",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-04-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2607592",
+          "num": "PL 1043/2026",
+          "titulo": "Institui a Política de Prevenção e Repressão a Crimes Cibernéticos contra Animais, dispondo sobre a prevenção, tipificação, investigação e repressão de crimes cometidos por meio eletrônico ou digital, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607592",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2026-03-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2603495",
+          "num": "PL 612/2026",
+          "titulo": "Acrescenta ao art. 16º da Medida Provisória, o inciso XXI, § 4º, § 5º, § 6º e § 7º que altera o art. 16º da Lei nº 8.080, de 19 de setembro de 1990.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603495",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-02-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2603099",
+          "num": "PL 565/2026",
+          "titulo": "Institui o Canal Nacional de Denúncia de Maus-Tratos contra Animais e estabelece mecanismos de registro, acompanhamento e encaminhamento das denúncias.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603099",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-02-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2603098",
+          "num": "PL 564/2026",
+          "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a prestação de serviços à comunidade em casos de ato infracional envolvendo maus-tratos contra animais",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603098",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-02-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2603097",
+          "num": "PL 563/2026",
+          "titulo": "Altera a Lei nº 9.795, de 27 de abril de 1999, para incluir a proteção e o bem-estar animal como conteúdo obrigatório no âmbito da educação ambiental.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603097",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-02-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2601275",
+          "num": "PL 383/2026",
+          "titulo": "Institui a disciplina Educação em Proteção e Direitos dos Animais como conteúdo obrigatório na educação básica; dispõe sobre a punição para crimes de maus-tratos a animais, tornando-os hediondos e imprescritíveis; estabelece a perda da guarda e tutela ao condenado; dispõe sobre o atendimento público à saúde animal e o controle populacional por meio de esterilização gratuita e cria o Cadastro Nacional de Pessoas Condenadas por Crimes Contra Animais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601275",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2599960",
+          "num": "PL 10/2026",
+          "titulo": "Altera os arts. 122 e 123 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para incluir hipótese de aplicação da medida socioeducativa de internação nos casos de ato infracional consistente em maus-tratos a animais; e atendimento psicológico e psicossocial ao término do período de internação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599960",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2599959",
+          "num": "PL 9/2026",
+          "titulo": "Institui a Política Nacional de Prevenção e Resposta a Violências Sexuais em Ambientes de Convivência Intensiva e Eventos com Registro Audiovisual, cria deveres de prevenção, acolhimento, canal de denúncia, preservação de provas, estabelece sanções administrativas e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599959",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2599940",
+          "num": "PL 7/2026",
+          "titulo": "Dispõe sobre a proteção integral dos animais comunitários e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599940",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2599939",
+          "num": "PL 6/2026",
+          "titulo": "Dispõe sobre a proibição da guarda, posse e propriedade de animais por pessoas condenadas pelo crime de maus-tratos, institui o Cadastro Nacional de Pessoas Impedidas de Adotar ou Adquirir Animais e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599939",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2599938",
+          "num": "PL 5/2026",
+          "titulo": "Institui o Dia Nacional do Animal Comunitário – Cão Orelha, a ser celebrado anualmente no dia 4 de janeiro, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599938",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2597593",
+          "num": "PL 6484/2025",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispensar a realização de audiência de custódia nos casos de prisão decorrente de crime de maus-tratos a animais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2597593",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-12-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2596848",
+          "num": "PL 6449/2025",
+          "titulo": "Dispõe sobre a proibição da fabricação, comercialização, transporte, manuseio e utilização de fogos de artifício e artefatos pirotécnicos de estampido em todo o território nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2596848",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-12-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2587744",
+          "num": "PL 5970/2025",
+          "titulo": "Altera a Lei nº 7.713, de 22 de dezembro de 1988 para incluir as doenças elencadas abaixo no rol de doenças para as quais há previsão de isenção do imposto de renda sobre os proventos de aposentadoria ou reforma.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2587744",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-11-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2579738",
+          "num": "PL 5556/2025",
+          "titulo": "Altera a Lei nº 13.260, de 16 de março de 2016 (Lei Antiterrorismo), para incluir como ato de terrorismo as ações de organizações criminosas armadas que, mediante violência ou grave ameaça, pratiquem atos de domínio territorial, intimidação da população ou desestabilização da ordem pública, e amplia o alcance da lei a novas infraestruturas críticas, crimes relacionados e práticas que visem causar pânico, caos ou controle social.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2579738",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2577912",
+          "num": "PL 5448/2025",
+          "titulo": "Altera o § 2º do art. 28-A do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para vedar a aplicação do acordo de não persecução penal nos crimes praticados contra criança ou adolescente.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2577912",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-10-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2567109",
+          "num": "PL 4937/2025",
+          "titulo": "Altera o art. 148 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – (Código Penal), para agravar a pena do crime de cárcere privado quando praticado por tutor, curador, guardião ou responsável legal da vítima.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2567109",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-10-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2565953",
+          "num": "PL 4876/2025",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre a qualificadora do crime de falsificação, corrupção, adulteração ou alteração de substância ou produto alimentício ou bebida, quando da conduta resultar lesão grave ou morte; inclui referido crime no rol da Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos); e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2565953",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2025-09-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2562641",
+          "num": "PL 4688/2025",
+          "titulo": "Dispõe sobre a proteção de agentes públicos em situação de risco em decorrência do exercício da função, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562641",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-09-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2557477",
+          "num": "PL 4460/2025",
+          "titulo": "Dispõe sobre a aplicação obrigatória de castração química a condenados pelos crimes de estupro e violação sexual mediante fraude, durante o cumprimento da pena privativa de liberdade, e altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2557477",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+          "dataApresentacao": "2025-09-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2556748",
+          "num": "PL 4399/2025",
+          "titulo": "Dispõe sobre maus-tratos aos animais; institui a Política Nacional para o Sistema de Informações de Maus-Tratos aos Animais (PONSIMTA); institui o Sistema de Informações de Maus-Tratos aos Animais (SIMTA); institui o Observatório de Maus-Tratos aos Animais (OMA); e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2556748",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-09-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2554835",
+          "num": "PL 4324/2025",
+          "titulo": "Altera a Lei nº 11.343, de 23 de agosto de 2006, para tornar mais rigorosos os requisitos para aplicação da causa de diminuição de pena prevista no § 4º do art. 33, conhecida como tráfico privilegiado, e aprimorar o combate ao tráfico ilícito de drogas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554835",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-08-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2554834",
+          "num": "PL 4323/2025",
+          "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para tipificar o crime de aliciamento cibernético em tempo real e agravar penas para a utilização de inteligência artificial na produção de material de exploração sexual infantil.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554834",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Análise)",
+          "dataApresentacao": "2025-08-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2554833",
+          "num": "PL 4322/2025",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para extinguir a audiência de custódia.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554833",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-08-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2539065",
+          "num": "PL 3656/2025",
+          "titulo": "Institui o Cadastro Nacional de Condenados por Violência Doméstica e Familiar contra a Mulher – CNVD-Mulher – e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539065",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-07-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2529111",
+          "num": "PL 3112/2025",
+          "titulo": "Revoga dispositivos da Lei nº 14.182, de 12 de julho de 2021, oriundos do Projeto de Lei nº 576, de 2021, que inserem obrigações de contratação compulsória de fontes energéticas específicas, por serem estranhos ao objeto original da proposição, e que geram impactos negativos à modicidade tarifária, à livre iniciativa, à liberdade econômica e à sustentabilidade do setor elétrico.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2529111",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-06-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2527654",
+          "num": "PL 3016/2025",
+          "titulo": "Dispõe sobre a vedação de cláusulas em convenções condominiais que proíbam a guarda, tutela ou permanência de animais domésticos ou domesticados nas unidades autônomas, bem como estabelece direitos, deveres e garantias aos tutores e aos animais; acrescenta novo parágrafo ao art. 1.334, da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2527654",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-06-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2520707",
+          "num": "PL 2724/2025",
+          "titulo": "Altera a Lei nº 11.794, de 8 de outubro de 2008; e a Lei nº 6.360, de 23 de setembro de 1976, para dispor sobre a proibição da utilização de animais em testes visando ao desenvolvimento de produtos acabados ou ingredientes que componham ou venham a compor produtos de higiene pessoal, cosméticos, farmacêuticos e perfumes, e dá outras providências",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2520707",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-06-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2516743",
+          "num": "PL 2559/2025",
+          "titulo": "Dispõe sobre a obrigatoriedade de que o curso de graduação em medicina veterinária seja realizado exclusivamente na modalidade presencial.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516743",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-05-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2515816",
+          "num": "PL 2515/2025",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 03 de outubro de 1941 - Código de Processo Penal, e a Lei nº 7.210, de 11 de julho de 1984 -  Lei de Execução Penal, para incluir a regressão cautelar de regime de cumprimento de pena em sede de audiência de custódia, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515816",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-05-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2515534",
+          "num": "PL 2475/2025",
+          "titulo": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515534",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-05-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2497893",
+          "num": "PL 1695/2025",
+          "titulo": "Dispõe sobre a obrigatoriedade de notificação à autoridade policial nos casos de interrupção de gestação decorrente de estupro, preservação de material genético para fins periciais e adoção de medidas de proteção à vítima, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497893",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-04-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2491047",
+          "num": "PL 1313/2025",
+          "titulo": "Proíbe a corrida de charrete e similares, torna crime a prática e estabelece penas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491047",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-03-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2488216",
+          "num": "PL 1158/2025",
+          "titulo": "Altera a Lei nº 14.620, de 13 de julho de 2023, para vedar o acesso e a permanência no Programa Minha Casa, Minha Vida daqueles que tenham sido condenados, nos termos da Lei nº 9.605, de 12 de fevereiro de 1998, por prática de abuso, maus-tratos, ferimento ou mutilação de animais, com o objetivo de contribuir para a prevenção de comportamentos violentos e para a promoção da segurança.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488216",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-03-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2485940",
+          "num": "PL 769/2025",
+          "titulo": "Veda a censura prévia em ambientes virtuais e na imprensa, assegurando o exercício pleno da liberdade de expressão, nos termos da Constituição Federal e legislação vigente.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485940",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-03-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2485316",
+          "num": "PL 667/2025",
+          "titulo": "Altera a Lei nº 13.022, de 08 de agosto de 2014 – Estatuto Geral das Guardas Municipais, para permitir a adoção da nomenclatura ‘Polícia Municipal”, condicionada ao cumprimento da Lei nº 13.675, de 2018, que institui o Sistema Único de Segurança Pública (SUSP), e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485316",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-02-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482878",
+          "num": "PL 258/2025",
+          "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro, para incluir o art. 304-A, que dispõe sobre o crime de omissão de socorro a animais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482878",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482877",
+          "num": "PL 257/2025",
+          "titulo": "Altera a Lei nº 7.797, de 10 de julho de 1989, que cria o Fundo Nacional de Meio Ambiente, para incluir o bem-estar animal entre as prioridades de aplicação dos recursos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482877",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482876",
+          "num": "PL 256/2025",
+          "titulo": "Dispõe sobre a tipificação do estupro no contexto de relações conjugais e de afeto.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482876",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482875",
+          "num": "PL 255/2025",
+          "titulo": "Altera o art. 24 da Lei nº 11.340, de 7 de agosto de 2006, para incluir novas medidas protetivas patrimoniais em casos de violência doméstica e familiar.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482875",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482874",
+          "num": "PL 254/2025",
+          "titulo": "Dispõe sobre a concessão de benefício assistencial e medidas de suporte aos indivíduos diagnosticados com Epidermólise Bolhosa - EB.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482874",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2479874",
+          "num": "PL 4875/2024",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para tipificar o crime de zoofilia/zooerastia, prever agravantes em casos de morte e estabelecer a possibilidade de aplicação de castração química aos infratores.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479874",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-12-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2471953",
+          "num": "PL 4525/2024",
+          "titulo": "Institui medidas de combate ao assédio em transportes públicos; estabelece penalidades e determina a criação de campanhas de conscientização e proteção às vítimas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2471953",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-11-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2471163",
+          "num": "PL 4493/2024",
+          "titulo": "Veda a importação e a exportação de animais silvestres vivos, ressalvados os casos de pesquisa científica ou programas de conservação ex situ oficialmente reconhecidos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2471163",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-11-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2467872",
+          "num": "PL 4316/2024",
+          "titulo": "Define maus-tratos contra animais vertebrados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2467872",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-11-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2466746",
+          "num": "PL 4242/2024",
+          "titulo": "Dispõe sobre a criação do Programa Farmácia Veterinária Popular e dá outras providencias.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2466746",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-11-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2466088",
+          "num": "PL 4178/2024",
+          "titulo": "Acrescenta o art. 24-A no Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para considerar em estado de necessidade quem pratica o fato para salvar animal de perigo atual ou iminente de morte ou lesão grave.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2466088",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2466087",
+          "num": "PL 4177/2024",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais), para incluir a modalidade culposa no crime de maus-tratos a animais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2466087",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2463628",
+          "num": "PL 4030/2024",
+          "titulo": "Dispõe sobre a concessão de isenção de impostos federais incidentes sobre as faturas de energia elétrica para pessoas físicas e jurídicas residentes em áreas atingidas por apagões de média a longa duração, no território nacional, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2463628",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-10-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2456357",
+          "num": "PL 3415/2024",
+          "titulo": "Inclui, no calendário oficial de datas comemorativas da República Federativa do Brasil, o Dia Nacional da Letônia, a ser comemorado anualmente na data de sua independência.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2456357",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-09-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2455010",
+          "num": "PL 3304/2024",
+          "titulo": "Aumenta a pena para o crime de produção de incêndio em floresta ou em demais formas de vegetação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2455010",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2451308",
+          "num": "PL 3077/2024",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, para tipificar como crime a manutenção de animais presos com correntes ou objetos assemelhados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2451308",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-08-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2432890",
+          "num": "PL 1749/2024",
+          "titulo": "Estabelece medidas para ampliar a proteção da mulher vítima de violência doméstica e familiar.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432890",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-05-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2423847",
+          "num": "PL 1005/2024",
+          "titulo": "Institui um sistema de prioridade de atendimento e mecanismos de proteção aos filhos ou filhas de vítimas de crimes de feminicídio, ou lesão corporal seguida de crime doloso consumado envolvendo violência doméstica, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2423847",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-03-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2423187",
+          "num": "PL 951/2024",
+          "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997 que“Institui o Código de Trânsito Brasileiro”para incluir o abandono de animais como crime em espécie, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2423187",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-03-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2423170",
+          "num": "PL 947/2024",
+          "titulo": "Altera a Lei nº 11.977, de 7 de julho de 2009, que“Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV (...)” para incluir a instalação ou criação de espaços de convivência para animais domésticos, no entorno dos empreendimentos do PMCMV, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2423170",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2024-03-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2423169",
+          "num": "PL 946/2024",
+          "titulo": "Altera a Lei nº 11.977, de 7 de julho de 2009, que“Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV (...)” para incluir a difusão da proteção e dos direitos dos animais, nos trabalhos sociais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2423169",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-03-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2423168",
+          "num": "PL 945/2024",
+          "titulo": "Altera a Lei nº 11.977, de 7 de julho de 2009, que “Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV (...)” para dar prioridade no atendimento às mulheres que tenham sofrido violência doméstica ou familiar, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2423168",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-03-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2423167",
+          "num": "PL 944/2024",
+          "titulo": "Altera a Lei nº 11.977, de 7 de julho de 2009, que “Dispõe sobre o Programa Minha Casa, Minha Vida – PMCMV (...)” para incluir existência ou compromisso da utilização de matrizes de energia limpa e renováveis para a execução e manutenção dos  empreendimentos do PMCMV, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2423167",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-03-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2418655",
+          "num": "PL 431/2024",
+          "titulo": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), para incluir, entre as hipóteses de não comparecimento ao serviço, o acompanhamento a animal doméstico em consulta veterinária, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2418655",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-02-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2416907",
+          "num": "PL 41/2024",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para majorar a pena prevista para o art. 29 da referida Lei, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416907",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-02-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2416906",
+          "num": "PL 40/2024",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para prever a responsabilização pelo pagamento das despesas decorrentes do cuidado com o animal, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416906",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2024-02-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2416896",
+          "num": "PL 34/2024",
+          "titulo": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para proibir a nomeação de pessoas condenadas por crimes tipificados como de violência doméstica e familiar contra a mulher, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416896",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-02-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2416877",
+          "num": "PL 25/2024",
+          "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, para estabelecer a cassação do Documento de Habilitação do infrator que abandonar animal na rua, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416877",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2024-02-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2414690",
+          "num": "PL 6079/2023",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para majorar a pena de maus-tratos a cães e gatos, quando praticado o delito por dono, responsável, representante ou funcionário de pet shop, hotel pet ou estabelecimento similar, em face de animal que esteja sob os seus cuidados, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2414690",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-12-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2408909",
+          "num": "PL 5829/2023",
+          "titulo": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal) e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para disciplinar a progressão de regime e o livramento condicional nos crimes dolosos contra a vida praticados contra vulnerável e nos crimes sexuais contra vulneráveis, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2408909",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-12-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400938",
+          "num": "PL 5309/2023",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para proibir a celebração de Acordo de Não Persecução Penal – ANPP nos crimes de maus-tratos a cães e gatos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400938",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-11-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2399585",
+          "num": "PL 5225/2023",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), majorar a pena do crime de maus-tratos a animais, aumentar o valor da multa aos tutores que não utilizam a devida proteção, criar uma majorante no crime de perseguição e dar outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2399585",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-10-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2395717",
+          "num": "PL 4964/2023",
+          "titulo": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre infrações cometidas em veículos destinados ao socorro e salvamento de animais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2395717",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2388148",
+          "num": "PL 4508/2023",
+          "titulo": "Altera a Lei nº 9.434, de 4 de fevereiro de 1997 (Lei de Transplantes), para dar prevalência à demonstração de vontade em vida do pretenso doador de órgãos e tecidos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2388148",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-09-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2385031",
+          "num": "PL 4278/2023",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para aprimorar a proteção dos animais silvestres.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2385031",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-09-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2384903",
+          "num": "PL 4263/2023",
+          "titulo": "Torna obrigatório o descanso digno aos profissionais de medicina veterinária.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2384903",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-08-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2372564",
+          "num": "PL 3385/2023",
+          "titulo": "Altera as Leis nº 9.605, de 12 de fevereiro de 1998, e nº 7.960, de 21 de dezembro de 1989, para tipificar o crime de zoorastia.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2372564",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-07-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2358791",
+          "num": "PL 2219/2023",
+          "titulo": "Classifica o ceratocone, de graus 3 e 4, como deficiência sensorial, do tipo visual, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2358791",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-04-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2350291",
+          "num": "PL 918/2023",
+          "titulo": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para dispor sobre o direito de garantia de proteção e de segurança de vítimas de violência doméstica e de seus animais de estimação e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350291",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-03-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2349503",
+          "num": "PL 712/2023",
+          "titulo": "Dispõe sobre a proibição de comercialização de animais domésticos e silvestres pela internet.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349503",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2349314",
+          "num": "PL 665/2023",
+          "titulo": "Altera a Lei nº 14.228, de 20 de outubro de 2021, para proibir, em todo o território nacional, a eliminação da vida e o sacrifício de animais apreendidos e/ou encontrados em lugares e/ou vias públicas e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349314",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2348908",
+          "num": "PL 564/2023",
+          "titulo": "Institui a Política de Prevenção de Acidentes Elétricos com Animais Silvestres, para os fins que especifica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348908",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2348837",
+          "num": "PL 535/2023",
+          "titulo": "Altera as Leis nº 9.277, de 10 de maio de 1996, e o Decreto-Lei nº 512, de 21 de março de 1969, para dispor sobre a construção de passagens para a fauna nas rodovias federais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348837",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347143",
+          "num": "PL 317/2023",
+          "titulo": "Institui a \"Política de Inclusão - Cão de Suporte Emocional\", para os fins que especifica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347143",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-02-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347099",
+          "num": "PL 293/2023",
+          "titulo": "Institui a \"Semana Nacional de Conscientização sobre a relação entre os maus-tratos aos animais e a violência doméstica (Teoria do Elo)\", e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347099",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2023-02-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347076",
+          "num": "PL 276/2023",
+          "titulo": "Dispõe sobre a permissão para a visitação de animais domésticos e de estimação em hospitais privados, públicos, contratados, conveniados e cadastrados no Sistema Único de Saúde – SUS e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347076",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347075",
+          "num": "PL 275/2023",
+          "titulo": "Regulamenta a permanência de Animais Comunitários em locais públicos e em condomínios, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347075",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347058",
+          "num": "PL 260/2023",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais) para impor ao autor da infração os custos materiais do resgate de animais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347058",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347057",
+          "num": "PL 259/2023",
+          "titulo": "Altera o art. 26 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir o Direito dos Animais e a Proteção Animal como componentes obrigatórios dos currículos do ensino fundamental e do ensino médio.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347057",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347056",
+          "num": "PL 258/2023",
+          "titulo": "Dispõe sobre medidas de segurança a serem adotadas por administradores de bares, casas de shows, restaurantes e estabelecimentos similares, visando à proteção das mulheres, inclusive transexuais, em suas dependências, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347056",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347055",
+          "num": "PL 257/2023",
+          "titulo": "Cria o Programa de Combate à Fome nos períodos de férias escolares de crianças, de adolescentes e de jovens matriculados nas escolas da rede pública de ensino, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347055",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2347054",
+          "num": "PL 256/2023",
+          "titulo": "Dispõe sobre a veiculação de propagandas de combate à violência contra a mulher e contra o abuso e a exploração sexual de crianças e adolescentes, nos shows que forem realizados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2347054",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346969",
+          "num": "PL 222/2023",
+          "titulo": "Altera a Lei nº 13.675, de 11 de junho de 2018, para vedar o emprego de tropa hipomóvel no controle de distúrbios civis.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346969",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346968",
+          "num": "PL 221/2023",
+          "titulo": "Altera o art. 453 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei n° 5.452, de 1° de maio de 1943, a fim de permitir a ausência ao serviço no caso de falecimento de cão ou gato de estimação, devidamente comprovado por estabelecimento responsável em atestar o óbito dos mesmos ou por médico veterinário registrado em Conselho Regional de Medicina Veterinária.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346968",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346967",
+          "num": "PL 220/2023",
+          "titulo": "Proíbe a comercialização de fogos de artifício com estampido.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346967",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346966",
+          "num": "PL 219/2023",
+          "titulo": "Proíbe a prática de aluguel de animais e altera a Lei nº 9.605, de 1998.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346966",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346965",
+          "num": "PL 218/2023",
+          "titulo": "Proíbe a investidura em cargos ou empregos públicos de pessoas condenadas por maus-tratos aos animais, pelo prazo de 10 anos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346965",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346947",
+          "num": "PL 201/2023",
+          "titulo": "Dispõe sobre a prioridade das mulheres responsáveis pela unidade familiar, vítimas de violência doméstica e de baixa renda, na contratação de financiamentos habitacionais e nos programas de habitação de interesse social promovidos pelos Governos Federal, Estaduais e Municipais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346947",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346946",
+          "num": "PL 200/2023",
+          "titulo": "Dispõe sobre a concessão de auxílio-aluguel às mulheres vítimas de violência doméstica, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346946",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346915",
+          "num": "PL 184/2023",
+          "titulo": "Criminaliza condutas praticadas contra cães e gatos, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346915",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346913",
+          "num": "PL 182/2023",
+          "titulo": "Altera a Lei n.º 9.605, de 12 de fevereiro de 1998, para criar o tipo penal de tráfico de animais silvestres e dar outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346913",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346912",
+          "num": "PL 181/2023",
+          "titulo": "Altera as Leis nº 9.605, de 12 de fevereiro de 1998, nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e nº 7.960, de 21 de dezembro de 1989, para estabelecer a pena de reclusão a quem forçar animais silvestres, domésticos ou domesticados, nativos ou exóticos, a agredirem-se com vistas ao entretenimento humano, tornar hedionda essa conduta e permitir a prisão temporária do indiciado.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346912",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346911",
+          "num": "PL 180/2023",
+          "titulo": "Fixa a determinação para comunicação de maus-tratos aos animais e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346911",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346910",
+          "num": "PL 179/2023",
+          "titulo": "Reconhece a família multiespécie como entidade familiar e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346910",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346909",
+          "num": "PL 178/2023",
+          "titulo": "Altera as Leis nº 9.605, de 12 de fevereiro de 1998, nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e nº 7.960, de 21 de dezembro de 1989, para tipificar o crime de zooerastia, torná-lo hediondo e permitir a prisão temporária do indiciado.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346909",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346908",
+          "num": "PL 177/2023",
+          "titulo": "Altera as Leis nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e nº 7.960, de 21 de dezembro de 1989, para tornar hediondo o crime de maus-tratos aos animais e permitir a prisão temporária do indiciado.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346908",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346907",
+          "num": "PL 176/2023",
+          "titulo": "Fixa a determinação para a proibição de utilização de veículos movidos à tração animal e à exploração animal para esse fim; altera a Lei nº 9.605, de 12 de fevereiro de 1998, para criminalizar tal conduta e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346907",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346906",
+          "num": "PL 175/2023",
+          "titulo": "Fixa a determinação para a proibição de manuseio, de utilização, de queima e de soltura de fogos de estampido e de artifícios e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346906",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346903",
+          "num": "PL 174/2023",
+          "titulo": "Proíbe de utilização de animais para atividades de entretenimento, regulamenta o art. 225, § 7º da Constituição Federal e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346903",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346901",
+          "num": "PL 173/2023",
+          "titulo": "Estabelece a forma de transporte de animais vivos e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346901",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346899",
+          "num": "PL 172/2023",
+          "titulo": "Fixa a determinação para a prestação de socorro a animais atropelados em vias públicas e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346899",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346898",
+          "num": "PL 171/2023",
+          "titulo": "Disciplina a capacidade de ser parte dos animais não-humanos em processos judiciais e inclui o inciso XII ao art. 75 da Lei n.º 13.105, de 16 de março de 2015 – Código de Processo Civil, para determinar quem poderá representar animais em juízo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346898",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346888",
+          "num": "PL 166/2023",
+          "titulo": "Dispõe sobre a adoção de atividades com fins educativos para enfrentamento à violência e reparação de danos causados no âmbito dos estabelecimentos públicos e privados de ensino, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346888",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2346885",
+          "num": "PL 165/2023",
+          "titulo": "Dispõe sobre a nulidade da nomeação ou contratação, para determinados cargos e empregos públicos, de pessoa condenada por crime sexual contra criança ou adolescente.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2346885",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2345639",
+          "num": "PL 9/2023",
+          "titulo": "Institui o Registro Eletrônico de Vacinações dos Animais de Estimação e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2345639",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-02",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220642",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 40269070,
+      "restituicoesCentavos": 0,
+      "registros": 127,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 5382411
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 4197960
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 5333025
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 5062143
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 8286191
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 3191994
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 3224641
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 3201668
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 2389037
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 4491232
+        },
+        {
+          "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "totalCentavos": 12383946
+        },
+        {
+          "nome": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "totalCentavos": 77480
+        },
+        {
+          "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalCentavos": 12090000
+        },
+        {
+          "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalCentavos": 11226412
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220642",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:20:06.449078+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/220642/presenca-plenario/2026"
+      ],
+      "totalDias": 69,
+      "presenca": 66,
+      "justificada": 2,
+      "naoJustificada": 1,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-02-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-18",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-14",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-22",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-23",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-29",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-30",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-06",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-15",
+          "situacao": "Ausência",
+          "classificacao": "naoJustificada"
+        },
+        {
+          "data": "2026-05-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-20",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-21",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-27",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

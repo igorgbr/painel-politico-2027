@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-389796ed-72ac-571b-8ffe-4aadacb4453d",
+  "mandatoId": "tse-2026-50002532635",
+  "historico": "Histórico Câmara: 23 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "205476",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 23,
+      "projetos": [
+        {
+          "id": "2619990",
+          "num": "PL 2069/2026",
+          "titulo": "Dispõe sobre a obrigatoriedade de instalação de pontos de recarga para veículos elétricos em postos de combustíveis, com prioridade em rodovias, e sobre a facilitação de pagamento por meio digital.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619990",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-04-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2611587",
+          "num": "PL 1372/2026",
+          "titulo": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, para dispor sobre a portabilidade de excedente ou de crédito de energia elétrica no âmbito do Sistema de Compensação de Energia Elétrica (SCEE).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611587",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-03-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2563877",
+          "num": "PL 4736/2025",
+          "titulo": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei n° 5.452, de 1° de maio de 1943, para conferir prioridade à tramitação de processos trabalhistas em que a reclamante seja mulher gestante ou lactante.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2563877",
+          "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+          "dataApresentacao": "2025-09-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2525861",
+          "num": "PL 2909/2025",
+          "titulo": "Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), para estabelecer a possibilidade de requerimento adicional de autorização de pesquisa de substâncias minerais distintas daquelas previstas no título autorizativo original, desde que não haja incompatibilidade com os planos de pesquisa ou lavra já aprovados pela Agência Nacional de Mineração – ANM, e dá outras providências",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2525861",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2516693",
+          "num": "PLP 124/2025",
+          "titulo": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516693",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+          "dataApresentacao": "2025-05-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2516689",
+          "num": "PL 2554/2025",
+          "titulo": "Dispõe sobre o critério de desempate em licitações, alterando o art. 60 da Lei nº 14.133, de 1º de abril de 2021.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516689",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-05-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2511196",
+          "num": "PLP 119/2025",
+          "titulo": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2511196",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2025-05-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2498612",
+          "num": "PL 1769/2025",
+          "titulo": "Aumenta a pena do crime de incêndio em floresta ou em demais formas de vegetação e equipara a essa conduta a utilização de fogo em vegetação sem autorização do órgão competente ou em desacordo com a obtida",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2498612",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-04-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2496165",
+          "num": "PL 1598/2025",
+          "titulo": "Sugere ao Poder Executivo, por intermédio do Ministério da Saúde, a inclusão no calendário de campanhas de saúde pública de campanha sobre riscos e consequências do uso excessivo de telas e de tecnologias digitais por crianças e adolescentes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2496165",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2025-04-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2496161",
+          "num": "PL 1597/2025",
+          "titulo": "Altera a Lei nº 15.117, de 2 de abril de 2025 para dispor sobre a veiculação gratuita por emissoras de rádio e televisão de informação educativa sobre o uso excessivo de telas por crianças e adolescentes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2496161",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-04-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2496156",
+          "num": "PL 1596/2025",
+          "titulo": "Autoriza a Caixa Econômica Federal a conceder cashback aos participantes das loterias por ela executadas",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2496156",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-04-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2483837",
+          "num": "PL 409/2025",
+          "titulo": "Altera as Leis nº 10.332, de 19 de dezembro de 2001, nº 11.540, de 12 de novembro de 2007, e nº 13.756, de 12 de dezembro de 2018, para destinar recursos de prêmios lotéricos não reclamados ao Programa de Fomento à Pesquisa em Saúde por meio do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483837",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-02-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2418961",
+          "num": "PL 498/2024",
+          "titulo": "Dispõe sobre cobrança de compensação financeira de agentes geradores de energia eólica e solar.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2418961",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2024-02-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2418054",
+          "num": "PL 305/2024",
+          "titulo": "Institui pensão especial para pessoas com epidermólise bolhosa inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2418054",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-02-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2417972",
+          "num": "PL 283/2024",
+          "titulo": "Institui pensão especial para pessoas com epidermólise bolhosa inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2417972",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2024-02-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2412552",
+          "num": "PL 5979/2023",
+          "titulo": "Altera a Lei nº 5.603, de 1970, para denominar Rodovia Vasco Neto o trecho da rodovia BR-030 compreendido entre o Município de Mambaí, no Estado de Goiás, e o Município de Carinhanha, no Estado da Bahia.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2412552",
+          "situacao": "Devolvida ao(à) Autor(a)",
+          "dataApresentacao": "2023-12-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2412551",
+          "num": "PL 5978/2023",
+          "titulo": "Altera a Lei nº 7.565, de 1986, que “Dispõe sobre o Código Brasileiro de Aeronáutica”, para prever a realização de exame toxicológico na tripulação e no pessoal empregado em atividade de risco à segurança operacional na aviação civil.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2412551",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-12-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2398029",
+          "num": "PL 5095/2023",
+          "titulo": "Altera a Lei nº 5.603, de 1970, para denominar Rodovia Vasco Neto o trecho da rodovia BR-030 compreendido entre o Município de Mambaí, no Estado de Goiás, e o Município de Carinhanha, no Estado da Bahia.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2398029",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-10-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2385715",
+          "num": "PLP 186/2023",
+          "titulo": "Acrescenta o parágrafo único ao art. 37 e o parágrafo 3ª ao art. 63 da Lei nº 4.320, de 17 de março de 1964, que estatui Normas Gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal, para otimizar a utilização de recursos do Orçamento Geral da União inscritos em restos a pagar não processados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2385715",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-09-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2357112",
+          "num": "PLP 95/2023",
+          "titulo": "Aprova o ato que outorga permissão ao Instituto Federal de Educação, Ciência e Tecnologia da Bahia para executar serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município Jacobina, Estado da Bahia.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2357112",
+          "situacao": "Devolvida ao(à) Autor(a)",
+          "dataApresentacao": "2023-04-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2354789",
+          "num": "PL 1592/2023",
+          "titulo": "Altera a Lei nº 10.826, de 22 de dezembro de 2003 – Estatuto do Desarmamento, para permitir o porte e o transporte, em todo o território nacional, de arma de fogo para a categoria colecionadores, atiradores e caçadores - CACs.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2354789",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-04-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2354788",
+          "num": "PL 1591/2023",
+          "titulo": "Altera a Lei nº 11.947, de 2009, que dispõe sobre a alimentação escolar, para estabelecer a obrigatoriedade da avaliação nutricional periódica dos alunos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2354788",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-04-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2354787",
+          "num": "PL 1590/2023",
+          "titulo": "Altera a Lei nº 10.826, de 22 de dezembro de 2003 - Estatuto do Desarmamento, para dispor sobre a aquisição e porte de arma de fogo e sobre a aquisição de acessórios e munições.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2354787",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-04-03",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "205476",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 20742169,
+      "restituicoesCentavos": 0,
+      "registros": 197,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 535677
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 4242045
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 3854540
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 4007332
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 4728020
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 1037477
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 853568
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 799494
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 684016
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 7158173
+        },
+        {
+          "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "totalCentavos": 12360000
+        },
+        {
+          "nome": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "totalCentavos": 209902
+        },
+        {
+          "nome": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "totalCentavos": 673460
+        },
+        {
+          "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalCentavos": 60890
+        },
+        {
+          "nome": "TELEFONIA",
+          "totalCentavos": 279744
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "205476",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:18:53.024567+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/205476/presenca-plenario/2026"
+      ],
+      "totalDias": 69,
+      "presenca": 69,
+      "justificada": 0,
+      "naoJustificada": 0,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-02-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-18",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-22",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-23",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-29",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-06",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-20",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-21",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-27",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

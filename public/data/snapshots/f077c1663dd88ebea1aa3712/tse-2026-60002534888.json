@@ -1,0 +1,616 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-a2b2e53a-9c58-57e7-82dd-c68da258077d",
+  "mandatoId": "tse-2026-60002534888",
+  "historico": "Histórico Câmara: 12 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "62881",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 12,
+      "projetos": [
+        {
+          "id": "2644654",
+          "num": "PL 5192/2026",
+          "titulo": "Institui o Programa Nacional Neuroinfância, destinado ao financiamento de projetos municipais de avaliação interdisciplinar, cuidado continuado e navegação familiar para crianças e adolescentes com transtornos do neurodesenvolvimento ou em processo de avaliação, estabelece incentivo fiscal, altera a Lei nº 9.250, de 26 de dezembro de 1995, e revoga o art. 22 da Lei nº 9.532, de 10 de dezembro de 1997.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644654",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2616664",
+          "num": "PL 1854/2026",
+          "titulo": "Institui o Dia Nacional do Corredor de Rua.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616664",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-04-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2602943",
+          "num": "PL 544/2026",
+          "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre infração de trânsito registrada por equipamento audiovisual.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602943",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-02-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2504606",
+          "num": "PL 2125/2025",
+          "titulo": "Revoga dispositivo da Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, e dá outras providências, para vedar o desconto em folha de pagamento de mensalidades em associações e demais entidades de aposentados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2504606",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2025-05-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2496914",
+          "num": "PL 1638/2025",
+          "titulo": "Dispõe sobre a concessão de descontos tarifários para unidades consumidoras que utilizam energia elétrica em atividades de irrigação e aquicultura.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2496914",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+          "dataApresentacao": "2025-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2490514",
+          "num": "PL 1283/2025",
+          "titulo": "Altera a Lei nº 13.260, de 16 de março de 2016 (Lei Antiterrorismo), para ampliar as motivações do crime de terrorismo, especificar infraestruturas críticas e serviços de utilidade pública, estender a aplicação da lei a organizações criminosas e a milícias privadas que realizem atos de terrorismo, além de estabelecer majorante para ato de terror cometido por meio de recurso cibernético.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2490514",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-03-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2459469",
+          "num": "PL 3756/2024",
+          "titulo": "Inclui no calendário turístico oficial do País o Festival Sana, no Município de Fortaleza, Estado do Ceará.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2459469",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-09-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2449128",
+          "num": "PL 2882/2024",
+          "titulo": "Inscreve o nome de Gonçalo Ignacio de Loiola Albuquerque e Mello no Livro dos Heróis e Heroínas da Pátria.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2449128",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-07-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2431855",
+          "num": "PL 1639/2024",
+          "titulo": "Altera a Lei nº 10.438, de 26 de abril de 2002, para destinar, no exercício de 2024, parcela do resultado da comercialização de energia de Itaipu que cabe ao Brasil para ações de enfrentamento da calamidade pública no Estado do Rio Grande do Sul e as suas consequências sociais e econômicas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2431855",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Análise)",
+          "dataApresentacao": "2024-05-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2431838",
+          "num": "PL 1636/2024",
+          "titulo": "Altera a Lei nº 14.182, de 12 de julho de 2021, para permitir a aplicação, no exercício de 2024, dos recursos aportados anualmente pelas concessionárias de geração de energia elétrica localizadas na bacia do Rio São Francisco e na área de influência dos reservatórios das usinas hidrelétricas de Furnas no combate à situação de calamidade pública no Estado do Rio Grande do Sul e seus efeitos econômicos e sociais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2431838",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Análise)",
+          "dataApresentacao": "2024-05-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2420536",
+          "num": "PL 719/2024",
+          "titulo": "Dispõe sobre a prorrogação do prazo de incentivos da Política Industrial Para o Setor de Tecnologias da Informação e Comunicação e para o Setor de Semicondutores, estabelecida pelas Leis nº 11.484, de 31 de maio de 2007 e Lei nº 8.248, de 23 de outubro de 1991, com as alterações da Lei nº 13.969, de 26 de dezembro de 2019.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2420536",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-03-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2365834",
+          "num": "PL 2825/2023",
+          "titulo": "Inclui no calendário oficial do País o “Dia Nacional de Combate ao Crime de Racismo nos Esportes”, a ser celebrado em todo território do Brasil.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2365834",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-29",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "62881",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 33878581,
+      "restituicoesCentavos": 0,
+      "registros": 226,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 2781479
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 3131240
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 6684642
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 7956098
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 3412670
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 3385211
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 2904877
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 2679357
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 943007
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "ASSINATURA DE PUBLICAÇÕES",
+          "totalCentavos": 55847
+        },
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 1573767
+        },
+        {
+          "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "totalCentavos": 12310000
+        },
+        {
+          "nome": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "totalCentavos": 93420
+        },
+        {
+          "nome": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "totalCentavos": 988919
+        },
+        {
+          "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalCentavos": 3681528
+        },
+        {
+          "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalCentavos": 13850566
+        },
+        {
+          "nome": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+          "totalCentavos": 702968
+        },
+        {
+          "nome": "TELEFONIA",
+          "totalCentavos": 621566
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "62881",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:18:59.836555+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/62881/presenca-plenario/2026"
+      ],
+      "totalDias": 69,
+      "presenca": 63,
+      "justificada": 3,
+      "naoJustificada": 3,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-02-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-18",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-26",
+          "situacao": "Ausência",
+          "classificacao": "naoJustificada"
+        },
+        {
+          "data": "2026-04-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-22",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-23",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-29",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-06",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-13",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-14",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-15",
+          "situacao": "Ausência",
+          "classificacao": "naoJustificada"
+        },
+        {
+          "data": "2026-05-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-20",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-21",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-27",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Ausência",
+          "classificacao": "naoJustificada"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

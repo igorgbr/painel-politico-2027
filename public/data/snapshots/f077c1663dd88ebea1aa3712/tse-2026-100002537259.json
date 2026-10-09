@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-ce4dd7ae-da58-52c1-aff6-d643024a66fb",
+  "mandatoId": "tse-2026-100002537259",
+  "historico": "Histórico Câmara: 2 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "227275",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 2,
+      "projetos": [
+        {
+          "id": "2419272",
+          "num": "PL 567/2024",
+          "titulo": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para dispor sobre desconto na conta de energia elétrica para família inscrita no CadÚnico que tenha entre seus membros pessoa com o Transtorno Espectro Autista (TEA).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2419272",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-03-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2417237",
+          "num": "PL 149/2024",
+          "titulo": "Altera a Lei nº 14.254, de 30 de novembro de 2021, quedispõe sobre o acompanhamento integral para educandos com dislexia ou Transtorno do Deficit de Atenção com Hiperatividade (TDAH) ou outro transtorno de aprendizagem, para garantir direito a equipe multiprofissional de atendimento, acesso a medicamentos e direito ao Protocolo Individualizado de Avaliação (PIA) em serviços de educação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2417237",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-02-06",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [],
+  "presencasHistoricas": [],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

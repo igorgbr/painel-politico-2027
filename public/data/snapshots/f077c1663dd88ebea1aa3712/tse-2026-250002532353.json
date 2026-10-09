@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-c9cfe683-8f75-59d8-902a-da7e0163b979",
+  "mandatoId": "tse-2026-250002532353",
+  "historico": "Histórico Câmara: 33 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "222142",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 33,
+      "projetos": [
+        {
+          "id": "2442393",
+          "num": "PL 2499/2024",
+          "titulo": "Dispõe sobre a obrigatoriedade da notificação à autoridade policial, pelos hospitais, clínicas e unidades básicas de saúde, da interrupção de gestação decorrente de estupro e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2442393",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-06-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2441915",
+          "num": "PL 2474/2024",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal Brasileiro), para aumentar as penas aplicáveis às qualificadoras previstas no §2º e seguintes incisos, do artigo 121.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2441915",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2024-06-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2436529",
+          "num": "PL 2058/2024",
+          "titulo": "Cria a Lei de Criminalização do Revenge Porn e Sextorsão.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2436529",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-05-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2428098",
+          "num": "PL 1324/2024",
+          "titulo": "Confere ao município de Peruíbe, localizado no Estado de São Paulo, o título de Capital Nacional da Ufologia.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428098",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2424865",
+          "num": "PL 1116/2024",
+          "titulo": "Altera a Lei nº 1.579, de 18 de março de 1952, que dispõe sobre as Comissões Parlamentares de Inquérito, para possibilitar o acompanhamento das providências adotadas após o encerramento dos trabalhos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424865",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-04-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2421718",
+          "num": "PL 829/2024",
+          "titulo": "Dispõe sobre desconto no valor do bilhete de passagem aérea para acompanhantes de pessoas com autismo e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2421718",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2024-03-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2421417",
+          "num": "PL 807/2024",
+          "titulo": "Altera a Lei 13.756, de 12 de dezembro de 2018, para incluir ações de enfrentamento e combate à vitimização de policiais, incluindo medidas de prevenção, assistência psicossocial e proteção jurídica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2421417",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-03-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2421298",
+          "num": "PL 779/2024",
+          "titulo": "Altera a Lei nº 13.675, de 11 de junho de 2018, para prever o Programa Nacional de Prevenção e Combate à Vitimização dos Profissionais de Segurança Pública e de Defesa Social, acrescenta inciso no § 1º do art. 52 da Lei nº 7.210, de 11 de julho de 1984, e no art. 1.048 da Lei nº 13.105, de 16 de março de 2015, e acrescenta o artigo 23-A e altera o art. 394-A do Decreto-Lei nº 3.689, de 3 de outubro de 1941, para dispor sobre medidas de prevenção e enfrentamento da vitimização dos agentes de segurança pública e de defesa social, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2421298",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2024-03-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2420536",
+          "num": "PL 719/2024",
+          "titulo": "Dispõe sobre a prorrogação do prazo de incentivos da Política Industrial Para o Setor de Tecnologias da Informação e Comunicação e para o Setor de Semicondutores, estabelecida pelas Leis nº 11.484, de 31 de maio de 2007 e Lei nº 8.248, de 23 de outubro de 1991, com as alterações da Lei nº 13.969, de 26 de dezembro de 2019.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2420536",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-03-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2418805",
+          "num": "PL 482/2024",
+          "titulo": "Dispõe sobre a isenção do pagamento de tarifa de bagagem despachada no transporte aéreo para pessoas com autismo e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2418805",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2024-02-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2397390",
+          "num": "PL 5043/2023",
+          "titulo": "Cria o \"selo Verde\" com a finalidade de informar ao consumidor a presença de óleo lubrificante que passou pelo processo de rerrefino na composição de óleo lubrificante automotivo vendidoem todo território nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2397390",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-10-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2391668",
+          "num": "PL 4740/2023",
+          "titulo": "Altera o art. 21 da Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais), para obrigar à instalação de placas com informações relativas aos danos ambientais causados por pessoa jurídica e às respectivas ações de reparação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391668",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-09-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2383411",
+          "num": "PL 4183/2023",
+          "titulo": "Dispõe sobre a aquisição de personalidade jurídica para o regular funcionamento dos movimentos sociais e populares.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2383411",
+          "situacao": "Aguardando Deliberação de Recurso",
+          "dataApresentacao": "2023-08-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2382588",
+          "num": "PL 4109/2023",
+          "titulo": "Acrescenta parágrafo ao art. 25 do Decreto Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para presumir a legítima defesa quando o agente de segurança pública, no cumprimento do dever legal, matar ou lesionar quem porta qualquer tipo de arma de fogo, artefato explosivo ou simulacro, de forma injusta e ostensiva.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2382588",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-08-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2382587",
+          "num": "PL 4108/2023",
+          "titulo": "Institui a “Campanha Nacional Abril Cinza”, para fins de prevenção e combate à Intimidação Sistemática (bullying) e à violência nos estabelecimentos de ensino fundamental e médio, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2382587",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-08-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2382586",
+          "num": "PL 4107/2023",
+          "titulo": "Institui e estabelece política pública de proteção, inclusão e acompanhamento educacional dos estudantes com epilepsia matriculados nas redes e sistemas de ensino, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2382586",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-08-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2372482",
+          "num": "PLP 141/2023",
+          "titulo": "Altera o inciso XIV do artigo 22, da Lei Complementar nº 64, de 18 de maio de 1990, para determinar que a sanção de inelegibilidade para as eleições a se realizarem seja nos 2 (dois) anos subsequentes à eleição.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2372482",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-07-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2372030",
+          "num": "PL 3317/2023",
+          "titulo": "Concede anistia aos condenados por ilícitos cíveis eleitorais ou declarados inelegíveis do período de 2 de outubro 2016 até a data de entrada em vigor desta lei, na forma que especifica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2372030",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-06-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2370152",
+          "num": "PL 3142/2023",
+          "titulo": "Altera o Código Penal, para dispor sobre a tipificação do crime de permissão de ingresso de ditador em território nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2370152",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-06-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2366657",
+          "num": "PL 2890/2023",
+          "titulo": "Altera e acrescenta dispositivo ao art. 330 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); Altera e acrescenta dispositivo ao art. 195 da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), ambos para majorar penas e responsabilizar quem desobedece ordem de parada de veículo emitida por autoridade no exercício da atividade ostensiva de policiamento ou de trânsito; e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2366657",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2365125",
+          "num": "PL 2788/2023",
+          "titulo": "Confere ao município de Laranjal Paulista, localizado no Estado de São Paulo, o título de Capital Nacional dos Brinquedos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2365125",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-05-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2362236",
+          "num": "PL 2568/2023",
+          "titulo": "Veda a utilização de dinheiro público em quaisquer eventos e serviços que promovam a erotização precoce ou estimulem a sexualização de crianças e adolescentes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362236",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2361794",
+          "num": "PL 2501/2023",
+          "titulo": "Dispõe sobre a criação do crime de censura e confisco de plataforma na lei 13.869 de 5 de setembro de 2019, que dispõe sobre os crimes de abuso de autoridade, e adiciona o crime de censura na lei 1.079 de 10 de abril de 1950, que dispõe sobre os crimes de responsabilidade, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2361794",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2359720",
+          "num": "PL 2320/2023",
+          "titulo": "Dispõe sobre a obrigatoriedade de instalação de câmeras de videomonitoramento em transportes públicos e privados, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2359720",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2359719",
+          "num": "PL 2319/2023",
+          "titulo": "Dispõe sobre a proibição de retenção de equipes, equipamentos  (macas) ou ambulâncias do Serviço de Atendimento Móvel de Urgência - SAMU, do Corpo de Bombeiros Militar e de outras unidades móveis pré-hospitalares de atendimento de urgência e emergência de natureza pública ou privada, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2359719",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-05-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2357565",
+          "num": "PL 2037/2023",
+          "titulo": "Dispõe sobre a obrigatoriedade por parte das Construtoras, de instalação de grades ou redes de proteção nas janelas, sacadas e mezaninos em edifícios construídos em todo o País, de acordo com a conveniência ou não do proprietário e que os equipamentos de proteção sejam certificados pelo INMETRO",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2357565",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-04-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2357472",
+          "num": "PL 2023/2023",
+          "titulo": "Dispõe sobre a obrigatoriedade de indicação dos dados cadastrais das empresas que prestam serviços de segurança, vigilância e combate a incêndio em estabelecimentos em que se realizem eventos, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2357472",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-04-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2353658",
+          "num": "PL 1446/2023",
+          "titulo": "Torna obrigatória a instalação de portais de raios-X nas escolas públicas e privadas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2353658",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-03-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2351894",
+          "num": "PL 1240/2023",
+          "titulo": "Dispõe sobre a proibição do uso, fabricação, comercialização, distribuição, posse, depósito e importação de mistura de cola e vidro moído denominado “cerol”, linha chilena, linha indonésia, ou de qualquer produto semelhante que possa ou não ser aplicado em linhas de papagaios, pipas, raias, pandorgas ou objetos similares, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2351894",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2023-03-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2351893",
+          "num": "PL 1239/2023",
+          "titulo": "Acrescenta parágrafo ao art. 132 do Código Penal, para criminalizar a fabricação, comercialização, distribuição, posse, depósito, importação e uso, de mistura de cola e vidro moído (cerol), linha chilena, linha indonésia, ou de qualquer produto semelhante que possa ou não ser aplicado em linhas de papagaios, pipas, raias, pandorgas ou objetos similares.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2351893",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2023-03-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2351327",
+          "num": "PL 1134/2023",
+          "titulo": "Dispõe sobre o combate à poluição sonora, proibindo a emissão de ruídos sonoros provenientes de equipamentos de som portáteis ou instalados em veículos automotores estacionados em vias, praças, praias e logradouros em âmbito nacional e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2351327",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-03-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2350582",
+          "num": "PL 1015/2023",
+          "titulo": "Dispõe sobre o reconhecimento do risco da atividade profissional exercida por advogados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350582",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-03-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2349285",
+          "num": "PL 651/2023",
+          "titulo": "Altera os arts. 155 e 157 do Decreto-Lei nº 2.848, de 7 dezembro de 1940 (Código Penal), para dispor sobre os crimes de furto, furto qualificado e de roubo praticados durante calamidade pública ou de emergência social.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349285",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2023-02-24",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [],
+  "presencasHistoricas": [],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

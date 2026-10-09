@@ -1,0 +1,1115 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-2bda0fa3-1686-5229-b998-f154239e7cad",
+  "mandatoId": "tse-2026-110002538410",
+  "historico": "Histórico Câmara: 61 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220594",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 61,
+      "projetos": [
+        {
+          "id": "2641816",
+          "num": "PL 4862/2026",
+          "titulo": "Altera a Lei nº 8.899, de 29 de junho de 1994, para assegurar a disponibilidade dos assentos reservados aos beneficiários do Passe Livre no sistema de transporte coletivo interestadual.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641816",
+          "situacao": "Aguardando Autorização do Despacho",
+          "dataApresentacao": "2026-08-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2607657",
+          "num": "PL 1058/2026",
+          "titulo": "Institui diretrizes nacionais para a implementação do Programa Nacional de Proteção à Mulher em Situação de Violência, denominado Programa Mulher Segura, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607657",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-03-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2604277",
+          "num": "PL 723/2026",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer prioridade e medidas de celeridade na tramitação dos processos relativos ao crime de feminicídio no âmbito do Tribunal do Júri.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604277",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600648",
+          "num": "PL 228/2026",
+          "titulo": "Acrescenta art. 35-A à Lei nº 8.078, de 11 de setembro de 1990, com o objetivo de aprimorar a transparência e segurança na intermediação de pagamentos no comércio eletrônico de produtos e serviços.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600648",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600647",
+          "num": "PL 227/2026",
+          "titulo": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para prever meios tecnológicos como instrumentos de prevenção e combate à violência doméstica e familiar, e cria obrigação de as instituições financeiras e de pagamento disponibilizarem funcionalidade destinada ao acionamento de emergência.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600647",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600646",
+          "num": "PL 226/2026",
+          "titulo": "Altera a Lei nº 14.188, de 28 de julho de 2021, para instituir o protocolo verbal de pedido de socorro para mulheres em situação de violência doméstica e familiar.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600646",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600643",
+          "num": "PL 224/2026",
+          "titulo": "Altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente) para dispor sobre a prevenção e combate à exploração sexual infantil no ambiente digital.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600643",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600635",
+          "num": "PL 220/2026",
+          "titulo": "Altera a Lei nº 12.850, de 2 de agosto de 2013, para prever a medida cautelar de interceptação de movimentações bancárias como meio de obtenção de prova e dispor sobre medidas assecuratórias patrimoniais nas investigações relativas a organizações criminosas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600635",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600627",
+          "num": "PL 216/2026",
+          "titulo": "Dispõe sobre a criação do Sistema Nacional de Alerta por Comportamento Atípico Reincidente (SINACAR), estabelece princípios, objetivos, conceitos, limites jurídicos e salvaguardas para a identificação preventiva de padrões objetivos de risco à segurança pública, mediante integração qualificada de bases de dados estatais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600627",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600623",
+          "num": "PL 214/2026",
+          "titulo": "Dispõe sobre a criação do Sistema Nacional de Rastreabilidade de Ativos Logísticos em Zonas de Fronteira (SINRAL), estabelece diretrizes para a digitalização e o monitoramento de fluxos logísticos sensíveis em áreas de fronteira, institui deveres de “compliance” digital, mecanismos de responsabilização e diretrizes de fomento tecnológico integradas à política nacional sobre drogas e à política nacional de ciência, tecnologia e inovação, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600623",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600619",
+          "num": "PLP 9/2026",
+          "titulo": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer a inelegibilidade decorrente de vínculo com organizações criminosas, milícias ou grupos paramilitares, em harmonia com o art. 17, § 4º, da Constituição Federal.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600619",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600611",
+          "num": "PL 210/2026",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a Lei nº 9.613, de 3 de março de 1998, e a Lei nº 11.343, de 23 de agosto de 2006, para priorizar a destinação de bens, direitos e valores provenientes de crimes à reparação do dano sofrido pelas vítimas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600611",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600529",
+          "num": "PL 196/2026",
+          "titulo": "Altera a Lei n.º 13.260, de 16 de março de 2016, para dispor sobre o crime de narcoterrorismo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600529",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2579748",
+          "num": "PL 5563/2025",
+          "titulo": "Institui o Dia Nacional de Combate às Facções e Organizações Criminosas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2579748",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2571246",
+          "num": "PL 5124/2025",
+          "titulo": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), a fim de dispor sobre os raios de segurança máxima nos estabelecimentos prisionais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2571246",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-10-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2558722",
+          "num": "PL 4499/2025",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para tipificar o crime de Domínio de Cidades, e altera a Lei nº 8.072, de 25 de julho de 1990 (Lei de Crimes Hediondos).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2558722",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2025-09-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2552070",
+          "num": "PL 4206/2025",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para dispor sobre a vedação da substituição da prisão preventiva por prisão domiciliar nos casos de alta periculosidade, comando de organização criminosa estruturada ou integração em milícia privada.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2552070",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2542646",
+          "num": "PL 3911/2025",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de insurgência criminal, a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para recrudescer o tratamento penal aos condenados por este novo tipo penal.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2542646",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-08-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2527660",
+          "num": "PL 3017/2025",
+          "titulo": "Institui o Dia Nacional do Jiu-Jitsu Paradesportivo, a ser celebrado anualmente no dia 25 de junho.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2527660",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-06-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2513531",
+          "num": "PL 2411/2025",
+          "titulo": "Disciplina a responsabilidade penal das instituições financeiras pelos crimes contra o sistema financeiro nacional, e tipifica como crime a permissão de abertura de conta ou movimentação de recursos de forma fraudulenta para a prática de crimes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2513531",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2025-05-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2503987",
+          "num": "PL 2094/2025",
+          "titulo": "Altera o art. 115 da Lei nº 8.213, de 24 de julho de 1991, para garantir a lisura de filiações a associações de aposentados e combater fraudes praticadas contra segurados da previdência social, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503987",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2025-05-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2503643",
+          "num": "PL 2072/2025",
+          "titulo": "Altera a Lei nº 8.213, de 24 de julho de 1991 (Lei de Benefícios da Previdência Social), para vedar o desconto de mensalidades de associações e entidades de aposentados e demais beneficiários nos benefícios previdenciários ou assistenciais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503643",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2025-05-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2498613",
+          "num": "PL 1770/2025",
+          "titulo": "Altera a Lei nº 11.343, de 11 de agosto de 2006, para dispor sobre a incineração imediata de droga apreendida, com ou sem prisão em flagrante, no prazo máximo de 48 (quarenta e oito) horas após a emissão do laudo de constatação da natureza e quantidade da droga, a ser realizada pela autoridade policial responsável por sua guarda, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2498613",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-04-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2498609",
+          "num": "PL 1768/2025",
+          "titulo": "Caracteriza como hediondos os crimes de furto mediante fraude cometido por dispositivo eletrônico ou informático e de fraude eletrônica, quando praticados em associação criminosa ou contra pessoa idosa, e tipifica como crime o empréstimo de dados pessoais ou de conta em instituição financeira para a movimentação ilícita de bens ou direitos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2498609",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-04-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2497080",
+          "num": "PLP 90/2025",
+          "titulo": "Altera a Lei Complementar nº 75, de 20 de maio de 1993, para incluir no rol de competência do Ministério Público da União a proteção dos direitos e interesses coletivos do nascituro.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497080",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+          "dataApresentacao": "2025-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2486222",
+          "num": "PL 828/2025",
+          "titulo": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para proibir a concessão de visitas íntimas a presos condenados por crimes hediondos, violência contra mulheres e crianças, e participação em organizações criminosas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2486222",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-03-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2484442",
+          "num": "PL 540/2025",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para criminalizar a violação de dispositivo de monitoração eletrônica e a posse ilegal de aparelhos de comunicação por presos ou internados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2484442",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-02-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2483604",
+          "num": "PL 385/2025",
+          "titulo": "Altera a Lei altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a proibição de atividades comerciais dentro dos estabelecimentos penais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483604",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-02-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482669",
+          "num": "PL 210/2025",
+          "titulo": "Majora as penas dos crimes dos arts. 319-A e 349-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, que tratam do ingresso e da facilitação da entrada de aparelhos de comunicação em estabelecimentos prisionais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482669",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482668",
+          "num": "PL 209/2025",
+          "titulo": "Altera a Lei nº 12.850, de 2 de agosto de 2013 (Lei de Organizações Criminosas), e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para aumentar a pena do crime de organização criminosa, estabelecer causa de aumento de pena e fixar percentual mais gravoso para progressão de regime para o agente que exerce o comando, individual ou coletivo, de organização criminosa.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482668",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482667",
+          "num": "PL 208/2025",
+          "titulo": "Altera o art. 180, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para instituir a qualificadora de receptação de veículos furtados e transportados para outro Estado ou para o exterior.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482667",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482666",
+          "num": "PL 207/2025",
+          "titulo": "Altera o art. 25, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para reconhecer a legítima defesa em caso de invasão domiciliar.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482666",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2482665",
+          "num": "PL 206/2025",
+          "titulo": "Institui a Lei de Garantia Operacional dos Agentes de Segurança Pública, alterando o Código de Processo Penal para disciplinar a decretação de prisão preventiva ou medidas cautelares contra integrantes das Forças Armadas, das forças de segurança pública, do sistema prisional e da Força Nacional de Segurança Pública, nos casos de crimes praticados no exercício da função ou em razão dela.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482665",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-02-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2470716",
+          "num": "PL 4463/2024",
+          "titulo": "Altera a Lei 8.906 de 4, de julho de 1994, para garantir o direito de comunicação entre o advogado e o seu cliente preso, por meio virtual, independentemente da seccional em que esteja inscrito.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2470716",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-11-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2467618",
+          "num": "PL 4297/2024",
+          "titulo": "Altera-se a Lei nº 11.460, de 21 de março de 2007 para dispor sobre plantio de organismos geneticamente modificados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2467618",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-11-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2442393",
+          "num": "PL 2499/2024",
+          "titulo": "Dispõe sobre a obrigatoriedade da notificação à autoridade policial, pelos hospitais, clínicas e unidades básicas de saúde, da interrupção de gestação decorrente de estupro e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2442393",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-06-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2440784",
+          "num": "PL 2388/2024",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para estabelecer punições mais severas aos crimes de estupro e estupro de vulnerável.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2440784",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-06-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2434493",
+          "num": "PL 1904/2024",
+          "titulo": "Acresce dois parágrafos ao art. 124, um parágrafo único ao artigo 125, um segundo parágrafo ao artigo 126 e um parágrafo único ao artigo 128, todos do Código Penal Brasileiro, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2434493",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2024-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2424865",
+          "num": "PL 1116/2024",
+          "titulo": "Altera a Lei nº 1.579, de 18 de março de 1952, que dispõe sobre as Comissões Parlamentares de Inquérito, para possibilitar o acompanhamento das providências adotadas após o encerramento dos trabalhos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424865",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-04-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2419193",
+          "num": "PL 541/2024",
+          "titulo": "Altera a Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, visando conceder autorização aos órgãos de segurança pública para atuarem na condução do condenado às dependências de uma unidade prisional, nos casos de descumprimento das condições estipuladas na decisão que determinou a medida de monitoramento eletrônico.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2419193",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-03-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2418772",
+          "num": "PL 467/2024",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para estabelecer que o cumprimento da pena para o crime de homicídio simples será em regime fechado.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2418772",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-02-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2417280",
+          "num": "PL 152/2024",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para estabelecer que não haverá audiência de custódia para o agente reincidente, que permanecerá preso até o julgamento definitivo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2417280",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-02-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2416106",
+          "num": "PL 6158/2023",
+          "titulo": "Estabelece a obrigatoriedade de instalação de bloqueadores de celular em estabelecimentos prisionais pelas prestadoras de serviços de telefonia móvel.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416106",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2023-12-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2415576",
+          "num": "PL 6120/2023",
+          "titulo": "Estabelece diretrizes e procedimentos para a avaliação da insanidade mental do acusado, visando aprimorar e tornar mais rigorosa a instauração do incidente de insanidade mental no processo penal.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2415576",
+          "situacao": "Aguardando Redação Final",
+          "dataApresentacao": "2023-12-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400065",
+          "num": "PL 5262/2023",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer em flagrante delito o período de convalescença da vítima.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400065",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400064",
+          "num": "PL 5261/2023",
+          "titulo": "Permite o emprego de força nos casos em que o criminoso mantiver reféns sob o seu domínio.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400064",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400063",
+          "num": "PL 5260/2023",
+          "titulo": "Aumenta as penas cominadas ao crime de estupro de vulnerável.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400063",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400061",
+          "num": "PL 5259/2023",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para criar causa de aumento de pena no crime de homicídio qualificado cometido com emprego de arma de fogo ou mesmo quando não for possível a sua identificação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400061",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400060",
+          "num": "PL 5258/2023",
+          "titulo": "Altera o art. 70 e a redação do parágrafo único do art. 71, ambos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para determinar a aplicação cumulativa das penas no caso de concurso formal de crimes dolosos praticados com violência ou grave ameaça e para vedar a aplicação da continuidade delitiva nessas hipóteses.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400060",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400059",
+          "num": "PL 5257/2023",
+          "titulo": "Altera o art. 244 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para incluir a denúncia anônima como justa causa e legitimar a busca pessoal e veicular efetuada pela autoridade policial.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400059",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400058",
+          "num": "PL 5256/2023",
+          "titulo": "Acrescenta o § 8° ao art. 112 da Lei nº 7.210, de 11 de Julho de 1984 e revoga os incisos V, VI, VII e VIII do referido art. para proibir a progressão de regime de cumprimento de pena nos crimes hediondos ou equiparados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400058",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2396351",
+          "num": "PL 5021/2023",
+          "titulo": "Institui a Lista de Organizações Terroristas, altera a Lei nº 13.260, de 16 de março de 2016, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2396351",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2394641",
+          "num": "PL 4894/2023",
+          "titulo": "Dispõe sobre sanções políticas e econômicas relacionadas ao Hamas e ao Hezbollah, os classifica como grupos terroristas, e criminaliza manifestações de apoio a esses grupos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2394641",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-10-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2392485",
+          "num": "PL 4789/2023",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, a Lei nº 8.072, de 25 de julho de 1990 - Lei de Crimes Hediondos, a Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, e o Decreto Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para recrudescer o tratamento penal destinado aos crimes sexuais contra crianças e adolescentes, visando prevenir e coibir o incentivo à pedofilia.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2392485",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-10-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2383411",
+          "num": "PL 4183/2023",
+          "titulo": "Dispõe sobre a aquisição de personalidade jurídica para o regular funcionamento dos movimentos sociais e populares.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2383411",
+          "situacao": "Aguardando Deliberação de Recurso",
+          "dataApresentacao": "2023-08-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2372030",
+          "num": "PL 3317/2023",
+          "titulo": "Concede anistia aos condenados por ilícitos cíveis eleitorais ou declarados inelegíveis do período de 2 de outubro 2016 até a data de entrada em vigor desta lei, na forma que especifica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2372030",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-06-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2361794",
+          "num": "PL 2501/2023",
+          "titulo": "Dispõe sobre a criação do crime de censura e confisco de plataforma na lei 13.869 de 5 de setembro de 2019, que dispõe sobre os crimes de abuso de autoridade, e adiciona o crime de censura na lei 1.079 de 10 de abril de 1950, que dispõe sobre os crimes de responsabilidade, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2361794",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2356989",
+          "num": "PL 1975/2023",
+          "titulo": "Acrescenta parágrafo ao art. 234 da Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica, para obrigar as companhias aéreas a efetuar o registro por foto e vídeo da bagagem a ser despachada, bem como do respectivo passageiro, para fins de rastreamento em casos de perda, troca ou dano ao cliente.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2356989",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-04-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2352001",
+          "num": "PLP 67/2023",
+          "titulo": "Altera a Lei nº 5.172, de 25 de outubro de 1966 – Código Tributário Nacional, para definir regra de modulação de efeitos da decisão do Supremo Tribunal Federal que declarar a cessação dos efeitos da coisa julgada em relações jurídicas tributárias de trato sucessivo e remitir débitos da Contribuição Social sobre o Lucro Líquido.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2352001",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-03-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2350277",
+          "num": "PL 911/2023",
+          "titulo": "Altera a Lei no 12.651, de 25 de maio de 2012, de forma a criar hipótese de interesse social para a recomposição da reserva legal em assentamentos da reforma agrária.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350277",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-03-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2348312",
+          "num": "PL 425/2023",
+          "titulo": "Isenta do Imposto sobre Produtos Industrializados - IPI e da Contribuição para o Financiamento da Seguridade Social – COFINS os alimentos para o controle do diabetes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348312",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-02-09",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220594",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 17693611,
+      "restituicoesCentavos": 0,
+      "registros": 277,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 2398896
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 3521488
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 3247570
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 4145107
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 1603589
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 1164596
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 942406
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 669959
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 0
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 3708263
+        },
+        {
+          "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "totalCentavos": 6340000
+        },
+        {
+          "nome": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "totalCentavos": 579840
+        },
+        {
+          "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalCentavos": 2800000
+        },
+        {
+          "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalCentavos": 3808598
+        },
+        {
+          "nome": "TELEFONIA",
+          "totalCentavos": 456910
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220594",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:19:23.785188+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/220594/presenca-plenario/2026"
+      ],
+      "totalDias": 69,
+      "presenca": 65,
+      "justificada": 0,
+      "naoJustificada": 4,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-02-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-18",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-22",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-23",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-29",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-05",
+          "situacao": "Ausência",
+          "classificacao": "naoJustificada"
+        },
+        {
+          "data": "2026-05-06",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-07",
+          "situacao": "Ausência",
+          "classificacao": "naoJustificada"
+        },
+        {
+          "data": "2026-05-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-15",
+          "situacao": "Ausência",
+          "classificacao": "naoJustificada"
+        },
+        {
+          "data": "2026-05-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-20",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-21",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-27",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Ausência",
+          "classificacao": "naoJustificada"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

@@ -1,0 +1,202 @@
+{
+  "status": "conferido",
+  "sessoes": [
+    {
+      "numero": 106,
+      "data": "2026-07-14",
+      "diario": "125698",
+      "encerramento": {
+        "pagina": 64,
+        "horario": "20:48"
+      },
+      "registroPaginas": [
+        65,
+        66
+      ],
+      "comparecimentos": 78,
+      "resultados": [
+        {
+          "id": "7096",
+          "paginas": [
+            143,
+            144,
+            145
+          ],
+          "sim": 73,
+          "nao": 1,
+          "abstencao": 1,
+          "presidente": 1,
+          "total": 76
+        },
+        {
+          "id": "7097",
+          "paginas": [
+            146,
+            147,
+            148
+          ],
+          "sim": 73,
+          "nao": 1,
+          "abstencao": 1,
+          "presidente": 1,
+          "total": 76
+        }
+      ]
+    },
+    {
+      "numero": 107,
+      "data": "2026-07-15",
+      "diario": "125978",
+      "encerramento": {
+        "pagina": 79,
+        "horario": "19:25"
+      },
+      "registroPaginas": [
+        80,
+        81
+      ],
+      "comparecimentos": 76,
+      "resultados": [
+        {
+          "id": "7098",
+          "paginas": [
+            122,
+            123,
+            124
+          ],
+          "sim": 65,
+          "nao": 2,
+          "abstencao": 0,
+          "presidente": 1,
+          "total": 68
+        },
+        {
+          "id": "7099",
+          "paginas": [
+            125,
+            126
+          ],
+          "sim": 25,
+          "nao": 33,
+          "abstencao": 0,
+          "presidente": 1,
+          "total": 59
+        },
+        {
+          "id": "7100",
+          "paginas": [
+            127,
+            128
+          ],
+          "sim": 14,
+          "nao": 37,
+          "abstencao": 0,
+          "presidente": 1,
+          "total": 52
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/ver/125698",
+      "sha256": "2799597d85c215c4b5abd24f647d4fffa812a6925c53e1ae4c7a257a43c7b961",
+      "coletadoEm": "2026-10-09T03:22:30.852626+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125698&download=true&paginaInicial=3&paginaFinal=8",
+      "sha256": "6b0acb6380b24530fb6a9c3d7e584546539f08547f83a4d6f182f58dd7ce9135",
+      "coletadoEm": "2026-10-09T03:22:31.571276+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125698&download=true&paginaInicial=64&paginaFinal=66",
+      "sha256": "1fbb87106eb33c6f36d459bd4456f55dfd611eefa916f9bb88dbffd7c6341063",
+      "coletadoEm": "2026-10-09T03:22:58.125829+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125698&download=true&paginaInicial=65&paginaFinal=66",
+      "sha256": "11a04bb33e168b140e4d0a05167e8c61fdceacb9aab8278b48f88cd2fb4d111c",
+      "coletadoEm": "2026-10-09T03:26:30.009765+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125698&download=true&paginaInicial=38&paginaFinal=47",
+      "sha256": "20c0d777c2aa95ec4870fb6c741bfae281cfb9cfcb1129d8b9a8ec8b0d3fae96",
+      "coletadoEm": "2026-10-09T03:26:31.584723+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125698&download=true&paginaInicial=143&paginaFinal=146",
+      "sha256": "8b0614fa9d4cba86ea9e6a0b6cd5a820672b23a76b73eac518c2b9cff78f04ba",
+      "coletadoEm": "2026-10-09T03:27:33.641140+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/ver/125978",
+      "sha256": "4fc7450b0428c90c4d0606d329919a1838fd0a189a15b2c76ba730f1e0c9d15c",
+      "coletadoEm": "2026-10-09T03:22:28.593829+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125978&download=true&paginaInicial=3&paginaFinal=10",
+      "sha256": "4dd67be0e1eee284d5bbecd10e01a115a78c085881c6cf6f53fba584ea149fd8",
+      "coletadoEm": "2026-10-09T03:22:29.372776+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125978&download=true&paginaInicial=79&paginaFinal=81",
+      "sha256": "ea6e8fc8f5f013bffab67d63ac2a202bd391bb288215f87b9c32b2a7b660e2bd",
+      "coletadoEm": "2026-10-09T03:22:59.852412+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125978&download=true&paginaInicial=80&paginaFinal=81",
+      "sha256": "3c53287ea26d555dd4b2d32be925a294973fe4e2d0c0b1296c47a931dc6d90fb",
+      "coletadoEm": "2026-10-09T03:26:32.642702+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125978&download=true&paginaInicial=57&paginaFinal=76",
+      "sha256": "83a888f9569860aeb41b03200d978afe010b01c47cdb2b86348e9bbb5765ac0c",
+      "coletadoEm": "2026-10-09T03:27:11.915709+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125978&download=true&paginaInicial=122&paginaFinal=128",
+      "sha256": "b260422fa814a82018df05068d99992137f10f715e39bde11584380ea782ac21",
+      "coletadoEm": "2026-10-09T03:27:43.340892+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125698&download=true&paginaInicial=147&paginaFinal=148",
+      "sha256": "9097b7fd642943f018a08ba980cd6a0f099781a5f80eb3d140f752ccdb1db672",
+      "coletadoEm": "2026-10-09T03:27:59.994046+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-07-14&dataFim=2026-07-15&v=2",
+      "sha256": "5a36d0db82d25e022f78ce3ca27e7e23aac57fc1d46386cbefa925d113cad4bc",
+      "coletadoEm": "2026-10-09T03:22:29.936977+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/resources/calendario-html?mes=10&ano=2026&veiculo=1&tipo=2",
+      "sha256": "d8c993d31b5d255ad97730781d0f529eb94c4525a1b9509b3f3ae71b50c94032",
+      "coletadoEm": "2026-10-09T03:30:51.841579+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/ver/126479",
+      "sha256": "fe5088d39c9e6a29b82204b739094e8b148f24c7f3a45aecf55c6b3def578ce9",
+      "coletadoEm": "2026-10-09T03:30:52.915867+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=126479&download=true&paginaInicial=57&paginaFinal=58",
+      "sha256": "ec30d475f608e5e732d85b457c5a4a1e6b01cc8fd3036b49511a31820d11a088",
+      "coletadoEm": "2026-10-09T03:30:53.847350+00:00"
+    }
+  ],
+  "criterio": "Encerramento, cabeçalho, período, páginas, colunas e total DSF conferidos. Identidades oficiais e cinco votações reconciliadas com listas nominais e resultados impressos. Os dois turnos da PEC e os destaques do PLP contam como votações distintas da mesma sessão. Registro de voto não comprova participação em todas as votações. Não classifica falta regimental.",
+  "pendencias": [
+    {
+      "numero": 114,
+      "motivo": "Páginas 57–58 localizadas; texto extraído contém erros nos nomes e no cabeçalho. Exige conferência adicional; sem publicação."
+    },
+    {
+      "numeros": [
+        128,
+        129,
+        130
+      ],
+      "motivo": "Calendário oficial de outubro consultado em 09/10: Diários dos dias 6–9 em elaboração, sem link de consulta ao documento final."
+    }
+  ]
+}

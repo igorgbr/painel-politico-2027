@@ -1,0 +1,931 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-f020a26e-0277-5bd1-8c0e-05b24c217055",
+  "mandatoId": "tse-2026-50002536317",
+  "historico": "Histórico Câmara: 0 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta · Histórico Senado: 10 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [
+      {
+        "id": "8828095",
+        "num": "PL 2213/2025",
+        "titulo": "Altera a Lei nº 13.999, de 18 de maio de 2020, para autorizar a utilização de recursos não comprometidos do FGO para a cobertura de operações contratadas no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168481",
+        "situacao": "Situação não informada",
+        "dataApresentacao": "2025-05-08",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.356 de 19/03/2026"
+      },
+      {
+        "id": "8799960",
+        "num": "PL 847/2025",
+        "titulo": "Altera a Lei nº 11.540, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, para aprimorar a destinação de recursos do Fundo.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167477",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+        "dataApresentacao": "2025-03-11",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.184 de 04/08/2025"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "74548",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 0,
+      "projetos": [],
+      "aprov": 0,
+      "neg": 0
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=581&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=581&sigla=PLP&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05"
+      ],
+      "total": 10,
+      "projetos": [
+        {
+          "id": "9037348",
+          "num": "PL 2003/2026",
+          "titulo": "Institui a Política Nacional de Cidades Verdes e Resilientes e estabelece diretrizes para a promoção de infraestrutura verde e azul, soluções baseadas na natureza, arborização urbana, proteção da fauna silvestre nativa e conectividade ecológica no meio urbano.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173759",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-04-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9029268",
+          "num": "PL 1681/2026",
+          "titulo": "Institui a Semana Nacional de Economia Circular e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173532",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2026-04-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8886912",
+          "num": "PL 4132/2025",
+          "titulo": "Dispõe sobre a Política Nacional de Transformação Digital na Agricultura.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169979",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2025-08-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8882399",
+          "num": "PL 4057/2025",
+          "titulo": "Estabelece diretrizes, incentivos e normas para a prática da meliponicultura sustentável no Brasil, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169940",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-08-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8878491",
+          "num": "PLP 168/2025",
+          "titulo": "Dispõe sobre procedimentos excepcionais para despesas e renúncias fiscais associadas à mitigação dos impactos sociais e econômicos causados pela imposição de tarifas adicionais sobre exportações brasileiras aos Estados Unidos da América.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169903",
+          "situacao": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+          "dataApresentacao": "2025-08-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8828095",
+          "num": "PL 2213/2025",
+          "titulo": "Altera a Lei nº 13.999, de 18 de maio de 2020, para autorizar a utilização de recursos não comprometidos do FGO para a cobertura de operações contratadas no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168481",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2025-05-08",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.356 de 19/03/2026"
+        },
+        {
+          "id": "8825746",
+          "num": "PL 2133/2025",
+          "titulo": "Altera as Leis nº 9.074, de 7 de julho de 1995, nº 9.991, de 24 de julho de 2000, nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, com vistas a dispor sobre o conteúdo nacional mínimo obrigatório e o investimento na economia de baixa carbono como princípios da política energética, no setor de petróleo e gás natural e no setor de geração de energia elétrica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168418",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-05-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8825730",
+          "num": "PL 2132/2025",
+          "titulo": "Disciplina a circularidade de baterias utilizadas em veículos elétricos e institui a Política Nacional de Circularidade das Baterias.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168417",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2025-05-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8823181",
+          "num": "PL 1965/2025",
+          "titulo": "Institui o Plano Nacional de Bioeconomia e Restauração do bioma Caatinga (PNBRC).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168330",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-04-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8799960",
+          "num": "PL 847/2025",
+          "titulo": "Altera a Lei nº 11.540, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, para aprimorar a destinação de recursos do Fundo.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167477",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+          "dataApresentacao": "2025-03-11",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.184 de 04/08/2025"
+        }
+      ],
+      "aprov": 2,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de valorReembolsado por ano/mês da CEAPS, incluindo ajustes negativos.",
+      "fontes": [
+        "https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2026"
+      ],
+      "totalCentavos": 33377407,
+      "restituicoesCentavos": null,
+      "registros": 290,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 4492824
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 4330409
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 5316396
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 4261864
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 4907285
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 3354562
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 3582738
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 3131329
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 0
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+          "totalCentavos": 10822071
+        },
+        {
+          "nome": "Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ",
+          "totalCentavos": 1365000
+        },
+        {
+          "nome": "Categoria não informada na fonte",
+          "totalCentavos": 2404233
+        },
+        {
+          "nome": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+          "totalCentavos": 18786103
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [],
+  "licencasSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:37:36.716884+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Licenças oficiais com interseção no período consultado. Datas efetivas e previstas separadas. Não mede presença, faltas ou dias de sessão.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "registros": 0,
+      "licencas": []
+    }
+  ],
+  "comparecimentosSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-06-16",
+      "periodoFim": "2026-06-16",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125298",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-83-DOR",
+          "numero": 83,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 95,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7095",
+              "data": "2026-06-16",
+              "materia": "PLP 73/2025",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-06-17",
+      "periodoFim": "2026-06-17",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125318",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-84-DOR",
+          "numero": 84,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 58,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-06-30",
+      "periodoFim": "2026-06-30",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125479",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-91-DOR",
+          "numero": 91,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 86,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-07-02",
+      "periodoFim": "2026-07-02",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125478",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-93-DEX",
+          "numero": 93,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 22,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-07-07",
+      "periodoFim": "2026-07-07",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125578",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-98-DOR",
+          "numero": 98,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 79,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-07-08",
+      "periodoFim": "2026-07-08",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125638",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-100-DOR",
+          "numero": 100,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 91,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-07-09",
+      "periodoFim": "2026-07-09",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125618",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-102-DOR",
+          "numero": 102,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 29,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-07-14",
+      "periodoFim": "2026-07-14",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125698",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-106-DOR",
+          "numero": 106,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 65,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7096",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7097",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-07-15",
+      "periodoFim": "2026-07-15",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125978",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-107-DOR",
+          "numero": 107,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 80,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7098",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7099",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7100",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-08-11",
+      "periodoFim": "2026-08-11",
+      "coletadoEm": "2026-10-09T02:31:13.162478+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126278",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-111-DOR",
+          "numero": 111,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 110,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-08-12",
+      "periodoFim": "2026-08-12",
+      "coletadoEm": "2026-10-09T02:31:13.263596+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126338",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-113-DOR",
+          "numero": 113,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 101,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7101",
+              "data": "2026-08-12",
+              "materia": "PLP 124/2022 (Substitutivo-CD)",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7102",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7103",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "581",
+      "periodoInicio": "2026-09-01",
+      "periodoFim": "2026-09-03",
+      "coletadoEm": "2026-10-09T02:31:13.274826+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126579",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-09-03&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/581/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-120-DOR",
+          "numero": 120,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Jaques Wagner",
+            "uf": "BA",
+            "pagina": 55,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7104",
+              "data": "2026-09-01",
+              "materia": "PDL 995/2026",
+              "secreta": true,
+              "registro": "Votou",
+              "descricao": "Votou",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7105",
+              "data": "2026-09-03",
+              "materia": "PLP 74/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

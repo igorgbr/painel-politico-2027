@@ -1,0 +1,1348 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-061d9f73-a1af-556a-b9fc-b7c5d76bb3f2",
+  "mandatoId": "tse-2026-70002550316",
+  "historico": "Histórico Câmara: 0 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta · Histórico Senado: 52 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "4931",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 0,
+      "projetos": [],
+      "aprov": 0,
+      "neg": 0
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=4770&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=4770&sigla=PLP&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05"
+      ],
+      "total": 52,
+      "projetos": [
+        {
+          "id": "9107637",
+          "num": "PL 5339/2026",
+          "titulo": "Altera e acrescenta dispositivo à Lei nº 6.880, de 9 de dezembro de 1980, para preservar a saúde física e mental dos militares das Forças Armadas pós serviço de escala; e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175776",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-09-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9100884",
+          "num": "PLP 243/2026",
+          "titulo": "Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para afastar, em relação ao Fundo Constitucional do Distrito Federal, as vedações previstas no art. 14, de forma a preservar a sistemática legal de cálculo e atualização do aporte anual ao Fundo.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175604",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-08-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9086157",
+          "num": "PL 3771/2026",
+          "titulo": "Institui o Dia Nacional da Cachaça.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175212",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2026-07-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9084422",
+          "num": "PL 3698/2026",
+          "titulo": "Dispõe sobre o reconhecimento da Saúde Estética como área de atuação do profissional de Biologia, Biomedicina, Enfermagem, Farmácia, Fisioterapia e Fonoaudiologia.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175160",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-07-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9058203",
+          "num": "PL 2834/2026",
+          "titulo": "Institui o Estatuto da Pessoa Transplantada, dispõe sobre seus direitos e garantias, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174428",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2026-06-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9056588",
+          "num": "PL 2717/2026",
+          "titulo": "Altera a Lei nº 13.465/2017 para dispor sobre critérios de regularização fundiária em áreas públicas com ocupação consolidada, estabelecer diretrizes para definição do valor de alienação de imóveis públicos, com base na função social da propriedade, e ampliar o acesso à moradia.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174385",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-05-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9050298",
+          "num": "PL 2495/2026",
+          "titulo": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que estabelece as diretrizes da Política Nacional de Mobilidade Urbana, para instituir diretrizes para regulamentar a circulação, em caráter excepcional, de veículos que transportem pessoas com deficiência em espaços nas vias públicas destinados exclusivamente aos serviços de transporte público coletivo.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174234",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-05-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9049926",
+          "num": "PL 2470/2026",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para dispor sobre a proteção da saúde mental, do consumidor e da economia familiar no ambiente de apostas de quota fixa e jogos online, com ênfase na prevenção e redução de danos, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174217",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2026-05-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9034854",
+          "num": "PL 1865/2026",
+          "titulo": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para incentivar a atuação de médicos especialistas em geriatria no âmbito da atenção primária do Sistema Único de Saúde.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173674",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2026-04-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9034842",
+          "num": "PL 1864/2026",
+          "titulo": "Altera a Lei nº 11.096, de 13 de janeiro de 2005, e a Lei nº 10.260, de 12 de julho de 2001, para dispor sobre critérios de priorização na concessão de bolsas do Programa Universidade para Todos (Prouni) e no acesso ao Fundo de Financiamento Estudantil (Fies), com vistas ao alinhamento da oferta de graduação e de cursos sequenciais de formação específica às necessidades de desenvolvimento socioeconômico regional e às demandas atuais e futuras do mundo do trabalho.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173673",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2026-04-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9004358",
+          "num": "PLP 45/2026",
+          "titulo": "Altera o art. 51 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescentando ao seu §2º o inciso III, a fim de resguardar o direito pleno de imunidade das instituições filantrópicas (com atuação na educação, saúde e assistência social, inclusive as organizações assistenciais e beneficentes das entidades religiosas) e evitar que haja substancial aumento de carga tributária para o segmento, na implementação da reforma da tributação.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172921",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2026-03-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9000242",
+          "num": "PL 868/2026",
+          "titulo": "Altera a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), para estabelecer critérios mais rígidos para classificação de informações como sigilosas e promover a transparência de informações de interesse público.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172853",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-03-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8992355",
+          "num": "PL 427/2026",
+          "titulo": "Dispõe sobre o Fundo Nacional de Apoio ao Terceiro Setor (FUNATS), destinado ao fomento da governança e fortalecimento institucional de organizações da sociedade civil, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172639",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2026-02-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8987995",
+          "num": "PLP 6/2026",
+          "titulo": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos nos arts. 17 a 26 da Lei nº 11.196, de 21 de novembro de 2005 – Lei do Bem.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172465",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8987949",
+          "num": "PL 152/2026",
+          "titulo": "Altera as Leis nº 9.249, de 26 de dezembro de 1995, e 9.250, de 26 de dezembro de 1995, para adequar o prazo de realização de assembleia geral para deliberação acerca da distribuição dos lucros e dividendos no ano-calendário de 2025 à legislação vigente; e para determinar que os investimentos, doações ou patrocínios realizados por pessoas jurídicas para fins de benefício tributário sejam considerados na apuração da alíquota efetiva.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172462",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8894723",
+          "num": "PL 4263/2025",
+          "titulo": "Acrescenta o art. 3º-A à Lei nº 6.965, de 9 de dezembro de 1981, para dispor sobre a jornada de trabalho do Fonoaudiólogo.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170082",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-08-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8861043",
+          "num": "PL 3289/2025",
+          "titulo": "Dispõe sobre a Política Nacional de Jogo Responsável, Proteção ao Apostador e Prevenção à Ludopatia; altera o regime de exploração de apostas de quota fixa; aprimora os mecanismos de controle, fiscalização e responsabilização no setor; altera a Lei nº 14.790, de 29 de dezembro de 2023, a Lei nº 13.756 de 12 de dezembro de 2018, o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), e a Lei nº 9.472, de 16 de julho de 1997 (Lei Geral de Telecomunicações).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169480",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-07-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847827",
+          "num": "PL 2896/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para dispor sobre a retenção na fonte, pelos agentes operadores, do Imposto sobre a Renda incidente sobre os prêmios obtidos em apostas de quota fixa.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169118",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847823",
+          "num": "PL 2895/2025",
+          "titulo": "Altera a Lei nº 13.506, de 13 de novembro de 2017, para instituir o dever das instituições financeiras de disponibilizar aos seus clientes funcionalidade para autolimitação e bloqueio de transações destinadas a operadores de apostas.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169117",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847819",
+          "num": "PL 2894/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para estabelecer que a proteção da saúde pública como princípio fundamental e norteador da regulação das apostas de quota fixa, que prevalecerá sobre quaisquer interesses econômicos ou arrecadatórios.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169116",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847815",
+          "num": "PL 2893/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para estabelecer a obrigação dos agentes operadores de apostas de oferecer recursos educativos sobre os riscos do jogo.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169115",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847785",
+          "num": "PL 2892/2025",
+          "titulo": "Altera as Leis nºs 13.756, de 12 de dezembro de 2018, e 14.790, de 29 de dezembro de 2023, para restringir as apostas de quota fixa a eventos reais de temática esportiva.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169114",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847776",
+          "num": "PLP 131/2025",
+          "titulo": "Altera a Lei Complementar nº 116, de 31 de julho de 2003, e a Lei nº 9.249, de 26 de dezembro de 1995, para fixar alíquotas máxima e mínima de Imposto sobre Serviços de Qualquer Natureza incidente sobre exploração da modalidade lotérica denominada apostas de quota fixa, bem como vedar a dedução da base de cálculo do Imposto sobre a Renda das Pessoas Jurídicas e da Contribuição Social sobre o Lucro Líquido das despesas com comunicação, publicidade e marketing relacionadas à exploração da atividade.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169113",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847767",
+          "num": "PL 2891/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para estabelecer horário limitado para a oferta e exploração de apostas de quota fixa.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169112",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847758",
+          "num": "PL 2890/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para criminalizar a exploração de apostas de quota fixa sem autorização.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169111",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847749",
+          "num": "PL 2889/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para instituir o Cadastro Nacional de Apostas (CNA) e a Plataforma Nacional de Auditoria e Monitoramento de Jogos de Azar (PNAMJA).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169110",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847740",
+          "num": "PL 2888/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para criminalizar a viabilização de transferência de valores entre apostadores e agente não autorizado a operar no Brasil.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169109",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847731",
+          "num": "PL 2887/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para vedar a participação em aposta de quota fixa, na condição de apostador, de pessoa inscrita no Cadastro Único do Governo Federal.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169108",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847719",
+          "num": "PL 2886/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para criminalizar a divulgação de propaganda de apostas de quota fixa em desconformidade com a legislação.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169107",
+          "situacao": "RETIRADA PELO AUTOR",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847708",
+          "num": "PL 2882/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para aprimorar o dever de transparência dos agentes operadores sobre as atividades de jogo dos apostadores.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169106",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847704",
+          "num": "PL 2881/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para proibir modelos de remuneração variável em ações de comunicação, publicidade e propaganda de apostas de quota fixa.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169105",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847700",
+          "num": "PL 2880/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para vedar a concessão de promoções, recompensas ou programas de fidelidade aos apostadores.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169104",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847681",
+          "num": "PL 2879/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para estabelecer a duração mínima para as apostas de quota fixa e vedar a funcionalidade de jogo automático (autoplay).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169103",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847677",
+          "num": "PL 2878/2025",
+          "titulo": "Institui o Fundo Nacional para o Combate às Plataformas Ilegais de Apostas (FNCPI).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169102",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8847673",
+          "num": "PL 2877/2025",
+          "titulo": "Altera a Lei nº 9.472, de 16 de julho de 1997, que dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão regulador e outros aspectos institucionais, nos termos da Emenda Constitucional nº 8, de 1995; e a Lei nº 12.965, de 23 de abril de 2014, que estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, para dispor sobre as competências da Agência Nacional de Telecomunicações e a responsabilização dos provedores de conexão à internet e dos prestadores dos demais serviços habilitadores de conectividade pelo acesso a provedores de aplicações que disponibilizam conteúdos apontados como infringentes.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169101",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8830976",
+          "num": "PL 2322/2025",
+          "titulo": "Reconhece como manifestação da cultura nacional o espetáculo Via-Sacra do Morro da Capelinha, que se realiza na cidade de Planaltina, no Distrito Federal.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168600",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2025-05-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8826041",
+          "num": "PL 2159/2025",
+          "titulo": "Dispõe sobre a suspensão, por 6 (seis) meses, de todos os descontos de contribuições e mensalidades de associações e demais entidades de aposentados facultados por Lei e altera a Lei nº Lei nº 8.213, de 24 de julho de 1991, que “Dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências”",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168431",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2025-05-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8800932",
+          "num": "PLP 61/2025",
+          "titulo": "Altera a Lei Complementar nº 75, de 20 de maio de 1993, para incluir a proteção dos nascituros nas funções institucionais do Ministério Público da União.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167511",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-03-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8775396",
+          "num": "PL 4876/2024",
+          "titulo": "Proíbe que pessoas físicas beneficiárias de programas sociais e bolsas de subsistência promovidos pelo governo federal utilizem recursos recebidos para realizar apostas on-line e fixa penalidades para o descumprimento.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166707",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-12-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8644353",
+          "num": "PL 1162/2024",
+          "titulo": "Altera a Lei n° 10.826, de 22 de dezembro de 2003, para modificar os requisitos para posse e porte de arma de fogo para os integrantes de órgãos de segurança pública, regulamentar a posse e o porte de arma aos servidores policiais ativos, aposentados e reformados, e estabelecer as condições e limites de aquisição de armas de fogo, munições e acessórios.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162987",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8642671",
+          "num": "PL 1124/2024",
+          "titulo": "Altera a Lei nº 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao estudante do Ensino Superior e dá outras providências, para prever o abatimento no saldo devedor do FIES para todos os estudantes que exercerem suas profissões em serviços públicos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162937",
+          "situacao": "AGUARDANDO AUDIÊNCIA PÚBLICA",
+          "dataApresentacao": "2024-04-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8624158",
+          "num": "PL 384/2024",
+          "titulo": "Regulamenta o exercício da profissão de Tecnólogo nas áreas abrangidas pelo Conselho Federal de Engenharia e Agronomia e Conselhos Regionais (Sistema Confea/Crea) e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162136",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2024-02-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8608703",
+          "num": "PL 6118/2023",
+          "titulo": "Altera a Lei n.º 9.615, de 24 de março de 1.998, e a Lei n.º 13.756, de 12 de dezembro de 2018, para incluir a Confederação Brasileira de Games e Esports (CBGE) no Sistema Nacional do Desporto e destinar-lhe recursos oriundos da arrecadação da loteria de prognósticos numéricos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161702",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-12-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8608398",
+          "num": "PL 6106/2023",
+          "titulo": "Altera o Decreto-Lei nº 236, de 28 de fevereiro de 1967, para permitir a formação de cadeias e associações de concessionárias ou permissionárias dos serviços de radiodifusão sonora e de sons e imagens com a finalidade de estabelecer direção ou orientação única.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161698",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-12-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8602374",
+          "num": "PL 5950/2023",
+          "titulo": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir educação e administração financeira nos currículos da educação básica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161518",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8602370",
+          "num": "PL 5949/2023",
+          "titulo": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para prever o estudo da educação moral e cívica nas escolas de educação básica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161517",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8602366",
+          "num": "PL 5948/2023",
+          "titulo": "Altera a Lei nº 10.826, de 22 de dezembro de 2003, para conceder porte de arma de fogo aos policiais legislativos das Assembleias Legislativas dos Estados e da Câmara Legislativa do Distrito Federal.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161516",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+          "dataApresentacao": "2023-12-11",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.306 de 22/12/2025"
+        },
+        {
+          "id": "8478455",
+          "num": "PL 3190/2023",
+          "titulo": "Altera a Lei nº 13.636, de 20 de março de 2018, para aprimorar e fomentar o microcrédito e as microfinanças.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158350",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+          "dataApresentacao": "2023-06-21",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.364 de 26/03/2026"
+        },
+        {
+          "id": "8470965",
+          "num": "PL 2991/2023",
+          "titulo": "Altera o Decreto nº 70.235, de 6 de março de 1972, para instituir no Procedimento Administrativo Fiscal, antes da lavratura do auto de infração ou notificação, Termo Circunstanciado das Infração Verificadas e do Débito Apurado, para fins de defesa prévia do sujeito passivo e opção de pagamento ou parcelamento do débito que considerar incontroverso, com os acréscimos legais de juros e multa de mora.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158051",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-06-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8374921",
+          "num": "PLP 34/2023",
+          "titulo": "Altera a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), para estabelecer que a decisão judicial em matéria tributária alcançada pelos efeitos da coisa julgada material, mesmo em relações tributárias de trato sucessivo, não pode ser alterada por nenhum juízo ou tribunal, a não ser por meio de ação rescisória específica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155977",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-03-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8370441",
+          "num": "PL 589/2023",
+          "titulo": "Altera o Código de Processo Civil Brasileiro para reafirmar a autoridade da coisa julgada, estabelecendo claramente que a decisão judicial alcançada pelos efeitos da coisa julgada material não pode ser alterada ou relativizada por nenhum juízo ou tribunal, nem mesmo pelo Supremo Tribunal Federal, a não ser por meio de ação rescisória específica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155905",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-02-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8365330",
+          "num": "PL 382/2023",
+          "titulo": "Acrescenta parágrafo único ao art. 1º da Lei nº 11.671, de 8 de maio de 2008, para vedar a transferência de preso de alta periculosidade para a penitenciária federal de segurança máxima localizada em Brasília.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155807",
+          "situacao": "AGUARDANDO AUDIÊNCIA PÚBLICA",
+          "dataApresentacao": "2023-02-08",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 2,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de valorReembolsado por ano/mês da CEAPS, incluindo ajustes negativos.",
+      "fontes": [
+        "https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2026"
+      ],
+      "totalCentavos": 31353464,
+      "restituicoesCentavos": null,
+      "registros": 20,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 3658246
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 2300000
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 3800000
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 4420000
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 4024737
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 3421499
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 3800000
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 3128982
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 2800000
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+          "totalCentavos": 495218
+        },
+        {
+          "nome": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+          "totalCentavos": 30858246
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [],
+  "licencasSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:37:40.630385+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Licenças oficiais com interseção no período consultado. Datas efetivas e previstas separadas. Não mede presença, faltas ou dias de sessão.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "registros": 1,
+      "licencas": [
+        {
+          "id": "27364",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-07-09",
+          "fim": "2026-07-09",
+          "inicioPrevisto": "2026-07-09",
+          "fimPrevisto": "2026-07-09"
+        }
+      ]
+    }
+  ],
+  "comparecimentosSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-06-16",
+      "periodoFim": "2026-06-16",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125298",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-83-DOR",
+          "numero": 83,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 95,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7095",
+              "data": "2026-06-16",
+              "materia": "PLP 73/2025",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-06-17",
+      "periodoFim": "2026-06-17",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125318",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-84-DOR",
+          "numero": 84,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 58,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-06-30",
+      "periodoFim": "2026-06-30",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125479",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-91-DOR",
+          "numero": 91,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 86,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-07-02",
+      "periodoFim": "2026-07-02",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125478",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-93-DEX",
+          "numero": 93,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 22,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-07-07",
+      "periodoFim": "2026-07-07",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125578",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-98-DOR",
+          "numero": 98,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 79,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-07-08",
+      "periodoFim": "2026-07-08",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125638",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-100-DOR",
+          "numero": 100,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 91,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-07-09",
+      "periodoFim": "2026-07-09",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125618",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 0,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 1,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-102-DOR",
+          "numero": 102,
+          "comparecimentoRegistrado": false,
+          "registroDiario": null,
+          "classificacao": "pendente",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-07-14",
+      "periodoFim": "2026-07-14",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125698",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 1,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-106-DOR",
+          "numero": 106,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 65,
+            "votoRegistrado": true
+          },
+          "classificacao": "pendente",
+          "votacoes": [
+            {
+              "id": "7096",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7097",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "P-NRV",
+              "descricao": "Presente – Não registrou voto",
+              "classificacao": "pendente",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-07-15",
+      "periodoFim": "2026-07-15",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125978",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-107-DOR",
+          "numero": 107,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 80,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7098",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7099",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7100",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-08-11",
+      "periodoFim": "2026-08-11",
+      "coletadoEm": "2026-10-09T02:31:13.162478+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126278",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-111-DOR",
+          "numero": 111,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 110,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-08-12",
+      "periodoFim": "2026-08-12",
+      "coletadoEm": "2026-10-09T02:31:13.263596+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126338",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-113-DOR",
+          "numero": 113,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 101,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7101",
+              "data": "2026-08-12",
+              "materia": "PLP 124/2022 (Substitutivo-CD)",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7102",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7103",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4770",
+      "periodoInicio": "2026-09-01",
+      "periodoFim": "2026-09-03",
+      "coletadoEm": "2026-10-09T02:31:13.274826+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126579",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-09-03&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4770/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-120-DOR",
+          "numero": 120,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Izalci Lucas",
+            "uf": "DF",
+            "pagina": 55,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7104",
+              "data": "2026-09-01",
+              "materia": "PDL 995/2026",
+              "secreta": true,
+              "registro": "Votou",
+              "descricao": "Votou",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7105",
+              "data": "2026-09-03",
+              "materia": "PLP 74/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

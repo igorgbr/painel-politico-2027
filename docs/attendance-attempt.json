@@ -1,0 +1,330 @@
+{
+  "tentativaEm": "2026-10-09T01:20:28.117893+00:00",
+  "snapshotPublicado": "50087c7dc3ca3554fc5d030f",
+  "consultados": 370,
+  "validados": 321,
+  "fonteSemConexao": false,
+  "offline": true,
+  "errosPorTipo": {
+    "sem-registros": 23,
+    "sem-cache": 25,
+    "validacao": 1
+  },
+  "erros": [
+    {
+      "id": "tse-2026-10002533895",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-10002548050",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-40002537344",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-50002536317",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-50002536321",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-80002551370",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-120002535764",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-150002544905",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-170002547773",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-170002547771",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-180002533967",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-160002547661",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-260002547285",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-270002546333",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-10002545233",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-10002538358",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-40002540481",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-70002539540",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-70002550316",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-80002549477",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-90002542616",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-90002542626",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-100002537259",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-130002543714",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-130002542011",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-130002542022",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-110002542607",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-140002540461",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-170002539181",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-170002534906",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-180002544106",
+      "fonte": "camara",
+      "erro": "Contagem diária não confere com o resumo oficial",
+      "tipo": "validacao",
+      "diagnostico": {
+        "resumoOficial": {
+          "totalDias": 69,
+          "presenca": 60,
+          "justificada": 4,
+          "naoJustificada": 5
+        },
+        "contagemDiaria": {
+          "totalDias": 69,
+          "presenca": 60,
+          "justificada": 2,
+          "naoJustificada": 5,
+          "outros": 2
+        },
+        "situacoes": {
+          "Presença": 60,
+          "Ausência": 5,
+          "Missão Autorizada": 2,
+          "Licença Paternidade": 2
+        }
+      }
+    },
+    {
+      "id": "tse-2026-160002547568",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-160002542318",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-160002532856",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-160002540768",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-160002542297",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-160002547593",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-190002543065",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-190002543092",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-190002540157",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-190002532805",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-210002534584",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-260002547412",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-250002532353",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-250002534930",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-250002535975",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-250002533666",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-250002536733",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    },
+    {
+      "id": "tse-2026-250002535940",
+      "fonte": "camara",
+      "erro": "Relatório não disponível no cache local",
+      "tipo": "sem-cache"
+    }
+  ]
+}

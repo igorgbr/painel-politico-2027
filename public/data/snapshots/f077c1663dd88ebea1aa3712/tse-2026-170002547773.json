@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-54adf4f8-1e7a-520f-85c6-8578106ee4cc",
+  "mandatoId": "tse-2026-170002547773",
+  "historico": "Histórico Câmara: 0 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta · Histórico Senado: 12 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [
+      {
+        "id": "8966356",
+        "num": "PL 6070/2025",
+        "titulo": "Altera a Lei nº 12.300, de 28 de julho de 2010, para modificar o Plano de Carreira dos Servidores do Senado Federal, e dá outras providências.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171880",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+        "dataApresentacao": "2025-12-01",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.350 de 17/02/2026"
+      },
+      {
+        "id": "8588737",
+        "num": "PLP 243/2023",
+        "titulo": "Dispõe sobre as despesas voltadas a programa de incentivo à permanência de estudantes no ensino médio.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161130",
+        "situacao": "Situação não informada",
+        "dataApresentacao": "2023-11-20",
+        "classificacao": "aprov",
+        "norma": "Lei Complementar nº 203 de 15/12/2023"
+      }
+    ],
+    "neg": [
+      {
+        "id": "8418072",
+        "num": "PL 1994/2023",
+        "titulo": "Dispõe sobre a comunicação audiovisual sob demanda, a Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional – CONDECINE e dá outras providências.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156973",
+        "situacao": "REJEITADA",
+        "dataApresentacao": "2023-04-19",
+        "classificacao": "neg",
+        "norma": null
+      }
+    ]
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "74420",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 0,
+      "projetos": [],
+      "aprov": 0,
+      "neg": 0
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5008&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5008&sigla=PLP&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05"
+      ],
+      "total": 12,
+      "projetos": [
+        {
+          "id": "9079259",
+          "num": "PLP 199/2026",
+          "titulo": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos para os Corpos de Bombeiros Militares dos Estados e do Distrito Federal.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174996",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-07-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9059222",
+          "num": "PL 2899/2026",
+          "titulo": "Declara o Município de Condado, no Estado de Pernambuco, como \"Capital Nacional do Folguedo Cavalo-Marinho\".",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174463",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2026-06-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9049926",
+          "num": "PL 2470/2026",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para dispor sobre a proteção da saúde mental, do consumidor e da economia familiar no ambiente de apostas de quota fixa e jogos online, com ênfase na prevenção e redução de danos, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174217",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2026-05-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8966356",
+          "num": "PL 6070/2025",
+          "titulo": "Altera a Lei nº 12.300, de 28 de julho de 2010, para modificar o Plano de Carreira dos Servidores do Senado Federal, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171880",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+          "dataApresentacao": "2025-12-01",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.350 de 17/02/2026"
+        },
+        {
+          "id": "8900340",
+          "num": "PL 4363/2025",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais), para aumentar a pena do crime de maus-tratos a animais.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170244",
+          "situacao": "PREJUDICADA",
+          "dataApresentacao": "2025-09-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8874650",
+          "num": "PL 3755/2025",
+          "titulo": "Altera o art. 115 da Lei n° 8.213, de 24 de julho de 1991, para dispor sobre medidas de prevenção de fraudes em relação aos descontos dos benefícios da Previdência Social realizados por entidades privadas; insere o art. 171-B no Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) para tipificar a conduta de desconto indevido em folha de pagamento de benefício previdenciário ou remuneração; e altera a Lei nº 8.072, de 25 de julho de 1990, para tornar hediondo o referido crime, quando cometido contra pessoa idosa ou com deficiência.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169742",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-08-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8874646",
+          "num": "PL 3754/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, que dispõe sobre a modalidade lotérica de apostas de quota fixa, para estabelecer a idade mínima de vinte e um anos para ser apostador e para ser alvo de campanhas de publicidade, fixar limite de horário para divulgação de publicidade e propaganda comercial de operadores de apostas de quota fixa, vedar patrocínios de operadores de apostas em eventos públicos e fixar limite máximo consolidado mensal de aposta por apostador.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169741",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-08-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8800190",
+          "num": "PL 882/2025",
+          "titulo": "Inscreve o nome de Marcelo Déda Chagas no Livro dos Heróis e Heroínas da Pátria.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167491",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-03-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8718288",
+          "num": "PL 3417/2024",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal –, e a Lei nº 9.605, de 12 de fevereiro de 1998, para criar causa de aumento de pena para o crime de incêndio praticado mediante concurso de duas ou mais pessoas.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165222",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-09-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8589620",
+          "num": "PL 5579/2023",
+          "titulo": "Altera a Lei nº 1.579, de 18 de março de 1952, para determinar que os órgãos que receberem relatório final apresentado por Comissão Parlamentar de Inquérito, e o utilizarem para instruir investigações, denúncia ou outra ação judicial, comuniquem esse fato formalmente à respectiva Casa do Congresso Nacional.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161155",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-11-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8588737",
+          "num": "PLP 243/2023",
+          "titulo": "Dispõe sobre as despesas voltadas a programa de incentivo à permanência de estudantes no ensino médio.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161130",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-11-20",
+          "classificacao": "aprov",
+          "norma": "Lei Complementar nº 203 de 15/12/2023"
+        },
+        {
+          "id": "8418072",
+          "num": "PL 1994/2023",
+          "titulo": "Dispõe sobre a comunicação audiovisual sob demanda, a Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional – CONDECINE e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156973",
+          "situacao": "REJEITADA",
+          "dataApresentacao": "2023-04-19",
+          "classificacao": "neg",
+          "norma": null
+        }
+      ],
+      "aprov": 2,
+      "neg": 1
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de valorReembolsado por ano/mês da CEAPS, incluindo ajustes negativos.",
+      "fontes": [
+        "https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2026"
+      ],
+      "totalCentavos": 42687900,
+      "restituicoesCentavos": null,
+      "registros": 649,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 2969224
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 4303930
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 7522171
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 6431928
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 6974131
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 4476749
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 6564830
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 3444937
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 0
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+          "totalCentavos": 6779325
+        },
+        {
+          "nome": "Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ",
+          "totalCentavos": 3002700
+        },
+        {
+          "nome": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+          "totalCentavos": 375000
+        },
+        {
+          "nome": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+          "totalCentavos": 24558810
+        },
+        {
+          "nome": "Passagens aéreas, aquáticas e terrestres nacionais",
+          "totalCentavos": 7972065
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [],
+  "licencasSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:37:38.195679+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Licenças oficiais com interseção no período consultado. Datas efetivas e previstas separadas. Não mede presença, faltas ou dias de sessão.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "registros": 10,
+      "licencas": [
+        {
+          "id": "26169",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-04-07",
+          "fim": "2026-04-07",
+          "inicioPrevisto": "2026-04-07",
+          "fimPrevisto": "2026-04-07"
+        },
+        {
+          "id": "26166",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-04-08",
+          "fim": "2026-04-08",
+          "inicioPrevisto": "2026-04-08",
+          "fimPrevisto": "2026-04-08"
+        },
+        {
+          "id": "26033",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-04-19",
+          "fim": "2026-04-19",
+          "inicioPrevisto": "2026-04-19",
+          "fimPrevisto": "2026-04-19"
+        },
+        {
+          "id": "26288",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-04-28",
+          "fim": "2026-04-28",
+          "inicioPrevisto": "2026-04-28",
+          "fimPrevisto": "2026-04-28"
+        },
+        {
+          "id": "26326",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-05-06",
+          "fim": "2026-05-06",
+          "inicioPrevisto": "2026-05-06",
+          "fimPrevisto": "2026-05-06"
+        },
+        {
+          "id": "26485",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-05-26",
+          "fim": "2026-05-26",
+          "inicioPrevisto": "2026-05-26",
+          "fimPrevisto": "2026-05-26"
+        },
+        {
+          "id": "26484",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-06-02",
+          "fim": "2026-06-02",
+          "inicioPrevisto": "2026-06-02",
+          "fimPrevisto": "2026-06-02"
+        },
+        {
+          "id": "27445",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-08-13",
+          "fim": "2026-08-13",
+          "inicioPrevisto": "2026-08-13",
+          "fimPrevisto": "2026-08-13"
+        },
+        {
+          "id": "27444",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-08-20",
+          "fim": "2026-08-20",
+          "inicioPrevisto": "2026-08-20",
+          "fimPrevisto": "2026-08-20"
+        },
+        {
+          "id": "27544",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-09-01",
+          "fim": "2026-09-01",
+          "inicioPrevisto": "2026-09-01",
+          "fimPrevisto": "2026-09-01"
+        }
+      ]
+    }
+  ],
+  "comparecimentosSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-06-16",
+      "periodoFim": "2026-06-16",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125298",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-83-DOR",
+          "numero": 83,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 95,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7095",
+              "data": "2026-06-16",
+              "materia": "PLP 73/2025",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-06-17",
+      "periodoFim": "2026-06-17",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125318",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-84-DOR",
+          "numero": 84,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 58,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-06-30",
+      "periodoFim": "2026-06-30",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125479",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-91-DOR",
+          "numero": 91,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 86,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-07-02",
+      "periodoFim": "2026-07-02",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125478",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-93-DEX",
+          "numero": 93,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 22,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-07-07",
+      "periodoFim": "2026-07-07",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125578",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-98-DOR",
+          "numero": 98,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 79,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-07-08",
+      "periodoFim": "2026-07-08",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125638",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-100-DOR",
+          "numero": 100,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 91,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-07-09",
+      "periodoFim": "2026-07-09",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125618",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-102-DOR",
+          "numero": 102,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 29,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-07-14",
+      "periodoFim": "2026-07-14",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125698",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-106-DOR",
+          "numero": 106,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 65,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7096",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7097",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-07-15",
+      "periodoFim": "2026-07-15",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125978",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-107-DOR",
+          "numero": 107,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 80,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7098",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7099",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7100",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-08-11",
+      "periodoFim": "2026-08-11",
+      "coletadoEm": "2026-10-09T02:31:13.162478+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126278",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-111-DOR",
+          "numero": 111,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 110,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-08-12",
+      "periodoFim": "2026-08-12",
+      "coletadoEm": "2026-10-09T02:31:13.263596+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126338",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-113-DOR",
+          "numero": 113,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 101,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7101",
+              "data": "2026-08-12",
+              "materia": "PLP 124/2022 (Substitutivo-CD)",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7102",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7103",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5008",
+      "periodoInicio": "2026-09-01",
+      "periodoFim": "2026-09-03",
+      "coletadoEm": "2026-10-09T02:31:13.274826+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126579",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-09-03&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5008/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 1,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-120-DOR",
+          "numero": 120,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Humberto Costa",
+            "uf": "PE",
+            "pagina": 55,
+            "votoRegistrado": true
+          },
+          "classificacao": "justificativa-registrada",
+          "votacoes": [
+            {
+              "id": "7104",
+              "data": "2026-09-01",
+              "materia": "PDL 995/2026",
+              "secreta": true,
+              "registro": "AP",
+              "descricao": "Atividade parlamentar",
+              "classificacao": "justificativa-registrada",
+              "licencasEfetivas": [
+                "27544"
+              ]
+            },
+            {
+              "id": "7105",
+              "data": "2026-09-03",
+              "materia": "PLP 74/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2019-02-01",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2011-02-01",
+              "fim": "2019-01-31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

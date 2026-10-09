@@ -1,0 +1,832 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-0fb82d56-e468-5dc0-9087-dc751e458b31",
+  "mandatoId": "tse-2026-60002542442",
+  "historico": "Histórico Câmara: 50 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [
+      {
+        "id": "2416611",
+        "num": "PL 6223/2023",
+        "titulo": "Inclui no Calendário Turístico oficial do País as datas de Romarias do município de Juazeiro do Norte na região do Cariri, Estado do Ceará.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416611",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2023-12-22",
+        "classificacao": "aprov",
+        "norma": "Lei Ordinária 15443/2026",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2416611/tramitacoes",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220660",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 50,
+      "projetos": [
+        {
+          "id": "2645634",
+          "num": "PL 5282/2026",
+          "titulo": "Denomina “Agência Huberto Cabral”, a agência do INSS no município de Crato, Estado do Ceará.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645634",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-09-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2631440",
+          "num": "PL 3042/2026",
+          "titulo": "Altera a Lei nº 12.318, de 26 de agosto de 2010, para aperfeiçoar a disciplina da alienação parental, reforçar a proteção integral da criança e do adolescente e aprimorar a apreciação judicial de situações de risco no âmbito familiar.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631440",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-06-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2626483",
+          "num": "PL 2525/2026",
+          "titulo": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para instituir o acompanhamento individualizado por Gestor de Caso nas situações de risco elevado de violência doméstica e familiar contra a mulher, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626483",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-05-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2623915",
+          "num": "PL 2333/2026",
+          "titulo": "Institui regime especial de combate ao devedor contumaz no setor de fabricação de cigarros e de demais produtos derivados do tabaco; estabelece, como efeitos automáticos da contumácia tributária, o cancelamento do Registro Especial de que trata o art. 1º da Lei nº 9.532, de 10 de dezembro de 1997, e do registro sanitário concedido pela Agência Nacional de Vigilância Sanitária – ANVISA; altera a Lei nº 9.532, de 10 de dezembro de 1997, a Lei nº 11.488, de 15 de junho de 2007, e a Lei nº 12.546, de 14 de dezembro de 2011; e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623915",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-05-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2622297",
+          "num": "PL 2228/2026",
+          "titulo": "Altera a Lei n° 3.268, de 30 de setembro de 1957, que \"Dispõe sôbre os Conselhos de Medicina, e dá outras providências\", para dispor sobre o Exame de Suficiência em Medicina como requisito obrigatório para o registro profissional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622297",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-05-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2622129",
+          "num": "PL 2210/2026",
+          "titulo": "Altera a Lei nº 13.426, de 2017, para denominar o Programa Nacional de Esterilização de Animais, determinar tratamento prioritário para animais em situação de rua e criar a obrigatoriedade de cidades com população superior a 50.000 habitantes instituírem Unidades de Pronto Atendimento (UPAs) para realizar o atendimento de saúde e a esterilização dos animais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622129",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-05-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2589119",
+          "num": "PL 5994/2025",
+          "titulo": "Declara a Festa da Padroeira da Região Metropolitana do Cariri, dedicada a Nossa Senhora de Fátima, como Manifestação da Cultura Nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589119",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-11-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2589117",
+          "num": "PL 5993/2025",
+          "titulo": "Declara como Patrimônio Religioso Cultural Material Nacional a imagem de Nossa Senhora de Fátima instalada no Município de Crato, Estado do Ceará, incluindo as manifestações religiosas a ela associadas, e autoriza a atuação do IPHAN na sua proteção e preservação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589117",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-11-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2585361",
+          "num": "PL 5878/2025",
+          "titulo": "Cria a Rota Turística Religiosa do Cariri – Juazeiro do Norte, Crato, Barbalha e Santana do Cariri.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2585361",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2025-11-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2572933",
+          "num": "PL 5252/2025",
+          "titulo": "Dispõe sobre a inclusão da Educação Climática e Ambiental como eixo transversal e interdisciplinar obrigatório no currículo da educação básica, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2572933",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-10-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2572931",
+          "num": "PL 5251/2025",
+          "titulo": "Estabelece diretrizes para a promoção da justiça climática com enfoque na equidade racial, social e territorial, no âmbito das políticas públicas ambientais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2572931",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-10-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2572930",
+          "num": "PL 5250/2025",
+          "titulo": "Institui o Programa Nacional de Transição Ecológica Justa (PNTEJ), com o objetivo de promover o desenvolvimento sustentável, a descarbonização progressiva e justa da economia brasileira, a justiça social e climática e a proteção dos biomas nacionais, em consonância com os compromissos internacionais assumidos pelo Brasil no âmbito da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2572930",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-10-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2564402",
+          "num": "PL 4757/2025",
+          "titulo": "Altera a Lei nº 14.133, de 1º de abril de 2021, e a Lei nº 14.620, de 13 de julho de 2023, para incluir penalidades pelo descumprimento de prazos contratuais de entrega de empreendimentos do Programa Minha Casa, Minha Vida (PMCMV) e dá outras providências",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2564402",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-09-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2564401",
+          "num": "PL 4756/2025",
+          "titulo": "Institui a Bolsa de Apoio Social “Mãe Resiliente”, destinada a mulheres com diagnóstico de Transtorno do Espectro Autista que comprovem o exercício da maternidade e a mães ou tutoras legais de pessoas com TEA em situação de vulnerabilidade, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2564401",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-09-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2555110",
+          "num": "PL 4333/2025",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal para dar mais celeridade e eficiência aos processos penais decorrentes de prisão em flagrante, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2555110",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2025-08-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2555108",
+          "num": "PL 4332/2025",
+          "titulo": "Dispõe sobre a destinação de bens, direitos e valores apreendidos e confiscados nos crimes previstos na Lei nº 11.343, de 23 de agosto de 2006, e estabelece mecanismos de compensação financeira aos Estados e ao Distrito Federal e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2555108",
+          "situacao": "Aguardando Deliberação",
+          "dataApresentacao": "2025-08-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2555107",
+          "num": "PL 4331/2025",
+          "titulo": "Altera a Lei 13.756, de 12 de dezembro de 2018, aumenta a destinação da arrecadação com jogos de apostas de quota fixa (bets) para o financiamento da segurança pública, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2555107",
+          "situacao": "Aguardando Deliberação",
+          "dataApresentacao": "2025-08-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2550723",
+          "num": "PL 4133/2025",
+          "titulo": "Estabelece a obrigatoriedade de implementação de redes elétricas inteligentes pelas concessionárias e permissionárias de distribuição e de transmissão de energia elétrica no Brasil.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2550723",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-08-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2539867",
+          "num": "PL 3723/2025",
+          "titulo": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer multa diária em favor da vítima em caso de descumprimento de medida protetiva de urgência e estabelecer a possibilidade de decretação de prisão preventiva.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539867",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-08-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2515591",
+          "num": "PL 2479/2025",
+          "titulo": "Dispõe sobre o valor mínimo de remuneração para serviços de trabalhadores de plataformas digitais de entregas e mototaxistas, estabelece regras de transparência, cria obrigação de seguro de acidentes e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515591",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-05-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2508871",
+          "num": "PL 2305/2025",
+          "titulo": "Dispõe sobre a obrigatoriedade da disponibilização de desfibrilador externo automático (DEA) em academias de ginástica e estabelecimentos similares em todo o território nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2508871",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-05-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2488830",
+          "num": "PL 1204/2025",
+          "titulo": "Altera a Lei nº 11.540, de 12 de novembro de 2007, para autorizar a destinação do FNDCT ao Programa Conhecimento Brasil - Atração e Fixação de Talentos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488830",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-03-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2483555",
+          "num": "PL 379/2025",
+          "titulo": "Altera a Lei nº 12.009, de 29 de julho de 2009, para instituir a obrigatoriedade do curso de atualização profissional para motociclistas que exercem as atividades de mototáxi e motofrete, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483555",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-02-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2477011",
+          "num": "PL 4758/2024",
+          "titulo": "Dispõe sobre a inclusão da disciplina de Inteligência Artificial – IA, no currículo da educação básica e do ensino médio, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477011",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-12-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2470087",
+          "num": "PL 4431/2024",
+          "titulo": "Dispõe sobre a obrigatoriedade de empresas de apostas informarem os usuários sobre os riscos associados aos jogos de azar, incluindo a dependência, os impactos financeiros e os danos à saúde mental, e estabelece outras medidas",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2470087",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-11-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2469515",
+          "num": "PL 4394/2024",
+          "titulo": "Estabelece o Dia Nacional do Dia dos Profissionais do Serviço de Atendimento Móvel de Urgência (Samu).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2469515",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-11-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2467638",
+          "num": "PL 4300/2024",
+          "titulo": "Inclui no Calendário Turístico Nacional a vaquejada da cidade de Brejo Santo, no estado do Ceará e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2467638",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-11-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2466904",
+          "num": "PL 4250/2024",
+          "titulo": "Dispõe sobre a regulamentação da compra, venda, furto e receptação de fios de cobre; e altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2466904",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-11-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2466714",
+          "num": "PL 4239/2024",
+          "titulo": "Institui os abrigos de cães e gatos, em municípios com população igual ou superior a 50.000 (cinquenta mil) habitantes, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2466714",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-11-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2457292",
+          "num": "PL 3487/2024",
+          "titulo": "Inclui no Calendário Turístico Oficial do Brasil o Cariri Moto Fest, que se realiza no Município do Crato, Estado do Ceará.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2457292",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-09-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2447365",
+          "num": "PL 2785/2024",
+          "titulo": "Dispõe sobre a instituição do Programa Bolsa EJA para alunos com idade entre 40 (quarenta) a 60 (sessenta) anos e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2447365",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-07-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2430678",
+          "num": "PL 1517/2024",
+          "titulo": "Institui o Dia Nacional da Mulher na Política.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430678",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-05-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2430677",
+          "num": "PL 1516/2024",
+          "titulo": "Reconhece e declara Patrimônio Religioso, Cultural e Imaterial do Brasil, a Campanha da Fraternidade.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430677",
+          "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+          "dataApresentacao": "2024-05-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2429608",
+          "num": "PL 1408/2024",
+          "titulo": "Confere ao Município de Potengi, na região do Cariri no Estado do Ceará, o título de “Capital dos Ferreiros”.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2429608",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-04-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2428217",
+          "num": "PL 1345/2024",
+          "titulo": "Dispõe sobre a obrigatoriedade da disciplina \"Convívio Social, Tolerância e Respeito para Todos\" no currículo do Ensino Médio das escolas públicas e técnicas brasileiras e adota outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428217",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-04-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2428216",
+          "num": "PL 1344/2024",
+          "titulo": "Inclui no Calendário Turístico oficial do País a Festa do Pau da Bandeira de Santo Antônio em Barbalha na região do Cariri, Estado do Ceará.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428216",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2416611",
+          "num": "PL 6223/2023",
+          "titulo": "Inclui no Calendário Turístico oficial do País as datas de Romarias do município de Juazeiro do Norte na região do Cariri, Estado do Ceará.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416611",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2023-12-22",
+          "classificacao": "aprov",
+          "norma": "Lei Ordinária 15443/2026",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2416611/tramitacoes",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2414823",
+          "num": "PL 6083/2023",
+          "titulo": "Inclui no Calendário Turístico oficial do País a Expo Crato, no Município do Crato na região do Cariri, Estado do Ceará.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2414823",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-12-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2406828",
+          "num": "PL 5718/2023",
+          "titulo": "Dispõe sobre a obrigatoriedade de baixa automática e eletrônica de gravames por instituições credoras após o cumprimento das obrigações por parte do devedor.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2406828",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-11-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2405554",
+          "num": "PL 5629/2023",
+          "titulo": "Altera a Lei nº 11.771, de 17 de setembro de 2008.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2405554",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-11-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2403623",
+          "num": "PL 5481/2023",
+          "titulo": "Dispõe sobre a obrigatoriedade da afixação de cartazes nos bares, casas de espetáculos, restaurantes e estabelecimentos similares, visando à proteção das mulheres e adota outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2403623",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-11-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2402905",
+          "num": "PL 5418/2023",
+          "titulo": "Declara o “Reisado ou folia de reis”, como Manifestação da Cultura Nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2402905",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2023-11-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2401392",
+          "num": "PL 5363/2023",
+          "titulo": "Acrescenta artigo à lei no 10.741, de 1º de outubro de 2003, que dispõe sobre o estatuto da pessoa idosa e dá outras providências",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2401392",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-11-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400939",
+          "num": "PL 5310/2023",
+          "titulo": "Altera a Lei nº 14.682, de 20 de setembro de 2023, para ampliar os requisitos para concessão do selo Empresa Amiga da Mulher.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400939",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2023-11-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2400934",
+          "num": "PL 5308/2023",
+          "titulo": "Autoriza a permanência de veículo automotor em estacionamento, por tempo adicional de 30 (trinta) minutos, contados a partir do pagamento da tarifa, nos locais que especifica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2400934",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-11-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2371451",
+          "num": "PL 3251/2023",
+          "titulo": "Torna o feminicídio um crime autônomo e aumenta a pena a ele cominada.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2371451",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-06-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2362361",
+          "num": "PL 2585/2023",
+          "titulo": "Institui o Dia dos Profissionais do Serviço de Atendimento Móvel de Urgência (Samu).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362361",
+          "situacao": "Devolvida ao(à) Autor(a)",
+          "dataApresentacao": "2023-05-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2359057",
+          "num": "PL 2259/2023",
+          "titulo": "Altera a Lei nº 10.714, de 13 de agosto de 2003, para dispor sobre medidas de combate à violência contra a mulher, tornando obrigatória a utilização de placas com o número do disque denúncia, nos locais que especifica, assim como cria o Programa Yanny Brena e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2359057",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-04-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2358792",
+          "num": "PL 2220/2023",
+          "titulo": "Altera a Lei nº 10.714, de 13 de agosto de 2003, para dispor sobre medidas de combate à violência contra a mulher, tornando obrigatória a utilização de placas com o número do disque denúncia, nos locais que especifica, assim como cria o Programa Yanny Brena e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2358792",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2023-04-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2353945",
+          "num": "PL 1479/2023",
+          "titulo": "Dispõe sobre a exposição na Internet dos agressores cadastrados por violência doméstica e familiar nos termos da Lei Maria da Penha.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2353945",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-03-28",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 1,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220660",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 7457895,
+      "restituicoesCentavos": 0,
+      "registros": 33,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 5895412
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 505046
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 232578
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 480932
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 343927
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 1361315
+        },
+        {
+          "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "totalCentavos": 5746580
+        },
+        {
+          "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalCentavos": 350000
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220660",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:19:01.780494+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/220660/presenca-plenario/2026"
+      ],
+      "totalDias": 38,
+      "presenca": 38,
+      "justificada": 0,
+      "naoJustificada": 0,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-04-29",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-06",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-20",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-21",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-27",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

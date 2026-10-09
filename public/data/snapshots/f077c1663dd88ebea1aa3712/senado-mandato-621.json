@@ -1,0 +1,1313 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-b1053a95-42c5-5e74-8e55-99ed1291ef32",
+  "mandatoId": "senado-mandato-621",
+  "historico": "Histórico Senado: 34 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [
+      {
+        "id": "8590347",
+        "num": "PL 5610/2023",
+        "titulo": "Altera a Lei nº 11.033, de 21 de dezembro de 2004, para dispor sobre o Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária – REPORTO.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161178",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+        "dataApresentacao": "2023-11-21",
+        "classificacao": "aprov",
+        "norma": "Lei nº 14.787 de 28/12/2023"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=1173&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=1173&sigla=PLP&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05"
+      ],
+      "total": 34,
+      "projetos": [
+        {
+          "id": "9111707",
+          "num": "PL 5512/2026",
+          "titulo": "Altera a Lei nº 8.899, de 29 de junho de 1994, para dispor sobre a abrangência do passe livre concedido às pessoas com deficiência comprovadamente carentes no sistema de transporte coletivo interestadual.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175904",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-10-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9110630",
+          "num": "PLP 263/2026",
+          "titulo": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre a não incidência do Imposto sobre Bens e Serviços – IBS e da Contribuição sobre Bens e Serviços – CBS sobre contribuições e operações internas no âmbito das entidades civis sem fins lucrativos e de seus sistemas de representação, bem como para vedar a retenção desses valores pelo mecanismo de pagamento fracionado, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175869",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-09-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9110619",
+          "num": "PL 5474/2026",
+          "titulo": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, e a Lei nº 14.204, de 16 de setembro de 2021, para vedar a nomeação para cargo público federal de pessoa condenada definitivamente por crime cometido com violência doméstica e familiar contra a mulher.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175868",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-09-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9108238",
+          "num": "PL 5372/2026",
+          "titulo": "Altera a Lei nº 12.850, de 2 de agosto de 2013, a Lei nº 9.807, de 13 de julho de 1999, e a Lei nº 13.756, de 12 de dezembro de 2018, para aperfeiçoar os mecanismos de responsabilização de agentes que instrumentalizam organizações criminosas; ampliar a proteção de pessoas ameaçadas por organizações criminosas, facções criminosas e milícias; e estabelecer critérios de priorização para a aplicação de recursos do Fundo Nacional de Segurança Pública.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175790",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-09-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9103054",
+          "num": "PL 5270/2026",
+          "titulo": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para dispor sobre a organização da atuação integrada de apoio às famílias pelos Agentes Comunitários de Saúde e pelos Agentes de Combate às Endemias, sobre o conteúdo dos cursos de aperfeiçoamento e sobre a utilização de sistemas digitais interoperáveis para o acesso às políticas públicas.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175676",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-09-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9089867",
+          "num": "PL 4855/2026",
+          "titulo": "Dispõe sobre a proteção, a saúde e o bem-estar na criação e na comercialização de cães e gatos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175326",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-07-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9086114",
+          "num": "PL 3769/2026",
+          "titulo": "Altera a Lei nº 7.210, de 11 de julho de 1984, para prever que estará sujeito ao regime disciplinar diferenciado o preso que, tendo cometido crime de feminicídio, estupro com resultado morte, estupro de vulnerável com resultado morte ou crime de violência doméstica e familiar contra a mulher, ameace ou pratique violência contra a vítima sobrevivente, seus familiares, amigos ou testemunhas, ou apresente risco concreto de reiteração de conduta violenta.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175209",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-07-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9070516",
+          "num": "PLP 184/2026",
+          "titulo": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para estabelecer condicionantes à realização de novas obras públicas quando houver obras paralisadas ou inacabadas no mesmo Município.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174855",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-06-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9064862",
+          "num": "PLP 174/2026",
+          "titulo": "Institui a Região Integrada de Desenvolvimento do Araguaia-Xingu – RIDE Araguaia-Xingu e cria o Programa Especial de Desenvolvimento do Araguaia-Xingu.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174647",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-06-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9017592",
+          "num": "PL 1320/2026",
+          "titulo": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para instituir o Perímetro de Exclusão Eletrônica (PEE), disciplinar alertas automáticos de risco e criar o Sistema Nacional de Monitoração e Resposta às Medidas Protetivas de Urgência – SINAR-MPU.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173261",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-03-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8995551",
+          "num": "PL 660/2026",
+          "titulo": "Altera a Lei nº 8.629, de 25 de fevereiro de 1993, e a Lei nº 11.952, de 25 de junho de 2009, para aperfeiçoar os critérios de implantação de projetos de assentamento rural e de destinação de terras públicas federais, de modo a contemplar o planejamento prévio, a integração logística e a viabilidade produtiva dos assentamentos, observadas as limitações legais, ambientais e territoriais aplicáveis.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172746",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-02-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8968248",
+          "num": "PL 6152/2025",
+          "titulo": "Altera a Lei nº 5.868, de 12 de dezembro de 1972, para estabelecer em cinco mil metros quadrados a fração mínima de parcelamento do imóvel rural.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171932",
+          "situacao": "RETIRADA PELO AUTOR",
+          "dataApresentacao": "2025-12-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8966091",
+          "num": "PL 6064/2025",
+          "titulo": "Institui o Plano Nacional de Formação de Condutores e altera dispositivos da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a uniformidade dos critérios e procedimentos para habilitação de condutores em todo o território nacional e sobre o papel dos centros de formação de condutores como elo fundamental da cadeia de segurança viária.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171878",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-12-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8913124",
+          "num": "PL 4580/2025",
+          "titulo": "Estabelece critérios mínimos de experiência e qualificação técnica para a seleção de dirigentes dos institutos de pesquisa da União.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170464",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-09-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8910232",
+          "num": "PL 4530/2025",
+          "titulo": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para dispor sobre condições para a oferta de cursos técnicos de nível médio e de educação de jovens e adultos, nas modalidades presencial, semipresencial e a distância.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170441",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-09-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8899366",
+          "num": "PL 4346/2025",
+          "titulo": "Altera a Lei nº 13.140, de 26 de junho de 2015, para dispensar a homologação judicial e a oitiva do Ministério Público em acordo formalizado em processo de controle externo.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170219",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-09-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8893243",
+          "num": "PL 4229/2025",
+          "titulo": "Denomina \"Rodovia Professor Gerson Luiz Bicego\" trecho da rodovia BR-163, no município de Sorriso, no estado de Mato Grosso.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170059",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2025-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8834877",
+          "num": "PL 2477/2025",
+          "titulo": "Altera a Lei nº 8.171, de 17 de janeiro de 1991, para dispor sobre a concessão de incentivos fiscais e o uso de bens públicos da União por empresas do setor agroindustrial.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168738",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-05-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8826041",
+          "num": "PL 2159/2025",
+          "titulo": "Dispõe sobre a suspensão, por 6 (seis) meses, de todos os descontos de contribuições e mensalidades de associações e demais entidades de aposentados facultados por Lei e altera a Lei nº Lei nº 8.213, de 24 de julho de 1991, que “Dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências”",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168431",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2025-05-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8822151",
+          "num": "PL 1898/2025",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal –, para tipificar como crime o exercício ilegal da profissão de corretor de imóveis.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168264",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-04-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8815325",
+          "num": "PL 1590/2025",
+          "titulo": "Estabelece sanções aos ocupantes e invasores de propriedades rurais e urbanas condenados por crimes de invasão de terras públicas, violação de domicílio ou esbulho possessório.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168049",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-04-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8807707",
+          "num": "PL 1278/2025",
+          "titulo": "Altera a Lei nº 14.113, de 25 de dezembro de 2020, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), de que trata o art. 212-A da Constituição Federal; revoga dispositivos da Lei nº 11.494, de 20 de junho de 2007; e dá outras providências, para incluir, dentre as condicionalidades da complementação-VAAR, a utilização, em períodos não letivos, da infraestrutura escolar para atividades educativas, culturais, artísticas, esportivas e de lazer.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167767",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2025-03-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8803377",
+          "num": "PL 1065/2025",
+          "titulo": "Estabelece sanções aos ocupantes e invasores de propriedades rurais e urbanas condenados por crimes de invasão de terras públicas, violação de domicílio ou esbulho possessório.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167604",
+          "situacao": "RETIRADA PELO AUTOR",
+          "dataApresentacao": "2025-03-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8681378",
+          "num": "PL 2349/2024",
+          "titulo": "Autoriza o Conselho Federal de Medicina Veterinária (CFMV) a criar uma Caixa de Assistência dos Profissionais de Medicina Veterinária e de Zootecnia.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164112",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2024-06-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8681093",
+          "num": "PL 2340/2024",
+          "titulo": "Altera a Lei nº 12.702, de 7 de agosto de 2012, para dispor sobre a jornada de trabalho dos ocupantes dos cargos de Engenheiro de Segurança do Trabalho, Engenheiro/área, Engenheiro Agrônomo e Arquiteto e Urbanista do Plano de Carreira dos Cargos Técnico-Administrativos em Educação.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164098",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-06-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8667789",
+          "num": "PL 1972/2024",
+          "titulo": "Autoriza o Poder Executivo a criar o Hospital Universitário da Universidade Federal de Rondonópolis (HU-UFR), no estado de Mato Grosso.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163766",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-05-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8665654",
+          "num": "PL 1903/2024",
+          "titulo": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para determinar critérios para o transporte de animais de estimação aplicáveis ao transporte aéreo de passageiros, doméstico e internacional.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163696",
+          "situacao": "PREJUDICADA",
+          "dataApresentacao": "2024-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8654881",
+          "num": "PL 1528/2024",
+          "titulo": "Acrescenta dispositivo ao Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer a obrigatoriedade de realização de perícia por perito oficial da especialidade médico-veterinária no caso de crimes praticados direta ou indiretamente contra animais determinados.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163291",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-05-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8630806",
+          "num": "PL 600/2024",
+          "titulo": "Denomina \"Rodovia Pedro Inacio Wiegert\" o trecho da rodovia BR-163 compreendido entre o município de Guarantã do Norte e a divisa do estado do Mato Grosso com o estado do Pará.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162406",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2024-03-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8590347",
+          "num": "PL 5610/2023",
+          "titulo": "Altera a Lei nº 11.033, de 21 de dezembro de 2004, para dispor sobre o Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária – REPORTO.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161178",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+          "dataApresentacao": "2023-11-21",
+          "classificacao": "aprov",
+          "norma": "Lei nº 14.787 de 28/12/2023"
+        },
+        {
+          "id": "8589168",
+          "num": "PL 5569/2023",
+          "titulo": "Dispõe sobre direito dos consumidores de acesso a água potável nos estabelecimentos comerciais e eventos coletivos que especifica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161143",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-11-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8489511",
+          "num": "PL 3386/2023",
+          "titulo": "Denomina “Afro Stefanini” o Terminal Ferroviário de Rondonópolis, na Ferrovia Vicente Vuolo - Ferronorte, no Estado de Mato Grosso.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158586",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-07-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8479612",
+          "num": "PL 3225/2023",
+          "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990, para instituir as Patrulhas ou Rondas Henry Borel em âmbito nacional.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158402",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-06-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8417736",
+          "num": "PLP 94/2023",
+          "titulo": "Institui transferências temporárias da União para os Estados e o Distrito federal, autoriza a celebração e aditamento de contratos, e declara atendida a compensação devida em razão das perdas de arrecadação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e Comunicações ocasionadas pela Lei Complementar nº 194, de 23 de junho de 2022.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156961",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-04-19",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 1,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de valorReembolsado por ano/mês da CEAPS, incluindo ajustes negativos.",
+      "fontes": [
+        "https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2026"
+      ],
+      "totalCentavos": 37612062,
+      "restituicoesCentavos": null,
+      "registros": 202,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 3440612
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 4634909
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 5824586
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 4434082
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 8025880
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 3496340
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 5072468
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 2683185
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 0
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+          "totalCentavos": 6538493
+        },
+        {
+          "nome": "Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ",
+          "totalCentavos": 5630165
+        },
+        {
+          "nome": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+          "totalCentavos": 5644800
+        },
+        {
+          "nome": "Divulgação da atividade parlamentar",
+          "totalCentavos": 3500000
+        },
+        {
+          "nome": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+          "totalCentavos": 8532482
+        },
+        {
+          "nome": "Passagens aéreas, aquáticas e terrestres nacionais",
+          "totalCentavos": 7766122
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [],
+  "licencasSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:37:37.778494+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Licenças oficiais com interseção no período consultado. Datas efetivas e previstas separadas. Não mede presença, faltas ou dias de sessão.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "registros": 2,
+      "licencas": [
+        {
+          "id": "26064",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-03-11",
+          "fim": "2026-03-11",
+          "inicioPrevisto": "2026-03-11",
+          "fimPrevisto": "2026-03-11"
+        },
+        {
+          "id": "26525",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-05-28",
+          "fim": "2026-06-05",
+          "inicioPrevisto": "2026-05-28",
+          "fimPrevisto": "2026-06-05"
+        }
+      ]
+    }
+  ],
+  "comparecimentosSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-06-16",
+      "periodoFim": "2026-06-16",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125298",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-83-DOR",
+          "numero": 83,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 96,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7095",
+              "data": "2026-06-16",
+              "materia": "PLP 73/2025",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-06-17",
+      "periodoFim": "2026-06-17",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125318",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-84-DOR",
+          "numero": 84,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 59,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-06-30",
+      "periodoFim": "2026-06-30",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125479",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-91-DOR",
+          "numero": 91,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 87,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-07-02",
+      "periodoFim": "2026-07-02",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125478",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-93-DEX",
+          "numero": 93,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 23,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-07-07",
+      "periodoFim": "2026-07-07",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125578",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-98-DOR",
+          "numero": 98,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 80,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-07-08",
+      "periodoFim": "2026-07-08",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125638",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-100-DOR",
+          "numero": 100,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 92,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-07-09",
+      "periodoFim": "2026-07-09",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125618",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-102-DOR",
+          "numero": 102,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 30,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-07-14",
+      "periodoFim": "2026-07-14",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125698",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-106-DOR",
+          "numero": 106,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 66,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7096",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7097",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-07-15",
+      "periodoFim": "2026-07-15",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125978",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-107-DOR",
+          "numero": 107,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 81,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7098",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7099",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7100",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-08-11",
+      "periodoFim": "2026-08-11",
+      "coletadoEm": "2026-10-09T02:31:13.162478+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126278",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-111-DOR",
+          "numero": 111,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 111,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-08-12",
+      "periodoFim": "2026-08-12",
+      "coletadoEm": "2026-10-09T02:31:13.263596+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126338",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-113-DOR",
+          "numero": 113,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 102,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7101",
+              "data": "2026-08-12",
+              "materia": "PLP 124/2022 (Substitutivo-CD)",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7102",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7103",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "1173",
+      "periodoInicio": "2026-09-01",
+      "periodoFim": "2026-09-03",
+      "coletadoEm": "2026-10-09T02:31:13.274826+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126579",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-09-03&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/1173/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 1,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-120-DOR",
+          "numero": 120,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Wellington Fagundes",
+            "uf": "MT",
+            "pagina": 56,
+            "votoRegistrado": true
+          },
+          "classificacao": "pendente",
+          "votacoes": [
+            {
+              "id": "7104",
+              "data": "2026-09-01",
+              "materia": "PDL 995/2026",
+              "secreta": true,
+              "registro": "P-NRV",
+              "descricao": "Presente – Não registrou voto",
+              "classificacao": "pendente",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7105",
+              "data": "2026-09-03",
+              "materia": "PLP 74/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2024-10-28",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-11-03",
+              "fim": "2024-06-11"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2023-07-05"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1187 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-f3dd9420-79a8-5635-8b71-a102f77d67f0",
+  "mandatoId": "senado-mandato-596",
+  "historico": "Histórico Senado: 32 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "senado",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5672&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "senado",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5672&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [
+      {
+        "id": "8932353",
+        "num": "PL 5238/2025",
+        "titulo": "Institui a Política Nacional de Conscientização e Orientação sobre a Linfangioleiomiomatose.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171017",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+        "dataApresentacao": "2025-10-15",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.505 de 15/09/2026"
+      },
+      {
+        "id": "8692474",
+        "num": "PL 2708/2024",
+        "titulo": "Modifica a Lei n° 14.628, de 20 de julho de 2023, para prever prioridade de aquisição e distribuição de produtos do Programa de Aquisição de Alimentos (PAA) aos municípios em situação de emergência ou estado de calamidade pública.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164424",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+        "dataApresentacao": "2024-07-03",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.227 de 30/09/2025"
+      },
+      {
+        "id": "8526076",
+        "num": "PL 4174/2023",
+        "titulo": "Concede o título de Capital Nacional da Farinha de Mandioca ao Município de Cruzeiro do Sul, no Estado do Acre.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/159521",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+        "dataApresentacao": "2023-08-29",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.051 de 20/12/2024"
+      },
+      {
+        "id": "8478455",
+        "num": "PL 3190/2023",
+        "titulo": "Altera a Lei nº 13.636, de 20 de março de 2018, para aprimorar e fomentar o microcrédito e as microfinanças.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158350",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+        "dataApresentacao": "2023-06-21",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.364 de 26/03/2026"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5672&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5672&sigla=PLP&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05"
+      ],
+      "total": 32,
+      "projetos": [
+        {
+          "id": "9061253",
+          "num": "PLP 165/2026",
+          "titulo": "Institui transação destinada à extinção de créditos públicos de titularidade dos Estados, do Distrito Federal e dos Municípios, mediante aceitação de direitos creditórios líquidos e certos contra a União, e sua utilização na amortização ou quitação de dívidas perante a União.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174511",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-06-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8974219",
+          "num": "PL 6383/2025",
+          "titulo": "Altera a Lei nº 8.857, de 8 de março de 1994, para estender a Área de Livre Comércio de Cruzeiro do Sul (ALCCS) aos municípios de Mâncio Lima e Rodrigues Alves, no Estado do Acre.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172048",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8932353",
+          "num": "PL 5238/2025",
+          "titulo": "Institui a Política Nacional de Conscientização e Orientação sobre a Linfangioleiomiomatose.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171017",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+          "dataApresentacao": "2025-10-15",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.505 de 15/09/2026"
+        },
+        {
+          "id": "8893975",
+          "num": "PL 4249/2025",
+          "titulo": "Dispõe sobre a proteção da imagem, da privacidade, da dignidade e da integridade de crianças e adolescentes em ambientes digitais.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170072",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-08-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8864442",
+          "num": "PL 3420/2025",
+          "titulo": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943, para conceder ausência remunerada de 3 (três) dias consecutivos ao empregado em razão de acolhimento familiar de criança ou adolescente.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169603",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2025-07-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8860986",
+          "num": "PL 3287/2025",
+          "titulo": "Altera a Lei nº 14.173, de 15 de junho de 2021, para prorrogar até 31 de dezembro de 2030 os benefícios de natureza tributária relativos às Taxas de Fiscalização de Instalação e de Fiscalização de Funcionamento, à Contribuição para o Fomento da Radiodifusão Pública e à Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional incidentes sobre estações satelitais de pequeno porte.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169476",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-07-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8833694",
+          "num": "PL 2422/2025",
+          "titulo": "Altera a Lei nº 12.305, de 2 de agosto de 2010, para dispor sobre a regulamentação do tratamento adequado do chorume produzido em aterros sanitários.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168700",
+          "situacao": "RETIRADA PELO AUTOR",
+          "dataApresentacao": "2025-05-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8826041",
+          "num": "PL 2159/2025",
+          "titulo": "Dispõe sobre a suspensão, por 6 (seis) meses, de todos os descontos de contribuições e mensalidades de associações e demais entidades de aposentados facultados por Lei e altera a Lei nº Lei nº 8.213, de 24 de julho de 1991, que “Dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências”",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168431",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2025-05-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8820491",
+          "num": "PL 1799/2025",
+          "titulo": "Institui o Dia Nacional de Valorização e Reconhecimento do Serviço Social do Comércio (Sesc) e do Serviço Nacional de Aprendizagem Comercial (Senac), e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168193",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-04-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8816526",
+          "num": "PL 1646/2025",
+          "titulo": "Altera a Lei nº 12.651, de 25 de maio de 2012, para simplificar a comprovação do Cadastro Ambiental Rural para populações extrativistas para fins de crédito rural.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168082",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8810549",
+          "num": "PL 1414/2025",
+          "titulo": "Altera a Lei nº 13.146, de 6 de julho de 2015, que “institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)”, e a Lei nº 12.764, de 27 de dezembro de 2012, que “institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3º do art. 98 da Lei nº 8.112, de 11 de dezembro de 1990”, para dispor sobre o prazo de validade da avaliação biopsicossocial da deficiência e da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (Ciptea).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167880",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-04-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8804114",
+          "num": "PL 1113/2025",
+          "titulo": "Altera as Leis nº 13.959, de 18 de dezembro de 2019, e nº 12.871, de 22 de outubro de 2013, para dispensar os médicos intercambistas com pelo menos quatro anos de atuação no Projeto Mais Médicos para o Brasil (PMMB) da etapa de exame de habilidades clínicas do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida); e para aumentar, no âmbito do PMMB, o período de atuação sem revalidação do diploma de quatro para cinco anos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167636",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-03-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8762623",
+          "num": "PL 4720/2024",
+          "titulo": "Altera as Leis nº 11.977, de 7 de julho de 2009, e nº 14.620, de 13 de julho de 2023, para incluir nas linhas de atendimento do Programa Minha Casa, Minha Vida a reconstrução de unidades habitacionais danificadas total ou parcialmente por desastre natural.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166406",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-12-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8692474",
+          "num": "PL 2708/2024",
+          "titulo": "Modifica a Lei n° 14.628, de 20 de julho de 2023, para prever prioridade de aquisição e distribuição de produtos do Programa de Aquisição de Alimentos (PAA) aos municípios em situação de emergência ou estado de calamidade pública.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164424",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+          "dataApresentacao": "2024-07-03",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.227 de 30/09/2025"
+        },
+        {
+          "id": "8676738",
+          "num": "PL 2220/2024",
+          "titulo": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, que altera a legislação do imposto de renda e dá outras providências, para inserir a linfangioleiomiomatose entre as doenças que dão causa à isenção do Imposto sobre a Renda das Pessoas Físicas relativo aos proventos de aposentadoria, reforma ou pensão.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163986",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2024-06-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8649368",
+          "num": "PL 1331/2024",
+          "titulo": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para atualizar o limite da dispensa de registro de Livro Caixa pelo produtor rural pessoa física.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163137",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2024-04-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8639976",
+          "num": "PL 1018/2024",
+          "titulo": "Institui o Programa Nacional de Prevenção à Insegurança Alimentar na Educação Infantil e no Ensino Fundamental.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162821",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-03-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8639618",
+          "num": "PL 982/2024",
+          "titulo": "Institui o Auxílio Desastre Rural para atendimento a agricultores familiares que tenham suas plantações severamente prejudicadas por desastres nos Municípios com reconhecimento de estado de calamidade pública ou situação de emergência pelo governo federal, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162801",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2024-03-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8636232",
+          "num": "PLP 24/2024",
+          "titulo": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para elevar a R$120.000,00 o valor de receita bruta anual que permite o enquadramento como Microempreendedor Individual (MEI), bem como prever a correção anual do limite pela variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) acumulada nos doze meses imediatamente anteriores ao mês de janeiro de cada ano.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162676",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2024-03-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8623558",
+          "num": "PL 352/2024",
+          "titulo": "Altera a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para dispor sobre o trabalho do preso e o ressarcimento de danos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162125",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-02-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8609368",
+          "num": "PL 6140/2023",
+          "titulo": "Altera o art. 22 da Lei nº 7.102, de 20 de junho de 1983, para dispor sobre o porte de arma de fogo dos calibres 5,56 mm e 7,62 mm por vigilantes quando em serviço de proteção em área rural.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161729",
+          "situacao": "AGUARDANDO AUDIÊNCIA PÚBLICA",
+          "dataApresentacao": "2023-12-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8592925",
+          "num": "PL 5684/2023",
+          "titulo": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para dispor sobre o pagamento do abono anual no âmbito do Benefício de Prestação Continuada.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161241",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-11-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8575549",
+          "num": "PL 5289/2023",
+          "titulo": "Altera a Lei nº 9.532, de 10 de dezembro de 1997, para estender o prazo de vigência dos incentivos fiscais a que se referem o Decreto-Lei nº 288, de 28 de fevereiro de 1967, com as posteriores alterações, o Decreto-Lei nº 356, de 15 de agosto de 1968, o Decreto-Lei nº 1.435, de 16 de dezembro de 1975 e a Lei nº 8.387, de 30 de dezembro de 1991.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160747",
+          "situacao": "RETIRADA PELO AUTOR",
+          "dataApresentacao": "2023-10-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8572157",
+          "num": "PLP 225/2023",
+          "titulo": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para dispor sobre a concessão de empréstimos com recursos públicos a países estrangeiros.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160674",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2023-10-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8542078",
+          "num": "PL 4507/2023",
+          "titulo": "Dispõe sobre a prorrogação do pagamento de financiamentos relacionados a operações de crédito rural em caso de prejuízo por queda nos preços dos produtos vinculados a atividade rural financiada.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160000",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-09-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8537620",
+          "num": "PL 4392/2023",
+          "titulo": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para permitir a cabotagem aérea a empresas sul-americanas na Amazônia Legal.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/159879",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-09-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8537568",
+          "num": "PL 4388/2023",
+          "titulo": "Altera a Lei nº 12.462, de 4 de agosto de 2011, para permitir a utilização de recursos do Fundo Nacional de Aviação Civil (FNAC) para subsidiar a aquisição do querosene de aviação comercializado em aeroportos localizados na Região Norte.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/159878",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-09-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8526076",
+          "num": "PL 4174/2023",
+          "titulo": "Concede o título de Capital Nacional da Farinha de Mandioca ao Município de Cruzeiro do Sul, no Estado do Acre.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/159521",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+          "dataApresentacao": "2023-08-29",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.051 de 20/12/2024"
+        },
+        {
+          "id": "8495695",
+          "num": "PL 3560/2023",
+          "titulo": "Altera a Lei nº 13.959, de 18 de dezembro de 2019, para reduzir o valor máximo a ser cobrado para a realização da segunda etapa do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158780",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2023-07-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8478455",
+          "num": "PL 3190/2023",
+          "titulo": "Altera a Lei nº 13.636, de 20 de março de 2018, para aprimorar e fomentar o microcrédito e as microfinanças.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158350",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+          "dataApresentacao": "2023-06-21",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.364 de 26/03/2026"
+        },
+        {
+          "id": "8470140",
+          "num": "PL 2970/2023",
+          "titulo": "Dispõe sobre o bônus de inclusão regional nos processos seletivos para ingresso nos cursos de graduação em instituições federais de ensino superior.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158017",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2023-06-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8419253",
+          "num": "PL 2036/2023",
+          "titulo": "Estabelece normas gerais sobre segurança escolar e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157013",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-04-19",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 4,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de valorReembolsado por ano/mês da CEAPS, incluindo ajustes negativos.",
+      "fontes": [
+        "https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2026"
+      ],
+      "totalCentavos": 23666793,
+      "restituicoesCentavos": null,
+      "registros": 126,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 2596866
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 3616752
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 5406297
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 2440833
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 3197216
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 2614069
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 699042
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 3095718
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 0
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+          "totalCentavos": 2777366
+        },
+        {
+          "nome": "Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ",
+          "totalCentavos": 449400
+        },
+        {
+          "nome": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+          "totalCentavos": 9452031
+        },
+        {
+          "nome": "Divulgação da atividade parlamentar",
+          "totalCentavos": 5320000
+        },
+        {
+          "nome": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+          "totalCentavos": 5667996
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [],
+  "licencasSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:37:36.082894+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Licenças oficiais com interseção no período consultado. Datas efetivas e previstas separadas. Não mede presença, faltas ou dias de sessão.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "registros": 1,
+      "licencas": [
+        {
+          "id": "27845",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-10-08",
+          "fim": "2026-10-08",
+          "inicioPrevisto": "2026-10-08",
+          "fimPrevisto": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "comparecimentosSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-06-16",
+      "periodoFim": "2026-06-16",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125298",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-83-DOR",
+          "numero": 83,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 95,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7095",
+              "data": "2026-06-16",
+              "materia": "PLP 73/2025",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-06-17",
+      "periodoFim": "2026-06-17",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125318",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-84-DOR",
+          "numero": 84,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 58,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-06-30",
+      "periodoFim": "2026-06-30",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125479",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-91-DOR",
+          "numero": 91,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 86,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-07-02",
+      "periodoFim": "2026-07-02",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125478",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-93-DEX",
+          "numero": 93,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 22,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-07-07",
+      "periodoFim": "2026-07-07",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125578",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-98-DOR",
+          "numero": 98,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 79,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-07-08",
+      "periodoFim": "2026-07-08",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125638",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-100-DOR",
+          "numero": 100,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 91,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-07-09",
+      "periodoFim": "2026-07-09",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125618",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-102-DOR",
+          "numero": 102,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 29,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-07-14",
+      "periodoFim": "2026-07-14",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125698",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-106-DOR",
+          "numero": 106,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 65,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7096",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7097",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-07-15",
+      "periodoFim": "2026-07-15",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125978",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-107-DOR",
+          "numero": 107,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 80,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7098",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7099",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7100",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-08-11",
+      "periodoFim": "2026-08-11",
+      "coletadoEm": "2026-10-09T02:31:13.162478+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126278",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-111-DOR",
+          "numero": 111,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 110,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-08-12",
+      "periodoFim": "2026-08-12",
+      "coletadoEm": "2026-10-09T02:31:13.263596+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126338",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 1,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-113-DOR",
+          "numero": 113,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 101,
+            "votoRegistrado": true
+          },
+          "classificacao": "pendente",
+          "votacoes": [
+            {
+              "id": "7101",
+              "data": "2026-08-12",
+              "materia": "PLP 124/2022 (Substitutivo-CD)",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7102",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7103",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "P-NRV",
+              "descricao": "Presente – Não registrou voto",
+              "classificacao": "pendente",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5672",
+      "periodoInicio": "2026-09-01",
+      "periodoFim": "2026-09-03",
+      "coletadoEm": "2026-10-09T02:31:13.274826+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126579",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-09-03&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5672/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-120-DOR",
+          "numero": 120,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Alan Rick",
+            "uf": "AC",
+            "pagina": 55,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7104",
+              "data": "2026-09-01",
+              "materia": "PDL 995/2026",
+              "secreta": true,
+              "registro": "Votou",
+              "descricao": "Votou",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7105",
+              "data": "2026-09-03",
+              "materia": "PLP 74/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

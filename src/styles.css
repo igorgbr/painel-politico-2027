@@ -1,0 +1,68 @@
+@font-face{font-family:Archivo;font-style:normal;font-weight:100 900;font-display:swap;src:url('/fonts/archivo.woff2') format('woff2')}
+@font-face{font-family:'Public Sans';font-style:normal;font-weight:100 900;font-display:swap;src:url('/fonts/public-sans.woff2') format('woff2')}
+body{margin:0;background:#F4F4F1;color:#16181D;font-family:'Public Sans',system-ui,sans-serif}
+a{color:#1F4E8C}a:hover{color:#123460}
+h1,h2,h3{font-family:'Archivo',sans-serif;margin:0}
+.card{background:#fff;border:1px solid #E1E1DA;border-radius:12px;padding:20px;box-sizing:border-box}
+.tile{position:absolute;width:72px;height:72px;border:0;border-radius:10px;font:700 18px 'Archivo',sans-serif;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}
+.tile small{font:500 11px 'Public Sans',sans-serif}
+.seat{position:absolute;border:0;border-radius:50%;padding:0;cursor:pointer}
+.chip{display:inline-flex;align-items:center;gap:8px;min-height:36px;padding:4px 12px;border-radius:999px;border:1px solid #D6D6CE;background:#fff;font:600 13px 'Public Sans',sans-serif;cursor:pointer;color:#16181D}
+.dot{width:12px;height:12px;border-radius:50%;flex:none}
+.row{display:flex;align-items:center;gap:10px;width:100%;min-height:44px;padding:8px 10px;border:0;border-bottom:1px solid #EEEEE8;background:transparent;text-align:left;font:500 14px 'Public Sans',sans-serif;cursor:pointer;color:#16181D}
+.row:hover{background:#F4F4F1}
+.stat{background:#F4F4F1;border-radius:10px;padding:12px}
+.stat b{display:block;font:800 22px 'Archivo',sans-serif}
+.portrait{width:32px;height:32px;flex-shrink:0;object-fit:cover;object-position:center top;border-radius:50%;background:#EEEEE8}
+.portrait-large{width:64px;height:64px;border-radius:12px}
+.stat span{font-size:12px;color:#55585F}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 18px;border-radius:8px;border:1px solid #16181D;background:#16181D;color:#fff;font:600 14px 'Public Sans',sans-serif;cursor:pointer;text-decoration:none}
+.btn.alt{background:#fff;color:#16181D}
+a.btn:hover{color:#fff}a.btn.alt:hover{color:#16181D}
+label{font-size:12px;font-weight:600;color:#55585F;display:flex;flex-direction:column;gap:4px}
+select,input{min-height:40px;border:1px solid #CFCFC6;border-radius:8px;padding:0 10px;font:500 14px 'Public Sans',sans-serif;background:#fff;color:#16181D}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th{text-align:left;font-weight:600;color:#55585F;padding:8px;border-bottom:2px solid #16181D;white-space:nowrap}
+td{padding:8px;border-bottom:1px solid #EEEEE8;white-space:nowrap}
+.mob{display:none}
+.gtile{aspect-ratio:1;min-height:44px;border:0;border-radius:8px;font:700 14px 'Archivo',sans-serif;cursor:pointer;padding:0}
+@media (max-width:640px){.mob{display:grid}.desk{display:none !important}}
+@media print{.noprint{display:none !important}body{background:#fff}}
+.wrap{display:flex;flex-wrap:wrap;gap:24px;align-items:flex-start}
+.muted{color:#55585F}
+
+button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible,[role=button]:focus-visible{outline:3px solid #1F4E8C;outline-offset:3px}
+.row>span:nth-child(2){min-width:0;overflow-wrap:anywhere}
+.row>span:last-child{flex-shrink:0}
+.print-only,.print-extra{display:none}
+@media(max-width:640px){
+  header.noprint{padding:16px !important}
+  header nav{width:100%;display:grid !important;grid-template-columns:repeat(4,minmax(0,1fr))}
+  header nav .btn{padding:0 8px}
+  main{padding:16px !important}
+  .card{padding:16px}
+  .wrap{gap:16px}
+  .row{flex-wrap:wrap;gap:8px}
+  .row>span:last-child{margin-left:auto}
+  .stat b{font-size:clamp(16px,5vw,22px);overflow-wrap:anywhere}
+  .gtile{aspect-ratio:auto;width:100%;height:44px;min-width:0}
+  label{min-width:0}
+  select,input{max-width:100%;box-sizing:border-box}
+}
+@media print{
+  @page{size:A4 landscape;margin:12mm}
+  .print-only{display:block}
+  .print-extra{display:table-row}
+  main{max-width:none !important;padding:0 !important}
+  .card{border:0;padding:0;margin-bottom:20px}
+  .card>div{overflow:visible !important}
+  table{font-size:9px}
+  th,td{padding:5px;white-space:normal}
+  thead{display:table-header-group}
+  tr{break-inside:avoid}
+}
+
+.stat b{font-size:clamp(15px,1.6vw,22px);overflow-wrap:anywhere}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.source-note{font-size:12px;color:#55585F;background:#F4F4F1;padding:12px;border-radius:8px;margin:12px 0}
+.source-note p{margin:0 0 8px}

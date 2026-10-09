@@ -1,0 +1,315 @@
+{
+  "status": "parcial",
+  "versao": "0462f8c38c81a56bc7d5fef8",
+  "coletadoEm": "2026-10-09T01:21:09.881017+00:00",
+  "periodoInicio": "2026-01-01",
+  "periodoFim": "2026-10-08",
+  "consultados": 370,
+  "presencasCamara": 322,
+  "erros": [
+    {
+      "id": "tse-2026-10002533895",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-10002548050",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-40002537344",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-50002536317",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-50002536321",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-80002551370",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-120002535764",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-150002544905",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-170002547773",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-170002547771",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-180002533967",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-160002547661",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-260002547285",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-270002546333",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-10002545233",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-10002538358",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-40002540481",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-70002539540",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-70002550316",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-80002549477",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-90002542616",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-90002542626",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-100002537259",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-130002543714",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-130002542011",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-130002542022",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-110002542607",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-140002540461",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-170002539181",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-170002534906",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-160002547568",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-160002542318",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-160002532856",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-160002540768",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-160002542297",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-160002547593",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-190002543065",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-190002543092",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-190002540157",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-190002532805",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-210002534584",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-260002547412",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-250002532353",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-250002534930",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-250002535975",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-250002533666",
+      "fonte": "camara",
+      "erro": "Fonte oficial informa ausência de dados para 2026",
+      "tipo": "sem-registros"
+    },
+    {
+      "id": "tse-2026-250002536733",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    },
+    {
+      "id": "tse-2026-250002535940",
+      "fonte": "camara",
+      "erro": "HTTP Error 500: Internal Server Error",
+      "tipo": "http"
+    }
+  ],
+  "subsidio": {
+    "valorCentavos": 4636619,
+    "inicioVigencia": "2025-02-01",
+    "verificadoEm": "2026-10-09T01:21:10.688372+00:00",
+    "fontes": [
+      "https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/guia-para-jornalistas/salario-de-deputados",
+      "https://www2.camara.leg.br/legin/fed/decleg/2022/decretolegislativo-172-21-dezembro-2022-793529-publicacaooriginal-166604-pl.html"
+    ],
+    "norma": "Decreto Legislativo 172/2022",
+    "tipo": "referencia-bruta-mensal"
+  },
+  "senado": {
+    "status": "pendente",
+    "motivo": "Reconciliar presenças com licenças e justificativas; não inferir faltas de votos ausentes.",
+    "fonteUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/guia-para-jornalistas/tutorial-de-verificacao-da-assiduidade-dos-senadores"
+  }
+}

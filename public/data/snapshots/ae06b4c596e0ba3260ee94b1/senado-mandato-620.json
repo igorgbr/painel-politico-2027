@@ -1,0 +1,1473 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-db1dfd13-61d6-54af-a3cb-2ded6274ab7a",
+  "mandatoId": "senado-mandato-620",
+  "historico": "Histórico Senado: 54 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "senado",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5322&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "senado",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5322&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [
+      {
+        "id": "8478455",
+        "num": "PL 3190/2023",
+        "titulo": "Altera a Lei nº 13.636, de 20 de março de 2018, para aprimorar e fomentar o microcrédito e as microfinanças.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158350",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+        "dataApresentacao": "2023-06-21",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.364 de 26/03/2026"
+      },
+      {
+        "id": "8463820",
+        "num": "PL 2875/2023",
+        "titulo": "Institui o Dia Nacional do Acolhimento do Paciente Oncológico.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157842",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+        "dataApresentacao": "2023-05-31",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.241 de 28/10/2025"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5322&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5322&sigla=PLP&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05"
+      ],
+      "total": 54,
+      "projetos": [
+        {
+          "id": "9097199",
+          "num": "PL 5087/2026",
+          "titulo": "Institui normas gerais para a exploração comercial de atividades de aventura de alto risco.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175514",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-08-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9096429",
+          "num": "PL 5069/2026",
+          "titulo": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para exigir que os equipamentos de pagamento eletrônico disponibilizados para uso da pessoa com deficiência em transações comerciais sejam dotados de recursos de acessibilidade tátil, visual e sonora.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175506",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-08-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9096418",
+          "num": "PL 5068/2026",
+          "titulo": "Altera a Lei nº 8.009, de 29 de março de 1990, e a Lei nº 7.853, de 24 de outubro de 1989, para tornar absolutamente impenhorável o bem de família em que resida pessoa com deficiência grave.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175505",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-08-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9096407",
+          "num": "PL 5067/2026",
+          "titulo": "Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre a cobertura da tomografia por emissão de pósitrons associada à tomografia computadorizada (PET-CT) na assistência oncológica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175504",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-08-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9065867",
+          "num": "PL 3148/2026",
+          "titulo": "Torna obrigatória a disponibilização de exame laboratorial para análise de biomarcadores sanguíneos relacionados à doença de Alzheimer no âmbito do Sistema Único de Saúde.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174678",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-06-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8909587",
+          "num": "PL 4521/2025",
+          "titulo": "Altera a Lei nº 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência, para dispor sobre a contratação de profissionais de apoio escolar para estudantes com deficiência, nos termos que especifica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170429",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-09-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8893160",
+          "num": "PL 4225/2025",
+          "titulo": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para isentar os rendimentos do contribuinte que tenha dependente portador de moléstia grave do Imposto sobre a Renda da Pessoa Física (IRPF).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170058",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8893146",
+          "num": "PL 4224/2025",
+          "titulo": "Altera a Lei nº 6.259, de 30 de outubro de 1975, que dispõe sobre o Programa Nacional de Imunizações, para instituir medidas de incentivo e conscientização sobre a saúde do viajante.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170057",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8893139",
+          "num": "PL 4223/2025",
+          "titulo": "Altera as Leis nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e nº 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência, para prever a promoção de atividades pedagógicas inclusivas no ambiente escolar, com atenção dirigida também aos períodos de recreação, nos termos especificados.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170056",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8893132",
+          "num": "PL 4222/2025",
+          "titulo": "Altera a Lei nº 9.656, de 3 de junho de 1998 (Lei dos Planos de Saúde), para dispor sobre a obrigatoriedade de transparência nos reajustes aplicados a planos privados de assistência à saúde coletivos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170055",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8855270",
+          "num": "PL 3079/2025",
+          "titulo": "Dispõe sobre assistência humanitária para translado de corpos ou restos mortais de brasileiros falecidos no exterior, em casos de comprovada vulnerabilidade financeira da família.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169319",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-06-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8844723",
+          "num": "PL 2770/2025",
+          "titulo": "Altera o art. 141 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para conceder a gratuidade da justiça nas demandas de competência da Justiça da Infância e da Juventude nas quais figure, como parte, criança ou adolescente que seja deficiente ou portador de doença crônica ou incurável.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168993",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2025-06-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8837933",
+          "num": "PL 2588/2025",
+          "titulo": "Altera o art. 155 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) para prever que, no caso do crime de furto mediante fraude eletrônica, as penas serão aplicadas em concurso material se a conduta for precedida da subtração de dispositivo eletrônico ou informático.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168820",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-05-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8837913",
+          "num": "PL 2587/2025",
+          "titulo": "Altera a Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento e dá outras providências, para obrigar os hospitais autorizados a retirar órgãos e tecidos a garantir o exame de ecocardiografia dos doadores.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168819",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-05-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8810080",
+          "num": "PL 1391/2025",
+          "titulo": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, que “dispõe sobre a organização da Assistência Social e dá outras providências”, para criar incentivo financeiro à conclusão das etapas da educação básica e superior por estudantes com deficiência que recebam benefício de prestação continuada.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167864",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-04-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8793844",
+          "num": "PL 434/2025",
+          "titulo": "Dispõe sobre o reconhecimento da prática da altinha ou altinho como modalidade esportiva e estabelece diretrizes para sua promoção e facilitação.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167197",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2025-02-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8793704",
+          "num": "PL 423/2025",
+          "titulo": "Dispõe sobre o reconhecimento da prática do futevôlei como modalidade esportiva e estabelece diretrizes para sua promoção e facilitação.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167193",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2025-02-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8777771",
+          "num": "PL 4936/2024",
+          "titulo": "Altera a Lei nº 125, de 3 de dezembro de 1935, para determinar a adoção de práticas de construção sustentável para a edificação e reforma de prédios públicos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166812",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-12-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8759976",
+          "num": "PL 4681/2024",
+          "titulo": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para alterar as possibilidades de rescisão unilateral do contrato.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166354",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2024-12-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8759958",
+          "num": "PL 4680/2024",
+          "titulo": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social e dá outras providências, para determinar o acréscimo de 25% (vinte e cinco por cento) no valor do Benefício de Prestação Continuada quando o beneficiário necessitar de assistência permanente de outra pessoa.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166353",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-12-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8759939",
+          "num": "PL 4679/2024",
+          "titulo": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para estabelecer prazos máximos para atendimento aos beneficiários.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166352",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2024-12-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8759918",
+          "num": "PL 4678/2024",
+          "titulo": "Dispõe sobre a terapia assistida por animais a pessoas com deficiência.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166351",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-12-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8759894",
+          "num": "PL 4677/2024",
+          "titulo": "Altera a Lei nº 14.597, de 14 de junho de 2023, que institui a Lei Geral do Esporte, para incluir a prioridade na contratação de ex-atletas entre as exigências a serem cumpridas pelas organizações de administração e de prática esportiva do Sinesp beneficiadas com repasses de recursos públicos federais da administração direta e indireta e de valores provenientes de concursos de prognósticos e de loterias.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166350",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-12-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8748611",
+          "num": "PL 4369/2024",
+          "titulo": "Altera a Lei nº 12.345, de 9 de dezembro de 2010, para dispor sobre a faculdade de realização de audiências e consultas públicas para a instituição de datas comemorativas.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166119",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-11-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8748482",
+          "num": "PL 4366/2024",
+          "titulo": "Altera a Lei nº 14.606, de 20 de junho de 2023, que dispõe sobre a conscientização sobre a Doença de Parkinson, para instituir o uso do cordão com desenhos de tulipas vermelhas para identificação de pessoas portadoras da Doença de Parkinson.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166117",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2024-11-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8728587",
+          "num": "PLP 149/2024",
+          "titulo": "Dispõe sobre os requisitos para que os entes federados forneçam medicamentos não incorporados em atos normativos do Sistema Único de Saúde (SUS) ou não registrados na Agência Nacional de Vigilância Sanitária (Anvisa) e sobre o reconhecimento da solidariedade dos entes federados pela promoção dos atos necessários à concretização do direito à saúde.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165524",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-09-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8723766",
+          "num": "PL 3490/2024",
+          "titulo": "Exclui a área do Alto Corcovado dos limites do Parque Nacional da Tijuca.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165357",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-09-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8698354",
+          "num": "PL 2827/2024",
+          "titulo": "Acrescenta o § 3° ao art. 136 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, para permitir que o empregado que tenha filho com deficiência possa fazer coincidir suas férias com as férias ou recessos escolares de seu filho.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164687",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-07-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8691318",
+          "num": "PL 2671/2024",
+          "titulo": "Altera as Leis nos 13.431, de 4 de abril de 2017, e 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para prever a imediata adoção de medida protetiva de urgência, consistente no distanciamento entre o agressor e a criança ou adolescente vítima de violência.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164396",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-07-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8691302",
+          "num": "PL 2670/2024",
+          "titulo": "Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre a fiscalização, o controle e a regulamentação da garantia da cobertura assistencial não incluída no rol de procedimentos e eventos em saúde suplementar.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164395",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2024-07-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8680129",
+          "num": "PL 2314/2024",
+          "titulo": "Altera o art. 75-F da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre o dever do empregador de, na alocação em vagas para atividades que possam ser efetuadas por meio do teletrabalho ou trabalho remoto, dar prioridade ao empregado que seja acompanhante de paciente em situação de internação.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164071",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-06-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8644724",
+          "num": "PL 1179/2024",
+          "titulo": "Institui diretrizes, estratégias e ações para o programa de atenção e orientação às mães atípicas - Cuidando de quem Cuida.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163002",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8644717",
+          "num": "PL 1178/2024",
+          "titulo": "Altera a Lei nº 6.360, de 23 de setembro de 1976, que dispõe sobre a Vigilância Sanitária a que ficam sujeitos os Medicamentos, as Drogas, os Insumos Farmacêuticos e Correlatos, Cosméticos, Saneantes e Outros Produtos, e dá outras providências, para determinar a obrigatoriedade da aposição de alerta nas bulas de medicamentos advertindo o atleta sobre a necessidade de observar a lista de substâncias e métodos proibidos antes de consumir medicamentos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163001",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8644710",
+          "num": "PL 1176/2024",
+          "titulo": "Altera a Lei nº 13.303, de 30 de junho de 2016, para estabelecer a igualdade proporcional e o tratamento isonômico nos convênios e contratos de patrocínio a atletas e equipes esportivas realizados por empresas públicas ou sociedades de economia mista, garantindo a distribuição equitativa de recursos entre modalidades esportivas masculinas e femininas.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163000",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8644696",
+          "num": "PL 1175/2024",
+          "titulo": "Acrescenta o art. 4°-A à Lei n° 9.029, de 13 de abril de 1995, para dispor sobre a dispensa de empregado portador de doença grave ou que suscite estigma ou preconceito.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162999",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8644684",
+          "num": "PL 1174/2024",
+          "titulo": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para obrigar as empresas de planos de saúde a oferecer e comercializar planos de saúde individuais aos consumidores.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162998",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8644542",
+          "num": "PL 1169/2024",
+          "titulo": "Altera a Lei nº 8.212, de 24 de julho de 1991, para estabelecer alíquota diferenciada de contribuição aos beneficiários do Benefício de Prestação Continuada.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162992",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8582630",
+          "num": "PL 5437/2023",
+          "titulo": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, para acrescentar parágrafo determinando a convocação de candidatos deficientes em concursos públicos, independentemente da existência de aprovados no certame regular.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160963",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-11-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8582626",
+          "num": "PL 5436/2023",
+          "titulo": "Altera a Lei nº 14.597, de 14 de junho de 2023, que institui a Lei Geral do Esporte, para estabelecer que o atleta condenado por dopagem somente terá suspenso o pagamento da Bolsa-Atleta após sentença transitada em julgado imposta por Tribunal de Justiça Esportiva.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160962",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-11-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8582622",
+          "num": "PL 5435/2023",
+          "titulo": "Institui o Programa Nacional de Atenção Integral às Pessoas com Epidermólise Bolhosa no âmbito do Sistema Único de Saúde (SUS).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160961",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2023-11-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8572887",
+          "num": "PL 5173/2023",
+          "titulo": "Institui o Dia Nacional de Conscientização sobre a Mielomeningocele.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160690",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-10-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8572847",
+          "num": "PL 5172/2023",
+          "titulo": "Altera a Lei nº 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência, para permitir que pessoas com deficiência tenham o direito de suspender, cancelar ou desistir de cursos de capacitação em instituições públicas ou privadas sem que haja incidência de multas contratuais ou custos financeiros adicionais.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160689",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-10-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8501527",
+          "num": "PL 3669/2023",
+          "titulo": "Institui o mês de outubro como o Mês de Conscientização da Síndrome de Rett.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158869",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-08-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8490911",
+          "num": "PL 3427/2023",
+          "titulo": "Altera a Lei nº 10.048, de 8 de novembro de 2000, e a Lei nº 14.606, de 20 de junho de 2023, para dispor sobre a prioridade de atendimento e a identificação da pessoa com doença de Parkinson.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158636",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-07-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8478455",
+          "num": "PL 3190/2023",
+          "titulo": "Altera a Lei nº 13.636, de 20 de março de 2018, para aprimorar e fomentar o microcrédito e as microfinanças.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158350",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+          "dataApresentacao": "2023-06-21",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.364 de 26/03/2026"
+        },
+        {
+          "id": "8463901",
+          "num": "PL 2876/2023",
+          "titulo": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais, para dispor que, para inscrição em concurso, terá validade indeterminada o laudo que ateste deficiência permanente.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157844",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-05-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8463820",
+          "num": "PL 2875/2023",
+          "titulo": "Institui o Dia Nacional do Acolhimento do Paciente Oncológico.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157842",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+          "dataApresentacao": "2023-05-31",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.241 de 28/10/2025"
+        },
+        {
+          "id": "8452383",
+          "num": "PL 2648/2023",
+          "titulo": "Dispõe sobre a formação de cadastro da pessoa com deficiência junto às organizadoras de concurso público, de forma a se dispensar a reiterada comprovação da deficiência permanente.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157478",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8452345",
+          "num": "PL 2647/2023",
+          "titulo": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para incluir expressamente as pessoas com Síndrome de Down como beneficiárias da isenção do Imposto sobre Produtos Industrializados de que trata o seu art. 1º.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157477",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8452341",
+          "num": "PL 2646/2023",
+          "titulo": "Acrescenta o art. 62-A à Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para conceder jornada de trabalho especial, sem prejuízo do salário, ao empregado que tenha filho - adotado ou sob guarda judicial para fins de adoção - ou dependente, que tenham deficiência.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157476",
+          "situacao": "RETIRADA PELO AUTOR",
+          "dataApresentacao": "2023-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8452337",
+          "num": "PL 2645/2023",
+          "titulo": "Altera a Lei nº 13.465, de 11 de julho de 2017, que dispõe sobre a regularização fundiária rural e urbana, e a Lei nº 12.608, de 10 de abril de 2012, que institui a Política Nacional de Proteção e Defesa Civil, para estabelecer medidas destinadas a evitar a ocorrência de desastres em áreas de risco.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157475",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2023-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8442536",
+          "num": "PL 2368/2023",
+          "titulo": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, que altera a legislação do imposto de renda e dá outras providências, para estender a isenção do Imposto sobre a Renda da Pessoa Física para os rendimentos do trabalho percebidos pelos contribuintes acometidos por câncer.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157269",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-05-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8442158",
+          "num": "PL 2360/2023",
+          "titulo": "Altera a Lei nº 9.656, de 3 de junho de 1998 (Lei dos Planos de Saúde), para vedar a limitação do número de consultas ou de sessões com nutricionista, fonoaudiólogo, psicólogo, terapeuta ocupacional, enfermeiro obstétrico e obstetriz, ou de psicoterapia, assim como de procedimentos de reeducação e reabilitação física; e dispor sobre a cobertura assistencial de recursos terapêuticos complementares não previstos no Rol de Procedimentos e Eventos em Saúde Suplementar.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157256",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-05-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8442151",
+          "num": "PL 2359/2023",
+          "titulo": "Altera a Lei nº 13.146, de 6 de julho de 2015, para instituir o Sistema Nacional da Casa Lar da Pessoa com Deficiência.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157255",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-05-04",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 2,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de valorReembolsado por ano/mês da CEAPS, incluindo ajustes negativos.",
+      "fontes": [
+        "https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2026"
+      ],
+      "totalCentavos": 11151423,
+      "restituicoesCentavos": null,
+      "registros": 66,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 1049222
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 2470045
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 2128407
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 2152370
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 2088375
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 1263004
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+          "totalCentavos": 3423054
+        },
+        {
+          "nome": "Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ",
+          "totalCentavos": 2234370
+        },
+        {
+          "nome": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+          "totalCentavos": 4594950
+        },
+        {
+          "nome": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+          "totalCentavos": 149835
+        },
+        {
+          "nome": "Passagens aéreas, aquáticas e terrestres nacionais",
+          "totalCentavos": 749214
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [],
+  "licencasSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:37:38.851116+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Licenças oficiais com interseção no período consultado. Datas efetivas e previstas separadas. Não mede presença, faltas ou dias de sessão.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "registros": 0,
+      "licencas": []
+    }
+  ],
+  "comparecimentosSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-06-16",
+      "periodoFim": "2026-06-16",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125298",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-83-DOR",
+          "numero": 83,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 96,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7095",
+              "data": "2026-06-16",
+              "materia": "PLP 73/2025",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-06-17",
+      "periodoFim": "2026-06-17",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125318",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-84-DOR",
+          "numero": 84,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 59,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-06-30",
+      "periodoFim": "2026-06-30",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125479",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-91-DOR",
+          "numero": 91,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 87,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-07-02",
+      "periodoFim": "2026-07-02",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125478",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-93-DEX",
+          "numero": 93,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 23,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-07-07",
+      "periodoFim": "2026-07-07",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125578",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-98-DOR",
+          "numero": 98,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 80,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-07-08",
+      "periodoFim": "2026-07-08",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125638",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-100-DOR",
+          "numero": 100,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 92,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-07-09",
+      "periodoFim": "2026-07-09",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125618",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-102-DOR",
+          "numero": 102,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 30,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-07-14",
+      "periodoFim": "2026-07-14",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125698",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-106-DOR",
+          "numero": 106,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 66,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7096",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7097",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-07-15",
+      "periodoFim": "2026-07-15",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125978",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-107-DOR",
+          "numero": 107,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 81,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7098",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7099",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7100",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-08-11",
+      "periodoFim": "2026-08-11",
+      "coletadoEm": "2026-10-09T02:31:13.162478+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126278",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-111-DOR",
+          "numero": 111,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 111,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-08-12",
+      "periodoFim": "2026-08-12",
+      "coletadoEm": "2026-10-09T02:31:13.263596+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126338",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-113-DOR",
+          "numero": 113,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 102,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7101",
+              "data": "2026-08-12",
+              "materia": "PLP 124/2022 (Substitutivo-CD)",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7102",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7103",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5322",
+      "periodoInicio": "2026-09-01",
+      "periodoFim": "2026-09-03",
+      "coletadoEm": "2026-10-09T02:31:13.274826+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126579",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-09-03&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5322/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-120-DOR",
+          "numero": 120,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Romário",
+            "uf": "RJ",
+            "pagina": 56,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7104",
+              "data": "2026-09-01",
+              "materia": "PDL 995/2026",
+              "secreta": true,
+              "registro": "Votou",
+              "descricao": "Votou",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7105",
+              "data": "2026-09-03",
+              "materia": "PLP 74/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2026-04-10",
+              "fim": "2031-01-31"
+            },
+            {
+              "inicio": "2023-02-01",
+              "fim": "2025-12-09"
+            },
+            {
+              "inicio": "2015-02-01",
+              "fim": "2023-01-31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

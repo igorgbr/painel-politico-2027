@@ -1,0 +1,835 @@
+{
+  "status": "inventario-da-agenda",
+  "periodoInicio": "2026-01-01",
+  "periodoFim": "2026-10-09",
+  "mesesConsultados": 10,
+  "mesesValidados": 10,
+  "sessoesIdentificadas": 45,
+  "sessoesComRecorteConferido": 12,
+  "criterio": "Inventário de sessões deliberativas realizadas e encerradas segundo a agenda. Número, legislatura, sessão legislativa e tipo deduplicam continuações. Agenda não comprova comparecimento, votos nem ausência; exige DSF e evidências individuais. Conferência disponível indica apenas o recorte de identidades vinculadas no projeto.",
+  "fontes": [
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260101.json?v=2",
+      "sha256": "1db1dd086aa94144ddff75dfd0c533df5754957cd6882d73ba185af33361a603",
+      "coletadoEm": "2026-10-09T02:44:16.660188+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260201.json?v=2",
+      "sha256": "c6100300861d533226ac258b24e1a58f32aab0dae34409994656ea8d1bf7cfe3",
+      "coletadoEm": "2026-10-09T02:44:16.775933+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2",
+      "sha256": "3daecbb7580eca011c94c4b8053fd58e260d1f340a1dc93c45bbf80b3a6ba634",
+      "coletadoEm": "2026-10-09T02:44:16.975546+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260401.json?v=2",
+      "sha256": "c60d21a76346057d085d784b73f85cb7627ca844fa8977bc3a9ed0950fd98f65",
+      "coletadoEm": "2026-10-09T02:44:16.885134+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2",
+      "sha256": "2ff57a2dddc959d468dd63ff817c06cc176476c93335f96e43a68c8dee63ed54",
+      "coletadoEm": "2026-10-09T02:44:17.116487+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260601.json?v=2",
+      "sha256": "f9e44ba8717e438569c9fbd8baa2134c3820cbe8f639f582991234ff338daac4",
+      "coletadoEm": "2026-10-09T02:44:17.313229+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260701.json?v=2",
+      "sha256": "680ed64614952ffea76d6f856ee60782d865d8d2907b4801b1f0de12cd48d5df",
+      "coletadoEm": "2026-10-09T02:44:17.247122+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260801.json?v=2",
+      "sha256": "c4ced317b5a1185cf66796dc2e8b64bed8bdb5a8da7b3648ab00127fc835e1d7",
+      "coletadoEm": "2026-10-09T01:33:09.597368+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260901.json?v=2",
+      "sha256": "36274ec0c4f84f8854dc9d9967c50a746c6cc46554cff40c17afd2dc3762717b",
+      "coletadoEm": "2026-10-09T01:33:09.487060+00:00"
+    },
+    {
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261001.json?v=2",
+      "sha256": "4bba20f0f21757c368060a2ab65681efe3172f61cbfd3a313c12d070a540437a",
+      "coletadoEm": "2026-10-09T01:28:05.806429+00:00"
+    }
+  ],
+  "erros": [],
+  "sessoes": [
+    {
+      "idAgenda": "57-4-1-DOR",
+      "numero": 1,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-02-03"
+      ],
+      "encontros": [
+        "549835"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260201.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-4-DOR",
+      "numero": 4,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-02-24"
+      ],
+      "encontros": [
+        "550469"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260201.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-5-DOR",
+      "numero": 5,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-02-25"
+      ],
+      "encontros": [
+        "550470"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260201.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-7-DOR",
+      "numero": 7,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-03"
+      ],
+      "encontros": [
+        "550520"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-8-DOR",
+      "numero": 8,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-04"
+      ],
+      "encontros": [
+        "550521"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-10-DOR",
+      "numero": 10,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-10"
+      ],
+      "encontros": [
+        "550525"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-12-DOR",
+      "numero": 12,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-11"
+      ],
+      "encontros": [
+        "550526"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-16-DOR",
+      "numero": 16,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-17"
+      ],
+      "encontros": [
+        "550530"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-17-DOR",
+      "numero": 17,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-18"
+      ],
+      "encontros": [
+        "550531"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-20-DOR",
+      "numero": 20,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-24"
+      ],
+      "encontros": [
+        "550535"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-21-DOR",
+      "numero": 21,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-25"
+      ],
+      "encontros": [
+        "550536"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-25-DOR",
+      "numero": 25,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-03-31"
+      ],
+      "encontros": [
+        "550989"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260301.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-29-DOR",
+      "numero": 29,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-04-07"
+      ],
+      "encontros": [
+        "550735"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260401.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-30-DOR",
+      "numero": 30,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-04-08"
+      ],
+      "encontros": [
+        "550736"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260401.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-35-DOR",
+      "numero": 35,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-04-14"
+      ],
+      "encontros": [
+        "550740"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260401.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-37-DOR",
+      "numero": 37,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-04-15"
+      ],
+      "encontros": [
+        "550741"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260401.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-43-DOR",
+      "numero": 43,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-04-28"
+      ],
+      "encontros": [
+        "550750"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260401.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-44-DOR",
+      "numero": 44,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-04-29"
+      ],
+      "encontros": [
+        "550751"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260401.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-47-DOR",
+      "numero": 47,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-05-05"
+      ],
+      "encontros": [
+        "558986"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-48-DOR",
+      "numero": 48,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-05-06"
+      ],
+      "encontros": [
+        "558987"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-52-DOR",
+      "numero": 52,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-05-12"
+      ],
+      "encontros": [
+        "558991"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-53-DOR",
+      "numero": 53,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-05-13"
+      ],
+      "encontros": [
+        "558992"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-57-DOR",
+      "numero": 57,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-05-19"
+      ],
+      "encontros": [
+        "558996"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-59-DOR",
+      "numero": 59,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-05-20"
+      ],
+      "encontros": [
+        "558997"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-64-DOR",
+      "numero": 64,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-05-26"
+      ],
+      "encontros": [
+        "559001"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-65-DOR",
+      "numero": 65,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-05-27"
+      ],
+      "encontros": [
+        "559002"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260501.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-71-DOR",
+      "numero": 71,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-06-02"
+      ],
+      "encontros": [
+        "564636"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260601.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-76-DOR",
+      "numero": 76,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-06-09"
+      ],
+      "encontros": [
+        "564647"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260601.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-77-DOR",
+      "numero": 77,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-06-10"
+      ],
+      "encontros": [
+        "564648"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260601.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-83-DOR",
+      "numero": 83,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-06-16"
+      ],
+      "encontros": [
+        "564661"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260601.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-84-DOR",
+      "numero": 84,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-06-17"
+      ],
+      "encontros": [
+        "564662"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260601.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-91-DOR",
+      "numero": 91,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-06-30"
+      ],
+      "encontros": [
+        "564622"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260601.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-93-DEX",
+      "numero": 93,
+      "tipo": "DEX",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-07-02"
+      ],
+      "encontros": [
+        "577474"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260701.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-98-DOR",
+      "numero": 98,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-07-07"
+      ],
+      "encontros": [
+        "569261"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260701.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-100-DOR",
+      "numero": 100,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-07-08"
+      ],
+      "encontros": [
+        "569247"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260701.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-102-DOR",
+      "numero": 102,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-07-09"
+      ],
+      "encontros": [
+        "569262"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260701.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-106-DOR",
+      "numero": 106,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-07-14"
+      ],
+      "encontros": [
+        "569250"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260701.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-107-DOR",
+      "numero": 107,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-07-15"
+      ],
+      "encontros": [
+        "569251"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260701.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-111-DOR",
+      "numero": 111,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-08-11"
+      ],
+      "encontros": [
+        "581815"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260801.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-113-DOR",
+      "numero": 113,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-08-12"
+      ],
+      "encontros": [
+        "581816"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260801.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-114-DEX",
+      "numero": 114,
+      "tipo": "DEX",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-08-13"
+      ],
+      "encontros": [
+        "583656"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260801.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-120-DOR",
+      "numero": 120,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03"
+      ],
+      "encontros": [
+        "586477",
+        "587381",
+        "588590"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20260901.json?v=2"
+      ],
+      "conferenciaDisponivel": true
+    },
+    {
+      "idAgenda": "57-4-128-DOR",
+      "numero": 128,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-10-06"
+      ],
+      "encontros": [
+        "590398"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261001.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-129-DOR",
+      "numero": 129,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-10-07"
+      ],
+      "encontros": [
+        "590399"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261001.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    },
+    {
+      "idAgenda": "57-4-130-DOR",
+      "numero": 130,
+      "tipo": "DOR",
+      "legislatura": 57,
+      "sessaoLegislativaOrdinal": 4,
+      "datas": [
+        "2026-10-08"
+      ],
+      "encontros": [
+        "590401"
+      ],
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261001.json?v=2"
+      ],
+      "conferenciaDisponivel": false
+    }
+  ],
+  "versao": "f077c1663dd88ebea1aa3712"
+}

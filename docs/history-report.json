@@ -1,0 +1,1397 @@
+{
+  "status": "concluido",
+  "versao": "ad893c388f721e224f1844c3",
+  "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+  "periodoInicio": "2023-02-01",
+  "periodoFim": "2026-10-05",
+  "vinculosCamara": 370,
+  "vinculosSenado": 15,
+  "historicos": {
+    "camara": 370,
+    "senado": 42
+  },
+  "perfisCamaraFalharam": 0,
+  "erros": [],
+  "semHistorico": 192,
+  "normasConsultadas": 94,
+  "normasConfirmadas": 89,
+  "errosNormas": [],
+  "pendencias": [
+    {
+      "id": "tse-2026-20002553711",
+      "nome": "MARINA JHC",
+      "casa": "senado",
+      "uf": "AL",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-30002530069",
+      "nome": "LUCAS BARRETO",
+      "casa": "senado",
+      "uf": "AP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-30002530071",
+      "nome": "RAYSSA FURLAN",
+      "casa": "senado",
+      "uf": "AP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-70002552936",
+      "nome": "MICHELLE BOLSONARO",
+      "casa": "senado",
+      "uf": "DF",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-90002540997",
+      "nome": "GRACINHA CAIADO",
+      "casa": "senado",
+      "uf": "GO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-100002548011",
+      "nome": "LAHESIO BONFIM",
+      "casa": "senado",
+      "uf": "MA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002550560",
+      "nome": "MARÍLIA CAMPOS",
+      "casa": "senado",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-120002535769",
+      "nome": "CAPITÃO CONTAR",
+      "casa": "senado",
+      "uf": "MS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-110002551966",
+      "nome": "MAURO MENDES",
+      "casa": "senado",
+      "uf": "MT",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-140002550780",
+      "nome": "CHICÃO",
+      "casa": "senado",
+      "uf": "PA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-140002550779",
+      "nome": "HELDER",
+      "casa": "senado",
+      "uf": "PA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-150002549793",
+      "nome": "JOAO AZEVÊDO",
+      "casa": "senado",
+      "uf": "PB",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-200002533841",
+      "nome": "SAMANDA DE LULA",
+      "casa": "senado",
+      "uf": "RN",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-220002539995",
+      "nome": "BRUNO SCHEID",
+      "casa": "senado",
+      "uf": "RO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-230002553006",
+      "nome": "TERESA SURITA",
+      "casa": "senado",
+      "uf": "RR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-240002541935",
+      "nome": "CARLOS BOLSONARO",
+      "casa": "senado",
+      "uf": "SC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002541308",
+      "nome": "ANDRÉ DO PRADO",
+      "casa": "senado",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-10002544296",
+      "nome": "JÚNIOR BETÃO",
+      "casa": "camara",
+      "uf": "AC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-10002532422",
+      "nome": "PEDRO LONGO",
+      "casa": "camara",
+      "uf": "AC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-20002547843",
+      "nome": "ALVINHO LIRA",
+      "casa": "camara",
+      "uf": "AL",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-20002553681",
+      "nome": "GILVAN BARROS",
+      "casa": "camara",
+      "uf": "AL",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-20002540489",
+      "nome": "JULIA NUNES",
+      "casa": "camara",
+      "uf": "AL",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-40002542676",
+      "nome": "JOANA DARC",
+      "casa": "camara",
+      "uf": "AM",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-40002540480",
+      "nome": "SARGENTO SALAZAR",
+      "casa": "camara",
+      "uf": "AM",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-30002530514",
+      "nome": "DRA. ERICA",
+      "casa": "camara",
+      "uf": "AP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-30002536306",
+      "nome": "FELIPE SHOW",
+      "casa": "camara",
+      "uf": "AP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-30002536305",
+      "nome": "MARCIO SERRÃO",
+      "casa": "camara",
+      "uf": "AP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002532649",
+      "nome": "CARLOS MUNIZ",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002532625",
+      "nome": "DANIEL ALENCAR",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002534977",
+      "nome": "DITINHO AVIVIP",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002532883",
+      "nome": "DOUTORA RAISSA SOARES",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002534762",
+      "nome": "ELMO VAZ",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002538780",
+      "nome": "LUCAS REIS",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002534999",
+      "nome": "MANUEL ROCHA",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002538774",
+      "nome": "MARIA MARIGHELLA",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002538769",
+      "nome": "OLIVIA",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-50002535008",
+      "nome": "SANDRO FILHO",
+      "casa": "camara",
+      "uf": "BA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002536977",
+      "nome": "CARMELO NETO",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002536698",
+      "nome": "DR. ACILON",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002532983",
+      "nome": "EMANUEL ACRIZIO",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002544112",
+      "nome": "ERIKA AMORIM",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002540744",
+      "nome": "FERNANDO SANTANA",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002532981",
+      "nome": "GIORDANNA MANO",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002540740",
+      "nome": "LUISA CELA",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002542447",
+      "nome": "NENEN COELHO",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002540746",
+      "nome": "RAIMUNDO MARTINS",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-60002545223",
+      "nome": "TAINAH MARINHO",
+      "casa": "camara",
+      "uf": "CE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-70002533381",
+      "nome": "FÁBIO FELIX",
+      "casa": "camara",
+      "uf": "DF",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-70002550319",
+      "nome": "THIAGO MANZONI",
+      "casa": "camara",
+      "uf": "DF",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-80002542390",
+      "nome": "CORONEL RAMALHO",
+      "casa": "camara",
+      "uf": "ES",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-80002542410",
+      "nome": "DR. BRUNO RESENDE",
+      "casa": "camara",
+      "uf": "ES",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-80002554483",
+      "nome": "LUCAS O FEDERAL DA DIREITA",
+      "casa": "camara",
+      "uf": "ES",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-80002549698",
+      "nome": "LUCAS POLESE",
+      "casa": "camara",
+      "uf": "ES",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-80002541002",
+      "nome": "MANU",
+      "casa": "camara",
+      "uf": "ES",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-80002542404",
+      "nome": "MARCELO SANTOS",
+      "casa": "camara",
+      "uf": "ES",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-90002543237",
+      "nome": "BRUNO PEIXOTO",
+      "casa": "camara",
+      "uf": "GO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-90002542618",
+      "nome": "FRED RODRIGUES",
+      "casa": "camara",
+      "uf": "GO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-90002543566",
+      "nome": "LUCAS CALIL",
+      "casa": "camara",
+      "uf": "GO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-90002543470",
+      "nome": "LUCAS DO VALE",
+      "casa": "camara",
+      "uf": "GO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-100002537271",
+      "nome": "ALDIR JUNIOR",
+      "casa": "camara",
+      "uf": "MA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-100002537267",
+      "nome": "DR. ORLANDO",
+      "casa": "camara",
+      "uf": "MA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-100002535251",
+      "nome": "ERLANIO XAVIER",
+      "casa": "camara",
+      "uf": "MA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-100002537272",
+      "nome": "FABIANA VILAR",
+      "casa": "camara",
+      "uf": "MA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-100002536093",
+      "nome": "IRACEMA VALE",
+      "casa": "camara",
+      "uf": "MA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-100002536097",
+      "nome": "LARISSA DP",
+      "casa": "camara",
+      "uf": "MA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-100002536101",
+      "nome": "VINICIUS FERRO",
+      "casa": "camara",
+      "uf": "MA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002535301",
+      "nome": "ANA ELISA",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002535315",
+      "nome": "BELLA GONÇALVES",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002542043",
+      "nome": "CAPOREZZO",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002542044",
+      "nome": "DR. MARCOS VINICIUS",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002535282",
+      "nome": "GLEIDE ANDRADE",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002537199",
+      "nome": "GLEIDSON AZEVEDO",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002542000",
+      "nome": "IGOR SANTOS",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002535319",
+      "nome": "LOHANNA",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002535285",
+      "nome": "PEDRO ROUSSEFF",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002542039",
+      "nome": "RODRIGO TAVARES",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002541998",
+      "nome": "SARGENTO MELLO-CASAL",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002542034",
+      "nome": "THIAGO GANEM",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-130002542021",
+      "nome": "VINICIUS DINIZ",
+      "casa": "camara",
+      "uf": "MG",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-120002537356",
+      "nome": "ISA MARCONDES",
+      "casa": "camara",
+      "uf": "MS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-120002536286",
+      "nome": "MARA CASEIRO",
+      "casa": "camara",
+      "uf": "MS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-120002538788",
+      "nome": "ROSE MODESTO",
+      "casa": "camara",
+      "uf": "MS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-110002540128",
+      "nome": "CORONEL ROVERI",
+      "casa": "camara",
+      "uf": "MT",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-110002538413",
+      "nome": "THIAGO BOAVA HEY ROY",
+      "casa": "camara",
+      "uf": "MT",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-110002550866",
+      "nome": "VIRGINIA MENDES",
+      "casa": "camara",
+      "uf": "MT",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-140002540455",
+      "nome": "ADRIANO COELHO",
+      "casa": "camara",
+      "uf": "PA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-140002547302",
+      "nome": "BOB FLLAY",
+      "casa": "camara",
+      "uf": "PA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-140002540456",
+      "nome": "JADER FILHO",
+      "casa": "camara",
+      "uf": "PA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-140002540476",
+      "nome": "LU OGAWA",
+      "casa": "camara",
+      "uf": "PA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-140002546711",
+      "nome": "ROGERIO BARRA",
+      "casa": "camara",
+      "uf": "PA",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-150002538453",
+      "nome": "GEORGE MORAIS",
+      "casa": "camara",
+      "uf": "PB",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-150002549646",
+      "nome": "POLLYANNA",
+      "casa": "camara",
+      "uf": "PB",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-150002544167",
+      "nome": "RICARDO COUTINHO",
+      "casa": "camara",
+      "uf": "PB",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002530336",
+      "nome": "EDUARDO MOURA",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002540306",
+      "nome": "ELIANE SOARES",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002540295",
+      "nome": "GABRIEL PORTO",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002534911",
+      "nome": "GILSON MACHADO",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002550641",
+      "nome": "JONES MANOEL",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002544057",
+      "nome": "JULIANA DE CHAPARRAL",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002533327",
+      "nome": "LIANA CIRNE",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002534909",
+      "nome": "MARCELO GOUVEIA",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002533313",
+      "nome": "ROSA AMORIM",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-170002539162",
+      "nome": "THIAGO MEDINA",
+      "casa": "camara",
+      "uf": "PE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-180002532478",
+      "nome": "DELEGADO CHARLES",
+      "casa": "camara",
+      "uf": "PI",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-180002533196",
+      "nome": "GEORGIANO",
+      "casa": "camara",
+      "uf": "PI",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-180002533192",
+      "nome": "WILSON MARTINS",
+      "casa": "camara",
+      "uf": "PI",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-180002532473",
+      "nome": "ZÉ SANTANA",
+      "casa": "camara",
+      "uf": "PI",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-160002536516",
+      "nome": "ANA JÚLIA",
+      "casa": "camara",
+      "uf": "PR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-160002536499",
+      "nome": "ARILSON CHIORATO",
+      "casa": "camara",
+      "uf": "PR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-160002547466",
+      "nome": "DA COSTA DO PERDEU PIÁ",
+      "casa": "camara",
+      "uf": "PR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-160002542296",
+      "nome": "GUILHERME KILTER",
+      "casa": "camara",
+      "uf": "PR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-160002542291",
+      "nome": "HENRIQUE MECABÔ",
+      "casa": "camara",
+      "uf": "PR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-160002542287",
+      "nome": "JEFFREY CHIQUINI",
+      "casa": "camara",
+      "uf": "PR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-160002542324",
+      "nome": "PARANHOS",
+      "casa": "camara",
+      "uf": "PR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-160002536522",
+      "nome": "RENATO FREITAS",
+      "casa": "camara",
+      "uf": "PR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002543080",
+      "nome": "ANIELLE FRANCO",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002541068",
+      "nome": "DELEGADO FELIPE CURI",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002543072",
+      "nome": "DIEGO QUAQUA",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002532816",
+      "nome": "DIOGO BALIEIRO DINIZ",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002532817",
+      "nome": "DOUGLAS GOMES",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002543097",
+      "nome": "ELIAS JABBOUR",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002532823",
+      "nome": "JORGE MIRANDA",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002532835",
+      "nome": "JULIA DE CASTRO",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002541078",
+      "nome": "LENIEL BOREL",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002532804",
+      "nome": "MANOELA PERES",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002540185",
+      "nome": "MARCIO RIBEIRO",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002540190",
+      "nome": "MÁRCIO REZENDE",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002543091",
+      "nome": "NÍSIA TRINDADE",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002532809",
+      "nome": "POUBEL",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002532820",
+      "nome": "RAFAEL SATIÊ",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002541086",
+      "nome": "RENATO COZZOLINO",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002536159",
+      "nome": "RICK AZEVEDO",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002541091",
+      "nome": "RUEDA",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002550500",
+      "nome": "TALITA GALHARDO",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-190002535140",
+      "nome": "THIAGO GAGLIASSO",
+      "casa": "camara",
+      "uf": "RJ",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-200002533867",
+      "nome": "DR. BERNARDO",
+      "casa": "camara",
+      "uf": "RN",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-200002533880",
+      "nome": "NINA",
+      "casa": "camara",
+      "uf": "RN",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-200002533868",
+      "nome": "THABATTA PIMENTA",
+      "casa": "camara",
+      "uf": "RN",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-220002536041",
+      "nome": "DR. JAIME GAZOLA",
+      "casa": "camara",
+      "uf": "RO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-220002540003",
+      "nome": "JOLIANE FURIA",
+      "casa": "camara",
+      "uf": "RO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-220002536886",
+      "nome": "SOFIA ANDRADE",
+      "casa": "camara",
+      "uf": "RO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-230002534800",
+      "nome": "DANIEL TRINDADE",
+      "casa": "camara",
+      "uf": "RR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-230002549303",
+      "nome": "JONER CHAGAS",
+      "casa": "camara",
+      "uf": "RR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-230002549300",
+      "nome": "MARCOS JORGE",
+      "casa": "camara",
+      "uf": "RR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-230002538184",
+      "nome": "RODRIGO MESQUITA",
+      "casa": "camara",
+      "uf": "RR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-230002549297",
+      "nome": "ÍTALO OTÁVIO",
+      "casa": "camara",
+      "uf": "RR",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002534899",
+      "nome": "DIOGO SIQUEIRA",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002533002",
+      "nome": "FELIPE CAMOZZATO",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002536933",
+      "nome": "GUSTAVO VICTORINO",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002534664",
+      "nome": "JESSÉ SANGALLI",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002541510",
+      "nome": "JUVIR COSTELLA",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002534898",
+      "nome": "PERONDI",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002534270",
+      "nome": "RONY GABRIEL",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002534277",
+      "nome": "SERGIO ZAMBIASI",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-210002541512",
+      "nome": "VILMAR ZANCHIN",
+      "casa": "camara",
+      "uf": "RS",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-240002533831",
+      "nome": "GIOVANA MONDARDO",
+      "casa": "camara",
+      "uf": "SC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-240002539371",
+      "nome": "JAIR BOLSONARO",
+      "casa": "camara",
+      "uf": "SC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-240002548535",
+      "nome": "JULIO GARCIA",
+      "casa": "camara",
+      "uf": "SC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-240002538368",
+      "nome": "PAULINHA",
+      "casa": "camara",
+      "uf": "SC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-240002539368",
+      "nome": "SARGENTO LIMA",
+      "casa": "camara",
+      "uf": "SC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-240002541919",
+      "nome": "ZÉ MILTON",
+      "casa": "camara",
+      "uf": "SC",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-260002541260",
+      "nome": "CLAUDIO MITIDIERI",
+      "casa": "camara",
+      "uf": "SE",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002537973",
+      "nome": "ALTAIR MORAES",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002544330",
+      "nome": "ANA CAROLINA OLIVEIRA",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002541112",
+      "nome": "CARLOS BEZERRA JR.",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002535965",
+      "nome": "DRA. SANDRA TADEU",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002536743",
+      "nome": "EDINHO SILVA",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002535936",
+      "nome": "GIL DINIZ",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002539620",
+      "nome": "GUILHERME CORTEZ",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002537979",
+      "nome": "GUILHERME PIAI",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002539713",
+      "nome": "IGOR SOARES",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002535995",
+      "nome": "LUCAS PAVANATO",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002536727",
+      "nome": "LUNA ZARATTINI",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002541102",
+      "nome": "MARCOS NEVES",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002530115",
+      "nome": "MARINA HELENA",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002532378",
+      "nome": "MILTON LEITE FILHO",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002539624",
+      "nome": "NATÁLIA BOULOS",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002537953",
+      "nome": "NEY SANTOS",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002550394",
+      "nome": "PAULO SERRA",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002535947",
+      "nome": "RENATO BOLSONARO",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002532342",
+      "nome": "SARGENTO NANTES",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002533664",
+      "nome": "SIDNEY CRUZ",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002532355",
+      "nome": "SIRLANGE MANGA",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002536752",
+      "nome": "THIAGO DOS REIS",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002535986",
+      "nome": "THIAGO SURFISTA",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-250002535994",
+      "nome": "WESLEY CEZAR LELINHO",
+      "casa": "camara",
+      "uf": "SP",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-270002548521",
+      "nome": "FABIO VAZ",
+      "casa": "camara",
+      "uf": "TO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-270002542116",
+      "nome": "IRATÃ ABREU",
+      "casa": "camara",
+      "uf": "TO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-270002548402",
+      "nome": "JAIR FARIAS",
+      "casa": "camara",
+      "uf": "TO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-270002548525",
+      "nome": "LUCAS CAMPELO",
+      "casa": "camara",
+      "uf": "TO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-270002548403",
+      "nome": "PROFESSORA JANAD VALCARI",
+      "casa": "camara",
+      "uf": "TO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    },
+    {
+      "id": "tse-2026-270002548433",
+      "nome": "SANDOVAL CARDOSO",
+      "casa": "camara",
+      "uf": "TO",
+      "motivo": "Sem vínculo confirmado nos catálogos consultados; não comprova ausência de atuação anterior"
+    }
+  ],
+  "normasPendentes": [
+    {
+      "projetoId": "2358548",
+      "numero": "PL 2162/2023",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2358548",
+      "motivo": "Situação atual da API difere do arquivo consultado; referência de conversão não confirmada"
+    },
+    {
+      "projetoId": "2432767",
+      "numero": "PL 1725/2024",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2432767/tramitacoes",
+      "motivo": "Sem referência unívoca em despacho ou evento formal de transformação"
+    },
+    {
+      "projetoId": "2473375",
+      "numero": "PL 4614/2024",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2473375/tramitacoes",
+      "motivo": "Sem referência unívoca em despacho ou evento formal de transformação"
+    },
+    {
+      "projetoId": "2350302",
+      "numero": "PL 920/2023",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350302/tramitacoes",
+      "motivo": "Sem referência unívoca em despacho ou evento formal de transformação"
+    },
+    {
+      "projetoId": "2359608",
+      "numero": "PL 2308/2023",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2359608/tramitacoes",
+      "motivo": "Sem referência unívoca em despacho ou evento formal de transformação"
+    }
+  ]
+}

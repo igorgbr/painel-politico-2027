@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-c578c618-647d-58f5-b319-a838178b644a",
+  "mandatoId": "tse-2026-160002547661",
+  "historico": "Histórico Câmara: 11 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220705",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 11,
+      "projetos": [
+        {
+          "id": "2361794",
+          "num": "PL 2501/2023",
+          "titulo": "Dispõe sobre a criação do crime de censura e confisco de plataforma na lei 13.869 de 5 de setembro de 2019, que dispõe sobre os crimes de abuso de autoridade, e adiciona o crime de censura na lei 1.079 de 10 de abril de 1950, que dispõe sobre os crimes de responsabilidade, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2361794",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2360734",
+          "num": "PL 2416/2023",
+          "titulo": "Altera a Lei nº 9.637, de 15 de maio de 1998, para estabelecer cláusulas de transparência e adimplemento das obrigações trabalhistas nos contratos de gestão que envolvam a administração de hospitais públicos por organizações sociais da área da saúde.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360734",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-05-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2360732",
+          "num": "PL 2414/2023",
+          "titulo": "Altera a Lei nº 12.527, de 18 de novembro de 2011, para ampliar as obrigações de transparência ativa relacionadas ao recebimento, execução e prestação de contas do uso dos recursos públicos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360732",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-05-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2360731",
+          "num": "PL 2413/2023",
+          "titulo": "Altera a Lei nº 12.527, de 18 de novembro de 2011, para ampliar as obrigações de transparência ativa obrigando a adoção de diretrizes reconhecidas para a padronização na disponibilização de dados públicos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360731",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-05-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2360730",
+          "num": "PL 2412/2023",
+          "titulo": "Altera a Lei 8.689, de 27 de julho de 1993,  e a Lei n 8.080, de 19 de setembro de 1990, para fortalecer a governança do Sistema Nacional de Auditoria e garantir a ampla divulgação dos resultados das auditorias realizadas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360730",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-05-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2360727",
+          "num": "PL 2409/2023",
+          "titulo": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para potencializar a efetividade da execução dos recursos destinados à saúde e aumentar a transparência das prestações de contas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360727",
+          "situacao": "Devolvida ao(à) Autor(a)",
+          "dataApresentacao": "2023-05-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2360726",
+          "num": "PL 2408/2023",
+          "titulo": "Altera a Lei nº 14.133, de 1 de abril de 2021, para incluir no Portal Nacional de Contratações Públicas (PNCP) informações que permitam a identificação da origem dos recursos utilizados nas contratações.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360726",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-05-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2349726",
+          "num": "PL 769/2023",
+          "titulo": "Dispõe sobre a obrigatoriedade de bares, restaurantes, casas noturnas e de eventos adotarem medidas de auxílio a mulheres que se sintam em situação de risco.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349726",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-03-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2349004",
+          "num": "PL 590/2023",
+          "titulo": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para determinar que o laudo médico pericial que ateste o Transtorno do Espectro Autista deverá ter prazo de validade indeterminado.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349004",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-02-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2348796",
+          "num": "PL 523/2023",
+          "titulo": "Dispõe sobre a obrigatoriedade de comunicação, por serviços públicos ou privados de saúde, ao Conselho Tutelar ou à autoridade policial, de indícios de castigo físico, tratamento cruel ou degradante e maus-tratos contra a criança ou adolescente e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348796",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2348375",
+          "num": "PL 453/2023",
+          "titulo": "Dispõe sobre a proibição de financiar países em inadimplência com o Brasil.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348375",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-10",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [],
+  "presencasHistoricas": [],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

@@ -1,0 +1,1166 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-e25532c7-c8e8-5a82-90e2-667b48042e1a",
+  "mandatoId": "tse-2026-150002544905",
+  "historico": "Histórico Câmara: 0 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta · Histórico Senado: 27 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "senado",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5748&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "senado",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5748&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [
+      {
+        "id": "8654400",
+        "num": "PLP 72/2024",
+        "titulo": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, que regulamenta o § 3º do art. 198 da Constituição Federal, para dispor sobre as despesas de custeio e de investimento com os hospitais universitários federais, para fins de apuração do gasto mínimo constitucional em saúde.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163272",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+        "dataApresentacao": "2024-04-30",
+        "classificacao": "aprov",
+        "norma": "Lei Complementar nº 209 de 03/10/2024"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "178913",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 0,
+      "projetos": [],
+      "aprov": 0,
+      "neg": 0
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5748&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=5748&sigla=PLP&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05"
+      ],
+      "total": 27,
+      "projetos": [
+        {
+          "id": "9012836",
+          "num": "PL 1215/2026",
+          "titulo": "Altera a Lei nº 9.008, de 21 de março de 1995, para incluir representante do Ministério Público do Trabalho na composição do Conselho Federal Gestor do Fundo de Defesa de Direitos Difusos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173084",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2026-03-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8900536",
+          "num": "PL 4372/2025",
+          "titulo": "Altera a Lei nº 15.075, de 26 de dezembro de 2024, para instituir o Banco de Bonificações de Conteúdo Local, e a Lei nº 9.478, de 6 de agosto de 1997, para estimular maior interação entre instituições de pesquisa e desenvolvimento tecnológico e empresas da indústria de petróleo e promover a exportação de bens e serviços fornecidos pelas empresas brasileiras.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170257",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-09-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8896126",
+          "num": "PLP 181/2025",
+          "titulo": "Altera a Lei Complementar nº 187, de 16 de dezembro de 2021, e a Lei nº 13.146, de 6 de julho de 2015, para dispor sobre publicidade, transparência e acessibilidade nas atividades das entidades beneficentes.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170125",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-08-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8801059",
+          "num": "PL 960/2025",
+          "titulo": "Altera a Lei nº 12.305, de 2 de agosto de 2010, para dispor sobre a identificação de bens de consumo, a responsabilidade compartilhada pelo seu descarte e a ampliação dos mecanismos de logística reversa.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167514",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-03-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8746475",
+          "num": "PLP 185/2024",
+          "titulo": "Regulamenta a aposentadoria especial dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, estabelecida pelo § 10 do artigo 198 da Constituição Federal.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166054",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2024-11-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8654400",
+          "num": "PLP 72/2024",
+          "titulo": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, que regulamenta o § 3º do art. 198 da Constituição Federal, para dispor sobre as despesas de custeio e de investimento com os hospitais universitários federais, para fins de apuração do gasto mínimo constitucional em saúde.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163272",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA",
+          "dataApresentacao": "2024-04-30",
+          "classificacao": "aprov",
+          "norma": "Lei Complementar nº 209 de 03/10/2024"
+        },
+        {
+          "id": "8621565",
+          "num": "PL 270/2024",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, para elevar as penas dos crimes que envolvam a subtração de fios, cabos ou equipamentos utilizados para o serviço de energia ou de telecomunicações e conferir prioridade de tramitação dos processos que apurem tais crimes.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162048",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621555",
+          "num": "PL 269/2024",
+          "titulo": "Altera a Lei nº 6.360, de 23 de setembro de 1976, que “dispõe sobre a vigilância sanitária a que ficam sujeitos os medicamentos, as drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos, e dá outras providências”, e a Lei nº 5.991, de 17 de dezembro de 1973, que “dispõe sobre o controle sanitário do comércio de drogas, medicamentos, insumos farmacêuticos e correlatos, e dá outras providências”, para tornar obrigatório o alerta sobre a presença de leite, derivados ou suas proteínas na composição de medicamentos, bem como a publicação anual de lista dos produtos farmacêuticos que contenham essas substâncias.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162047",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621545",
+          "num": "PL 267/2024",
+          "titulo": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Institui o Código Civil) para prever a instituição de norma condominial que obrigue a comunicação pelo morador, ao condomínio de prédios residenciais, sobre guarda de animais silvestres em sua unidade residencial.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162046",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621535",
+          "num": "PL 266/2024",
+          "titulo": "Dispõe sobre o uso de sistemas de inteligência artificial para auxiliar a atuação de médicos, advogados e juízes.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162045",
+          "situacao": "PREJUDICADA",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621528",
+          "num": "PL 264/2024",
+          "titulo": "Altera o Decreto-Lei n° 2.848, de 7 de dezembro de 1940 (Código Penal), para disciplinar efeitos automáticos da sentença penal condenatória, nos crimes praticados por militar contra o Estado Democrático de Direito.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162044",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621511",
+          "num": "PL 263/2024",
+          "titulo": "Dispõe sobre o Programa Nacional de Conectividade e altera a Lei nº 9.998, de 17 de agosto de 2000, que institui o Fundo de Universalização dos Serviços de Telecomunicações.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162043",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621496",
+          "num": "PL 262/2024",
+          "titulo": "Altera o Decreto Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal –, para prever causa de aumento de pena para o crime de violação de direito autoral, quando houver uso de inteligência artificial, e criar o crime de falsidade científica ou acadêmica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162041",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621483",
+          "num": "PL 261/2024",
+          "titulo": "Inclui o art. 147-C ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para tipificar o crime de violência psicológica em ambiente de realidade virtual.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162040",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621473",
+          "num": "PL 260/2024",
+          "titulo": "Altera a Lei nº 11.445, de 5 de janeiro de 2007 (Lei do Saneamento Básico), para deliberar sobre a remoção de poluentes orgânicos persistentes, desreguladores endócrinos e microplásticos das águas brutas e residuárias.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162039",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621462",
+          "num": "PL 259/2024",
+          "titulo": "Disciplina os testes de aptidão física realizados nos concursos públicos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162038",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8621444",
+          "num": "PL 258/2024",
+          "titulo": "Dispõe sobre a Política Nacional de Desplastificação.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162037",
+          "situacao": "MATÉRIA EM TRAMITAÇÃO",
+          "dataApresentacao": "2024-02-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8516769",
+          "num": "PL 3934/2023",
+          "titulo": "Dispõe sobre a arrecadação de recursos financeiros para finalidades específicas promovida por agentes ou ex-agentes públicos por intermédio de instituições que promovam técnicas e serviços de financiamento coletivo por meio de sítios na internet, aplicativos eletrônicos e outros recursos similares, com o objetivo de estabelecer parâmetros e sanções ao seu descumprimento, e altera a redação das Leis nºs 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), 9.504, de 30 de setembro de 1997 (Lei das Eleições) e 12.965, de 23 de abril de 2014 (Lei do Marco Civil da Internet).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/159164",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-08-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8448596",
+          "num": "PL 2528/2023",
+          "titulo": "Estabelece restrições ao alcance das medidas gerais de garantia de efetivação da tutela judicial, para vedar restrição ao direito de dirigir e de livre locomoção.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157375",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-05-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8406868",
+          "num": "PL 1565/2023",
+          "titulo": "Altera a Lei nº 12.587, de 3 de janeiro de 2012 (Lei da Política Nacional de Mobilidade Urbana), para determinar que as empresas que ofereçam o serviço de transporte remunerado privado individual de passageiros instalem equipamentos de monitoramento nos veículos de seus colaboradores.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156650",
+          "situacao": "AGUARDANDO AUDIÊNCIA PÚBLICA",
+          "dataApresentacao": "2023-03-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8392549",
+          "num": "PL 1282/2023",
+          "titulo": "Isenta de custas cartoriais o devedor de tributos federais que foi objeto de protesto tributário em cartório e aderiu a programa de renegociação ou de parcelamento de dívidas tributárias",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156388",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-03-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8383570",
+          "num": "PL 1083/2023",
+          "titulo": "Altera a Lei nº 14.238, de 19 de novembro de 2021, que institui o Estatuto da Pessoa com Câncer; e dá outras providências, para tornar obrigatória a notificação às autoridades sanitárias, pelos serviços de saúde que realizam exames complementares de auxílio ao diagnóstico clínico, dos laudos de exames que confirmem ou sugiram o diagnóstico de câncer.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156164",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-03-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8383553",
+          "num": "PL 1082/2023",
+          "titulo": "Altera a Lei nº 8.184, de 10 de maio de 1991, para estabelecer a obrigatoriedade da coleta de dados sobre a população LGBTQIA+ pelos censos e outros levantamentos periódicos da Fundação Instituto Brasileiro de Geografia e Estatística (IBGE).",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156163",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-03-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8383543",
+          "num": "PL 1081/2023",
+          "titulo": "Altera a Lei nº 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências, para definir que, no mínimo, 20% dos financiamentos concedidos deverão beneficiar estudantes negros.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156162",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-03-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8383525",
+          "num": "PL 1080/2023",
+          "titulo": "Altera os arts. 121, 129, 141, 147 e 163 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para aumentar as penas dos crimes de homicídio, lesão corporal, contra a honra, ameaça e dano quando cometidos contra profissional de imprensa no exercício da sua profissão ou em razão dela.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156161",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-03-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8383508",
+          "num": "PL 1079/2023",
+          "titulo": "Dispõe sobre o exercício da atividade de Psicopedagogia.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156159",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-03-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8383488",
+          "num": "PL 1078/2023",
+          "titulo": "Acrescenta artigo à Lei nº 4.737, de 15 de julho de 1965 – Código Eleitoral, para tipificar o assédio eleitoral no ambiente de trabalho.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156158",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-03-13",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 1,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de valorReembolsado por ano/mês da CEAPS, incluindo ajustes negativos.",
+      "fontes": [
+        "https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2026"
+      ],
+      "totalCentavos": 14306410,
+      "restituicoesCentavos": null,
+      "registros": 85,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 200000
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 4523232
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 4081242
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 3046049
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 2299781
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 156106
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 0
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+          "totalCentavos": 1100000
+        },
+        {
+          "nome": "Divulgação da atividade parlamentar",
+          "totalCentavos": 6190000
+        },
+        {
+          "nome": "Passagens aéreas, aquáticas e terrestres nacionais",
+          "totalCentavos": 7016410
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [],
+  "licencasSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:37:38.145684+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Licenças oficiais com interseção no período consultado. Datas efetivas e previstas separadas. Não mede presença, faltas ou dias de sessão.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "registros": 1,
+      "licencas": [
+        {
+          "id": "26250",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-04-14",
+          "fim": "2026-04-14",
+          "inicioPrevisto": "2026-04-14",
+          "fimPrevisto": "2026-04-14"
+        }
+      ]
+    }
+  ],
+  "comparecimentosSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-06-16",
+      "periodoFim": "2026-06-16",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125298",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-83-DOR",
+          "numero": 83,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 96,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7095",
+              "data": "2026-06-16",
+              "materia": "PLP 73/2025",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-06-17",
+      "periodoFim": "2026-06-17",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125318",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-84-DOR",
+          "numero": 84,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 59,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-06-30",
+      "periodoFim": "2026-06-30",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125479",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-91-DOR",
+          "numero": 91,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 87,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-07-02",
+      "periodoFim": "2026-07-02",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125478",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-93-DEX",
+          "numero": 93,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 23,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-07-07",
+      "periodoFim": "2026-07-07",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125578",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-98-DOR",
+          "numero": 98,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 80,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-07-08",
+      "periodoFim": "2026-07-08",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125638",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-100-DOR",
+          "numero": 100,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 92,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-07-09",
+      "periodoFim": "2026-07-09",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125618",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-102-DOR",
+          "numero": 102,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 30,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-07-14",
+      "periodoFim": "2026-07-14",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125698",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-106-DOR",
+          "numero": 106,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 66,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7096",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7097",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-07-15",
+      "periodoFim": "2026-07-15",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125978",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 1,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-107-DOR",
+          "numero": 107,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital do Rêgo",
+            "uf": "PB",
+            "pagina": 81,
+            "votoRegistrado": true
+          },
+          "classificacao": "pendente",
+          "votacoes": [
+            {
+              "id": "7098",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7099",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7100",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "P-NRV",
+              "descricao": "Presente – Não registrou voto",
+              "classificacao": "pendente",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-08-11",
+      "periodoFim": "2026-08-11",
+      "coletadoEm": "2026-10-09T02:31:13.162478+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126278",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-111-DOR",
+          "numero": 111,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital Rêgo",
+            "uf": "PB",
+            "pagina": 111,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-08-12",
+      "periodoFim": "2026-08-12",
+      "coletadoEm": "2026-10-09T02:31:13.263596+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126338",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-113-DOR",
+          "numero": 113,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital Rêgo",
+            "uf": "PB",
+            "pagina": 102,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7101",
+              "data": "2026-08-12",
+              "materia": "PLP 124/2022 (Substitutivo-CD)",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7102",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7103",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "5748",
+      "periodoInicio": "2026-09-01",
+      "periodoFim": "2026-09-03",
+      "coletadoEm": "2026-10-09T02:31:13.274826+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126579",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-09-03&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/5748/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-120-DOR",
+          "numero": 120,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Veneziano Vital Rêgo",
+            "uf": "PB",
+            "pagina": 56,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7104",
+              "data": "2026-09-01",
+              "materia": "PDL 995/2026",
+              "secreta": true,
+              "registro": "Votou",
+              "descricao": "Votou",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7105",
+              "data": "2026-09-03",
+              "materia": "PLP 74/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2021-01-22",
+              "fim": "2027-01-31"
+            },
+            {
+              "inicio": "2019-02-01",
+              "fim": "2020-09-23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

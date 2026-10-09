@@ -1,0 +1,837 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-44dfd081-5e77-58e4-a31c-02f70e0b5fbb",
+  "mandatoId": "tse-2026-190002541060",
+  "historico": "Histórico Câmara: 31 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [
+      {
+        "id": "2473389",
+        "num": "PLP 210/2024",
+        "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico, e dá outras providências.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473389",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2024-11-29",
+        "classificacao": "aprov",
+        "norma": "Lei Complementar 211/2024",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2473389",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      },
+      {
+        "id": "2452628",
+        "num": "PL 3148/2024",
+        "titulo": "Inscreve o nome de Eduardo Campos no Livro dos Heróis da Pátria \n\r\n\r\nNOVA EMENTA: Inscreve o nome de Eduardo Henrique Accioly Campos no Livro dos Heróis e Heroínas da Pátria.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2452628",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2024-08-13",
+        "classificacao": "aprov",
+        "norma": "Lei Ordinária 14999/2024",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2452628/tramitacoes",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      },
+      {
+        "id": "2432865",
+        "num": "PL 1743/2024",
+        "titulo": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432865",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2024-05-10",
+        "classificacao": "aprov",
+        "norma": "Lei Ordinária 15511/2026",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2432865/tramitacoes",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204450",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 31,
+      "projetos": [
+        {
+          "id": "2646889",
+          "num": "PL 5431/2026",
+          "titulo": "Regulamenta a profissão de Cuidador de Pessoa Idosa.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646889",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-09-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2643842",
+          "num": "PL 5086/2026",
+          "titulo": "Dispõe sobre o regime jurídico específico das associações civis sem fins lucrativos de utilidade pública que instituam sistemas de beneficência e assistência mútua de interesse social.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643842",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2640437",
+          "num": "PL 3787/2026",
+          "titulo": "Altera a Lei nº 9.961, de 28 de janeiro de 2000, que cria a Agência Nacional de Sa¬úde Suplementar – ANS, para assegurar a observância da natureza jurí¬dica das associações civis sem fins lucrativos, visando à harmonização regulatória e ao fomento de sistemas de assistência mútua de interesse social.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640437",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-07-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2639106",
+          "num": "PL 3646/2026",
+          "titulo": "Institui o Novo Marco Legal de Proteção, Cuidado e Inclusão da Pessoa Idosa e altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para aperfeiçoar o sistema de proteção dos direitos da pessoa idosa, fortalecer as políticas de cuidado, saúde, assistência social, mobilidade, inclusão digital e acesso à justiça, e estabelecer medidas de prevenção e enfrentamento da violência.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639106",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-07-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2626409",
+          "num": "PL 2520/2026",
+          "titulo": "Altera o art. 473 do Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho – CLT), para ampliar o direito à ausência justificada do empregado por doação voluntária de sangue.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626409",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-05-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2614049",
+          "num": "PL 1671/2026",
+          "titulo": "Dispõe sobre a regulamentação do exercício profissional do Corretor de Planos e Seguros de Saúde, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614049",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-04-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2614048",
+          "num": "PL 1670/2026",
+          "titulo": "Altera a Lei nº 12.468, de 26 de agosto de 2011, que “Regulamenta a profissão de taxista, altera a Lei nº 6.094, de 30 de agosto de 1974; e dá outras providências” para estabelecer a idade máxima dos veículos que podem ser usados no serviço de táxi e prever linhas de financiamento para renovação de frota por instituições financeiras oficiais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614048",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-04-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2583391",
+          "num": "PL 5774/2025",
+          "titulo": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 – Código Civil, a Lei nº 4.591, de 16 de dezembro de 1964, a Lei nº 8.245, de 18 de outubro de 1991, e a Lei nº 9.096, de 19 de setembro de 1995, para vedar cláusulas que restrinjam o funcionamento de agremiações partidárias em imóveis comerciais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583391",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2025-11-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2580647",
+          "num": "PLP 232/2025",
+          "titulo": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar a limitação de empenho e movimentação financeira das despesas destinadas ao desenvolvimento da indústria audiovisual nacional que tenham como fonte de recursos as contribuições que sejam destinadas para a mesma finalidade.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2580647",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2025-11-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2564170",
+          "num": "PLP 201/2025",
+          "titulo": "Dispõe sobre a prorrogação do prazo para adesão ao Programa de Pleno Pagamento de Dívidas dos Estados (Propag).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2564170",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2025-09-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2556854",
+          "num": "PL 4402/2025",
+          "titulo": "Institui o Programa Anjos da Guarda de Vigilância Comunitária – AGVC, voltado à promoção da cidadania, da cultura de paz e da prevenção da violência, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2556854",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-09-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2539156",
+          "num": "PL 3658/2025",
+          "titulo": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para dispor sobre medidas protetivas de urgência para a pessoa idosa em situação de violência, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539156",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-07-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2535597",
+          "num": "PL 3373/2025",
+          "titulo": "Dispõe sobre a criação do Cadastro Nacional de Doenças Raras, estabelece regras para a dispensação de medicamentos e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2535597",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-07-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2526539",
+          "num": "PL 2928/2025",
+          "titulo": "Altera a Lei nº 9.868, de 10 de novembro de 1999, para estabelecer critérios objetivos de legitimidade ativa para a propositura de ações diretas de constitucionalidade, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2526539",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-06-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2476759",
+          "num": "PL 4741/2024",
+          "titulo": "Altera a Lei nº 9.961, de 28 de janeiro de 2000, para criar a Agência Nacional de Saúde Suplementar e Tecnologia em Saúde - ANS, incluindo competências relacionadas à avaliação de tecnologias em saúde e à elaboração de protocolos clínicos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2476759",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-12-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2473389",
+          "num": "PLP 210/2024",
+          "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473389",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2024-11-29",
+          "classificacao": "aprov",
+          "norma": "Lei Complementar 211/2024",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2473389",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2473375",
+          "num": "PL 4614/2024",
+          "titulo": "Altera a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 8.742, de 7 de dezembro de 1993, a Lei nº 10.633, de 27 de dezembro de 2002, e a Lei nº 14.601, de 19 de junho de 2023, estabelece disposições para políticas públicas, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473375",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2024-11-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2465105",
+          "num": "PL 4114/2024",
+          "titulo": "Altera a Lei 9.615 de 24 de março de 1998, inserindo § 5o ao art. 6º para determinar o impedimento do contingenciamento das receitas que constituem recursos do Ministério do Esporte oriundas de exploração de loterias.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2465105",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-10-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2459991",
+          "num": "PL 3800/2024",
+          "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a fim de instituir o Sistema Nacional de Adoção e Acolhimento (SNA).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2459991",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2024-10-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2455457",
+          "num": "PL 3327/2024",
+          "titulo": "Modifica o inciso II do art. 20 da Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para incluir a obrigatoriedade de equipamentos de prevenção e proteção contra situações anormais de voo do tipo Parafuso Chato ou Giro Plano Descendente.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2455457",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-08-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2452628",
+          "num": "PL 3148/2024",
+          "titulo": "Inscreve o nome de Eduardo Campos no Livro dos Heróis da Pátria \n\r\n\r\nNOVA EMENTA: Inscreve o nome de Eduardo Henrique Accioly Campos no Livro dos Heróis e Heroínas da Pátria.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2452628",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2024-08-13",
+          "classificacao": "aprov",
+          "norma": "Lei Ordinária 14999/2024",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2452628/tramitacoes",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2449848",
+          "num": "PL 2950/2024",
+          "titulo": "Dispõe sobre normas para a remoção e guarda de bens e pertences de pessoas em situação de rua, bem como para a remoção e encaminhamento de pessoas em situação de rua para serviços de assistência social.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2449848",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-07-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2447204",
+          "num": "PL 2778/2024",
+          "titulo": "Dispõe sobre prerrogativas para atuação da Justiça Eleitoral no combate à desinformação, alteração da data limite para aferição da idade mínima para assunção de cargos eletivos e permite o uso da astreintes como medida coercitiva da magistratura eleitoral.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2447204",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-07-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2437293",
+          "num": "PL 2140/2024",
+          "titulo": "Dispõe sobre prerrogativas para atuação da Justiça Eleitoral no combate à desinformação, alteração da data limite para aferição da idade mínima para assunção de cargos eletivos e permite o uso daastreintes como medida coercitiva da magistratura eleitoral.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2437293",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2024-05-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2432865",
+          "num": "PL 1743/2024",
+          "titulo": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432865",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2024-05-10",
+          "classificacao": "aprov",
+          "norma": "Lei Ordinária 15511/2026",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2432865/tramitacoes",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2427661",
+          "num": "PL 1308/2024",
+          "titulo": "Dispõe sobre a correção monetárias dos créditos trabalhistas decorrentes de condenação judicial.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2427661",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-04-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2424436",
+          "num": "PL 1066/2024",
+          "titulo": "Acrescenta os incisos XIII e XIV ao art. 473 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto- Lei nº 5.452, de 1º de maio de 1943, para dispor sobre o prazo da licença para consulta médica veterinária e de falecimento do animal de estimação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424436",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-04-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2421310",
+          "num": "PL 785/2024",
+          "titulo": "Altera a Lei nº 3.268, de 30 de setembro de 1957, para instituir o Exame Nacional de Proficiência em Medicina, a ser regulamentado em provimento do Conselho Federal de Medicina, como requisito para o registro de médicos nos Conselhos Regionais de Medicina e para o exercício da profissão médica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2421310",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-03-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2412743",
+          "num": "PL 5992/2023",
+          "titulo": "Altera a Lei n.º 8.069, de 13 de julho de 1990, para ampliar prazo máximo de internação provisória e estabelecer a obrigatoriedade de audiência de custódia prévia à liberação do menor apreendido.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2412743",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-12-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2404279",
+          "num": "PL 5542/2023",
+          "titulo": "Dispõe sobre a obrigatoriedade de as empresas responsáveis pela produção de shows e grandes eventos de assegurar a entrada facilitada de itens destinados ao consumo próprio, a fim de garantir o bem-estar do  público.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2404279",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-11-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2395618",
+          "num": "PL 4953/2023",
+          "titulo": "Altera os arts. 121 e 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e o art. 1º da Lei nº 8.072, de 25 de julho de 1990 (Lei de Crimes Hediondos), para considerar hediondos os crimes de homicídio e de lesão corporal praticados contra turistas em território nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2395618",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-11",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 3,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204450",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 14827922,
+      "restituicoesCentavos": 0,
+      "registros": 138,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 1775510
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 2053402
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 2232501
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 1890320
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 2276955
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 1506092
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 1379843
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 1643883
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 69416
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "ASSINATURA DE PUBLICAÇÕES",
+          "totalCentavos": 125930
+        },
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 4857136
+        },
+        {
+          "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "totalCentavos": 2500000
+        },
+        {
+          "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalCentavos": 6400000
+        },
+        {
+          "nome": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "totalCentavos": 285425
+        },
+        {
+          "nome": "TELEFONIA",
+          "totalCentavos": 659431
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204450",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:19:44.706125+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/204450/presenca-plenario/2026"
+      ],
+      "totalDias": 69,
+      "presenca": 18,
+      "justificada": 51,
+      "naoJustificada": 0,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-02-02",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-02-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-09",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-02-10",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-02-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-02-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-25",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-02-26",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-02",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-03",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-05",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-10",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-16",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-17",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-18",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-19",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-24",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-25",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-26",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-09",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-16",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-17",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-22",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-23",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-28",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-29",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-04",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-05",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-06",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-07",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-08",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-12",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-14",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-15",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-20",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-21",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-26",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-27",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-02",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-06-03",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

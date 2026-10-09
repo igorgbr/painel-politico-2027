@@ -1,0 +1,729 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-1dbb141f-8fd4-59f9-95bb-01cd940433ed",
+  "mandatoId": "tse-2026-20002546941",
+  "historico": "Histórico Câmara: 17 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [
+      {
+        "id": "2637883",
+        "num": "PL 3540/2026",
+        "titulo": "Altera a Lei nº 7.689, de 15 de dezembro de 1988, e a Lei nº 8.981, de 20 de janeiro de 1995, para fixar alíquota de Contribuição Social sobre Lucro Líquido – CSLL das sociedades resseguradoras locais e para afastar o limite de compensação de prejuízos fiscais e bases de cálculo negativas relativas às atividades de resseguro e retrocessão.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637883",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2026-07-07",
+        "classificacao": "aprov",
+        "norma": "Lei Ordinária 15525/2026",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2637883/tramitacoes",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      },
+      {
+        "id": "2541109",
+        "num": "PLP 163/2025",
+        "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para excluir do cômputo dos limites de despesas primárias as despesas temporárias com educação pública e saúde de que trata o art. 6º da Lei nº 15.164, de 14 de julho de 2025, e as despesas financiadas com recursos oriundos de empréstimos internacionais e suas respectivas contrapartidas, bem como excluir as referidas despesas com educação pública e saúde das metas fiscais, e dá outras providências.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2541109",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2025-08-06",
+        "classificacao": "aprov",
+        "norma": "Lei Complementar 223/2025",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2541109/tramitacoes",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      },
+      {
+        "id": "2473389",
+        "num": "PLP 210/2024",
+        "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico, e dá outras providências.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473389",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2024-11-29",
+        "classificacao": "aprov",
+        "norma": "Lei Complementar 211/2024",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2473389",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      },
+      {
+        "id": "2452628",
+        "num": "PL 3148/2024",
+        "titulo": "Inscreve o nome de Eduardo Campos no Livro dos Heróis da Pátria \n\r\n\r\nNOVA EMENTA: Inscreve o nome de Eduardo Henrique Accioly Campos no Livro dos Heróis e Heroínas da Pátria.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2452628",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2024-08-13",
+        "classificacao": "aprov",
+        "norma": "Lei Ordinária 14999/2024",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2452628/tramitacoes",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      },
+      {
+        "id": "2387067",
+        "num": "PLP 192/2023",
+        "titulo": "Altera a Lei Complementar nº 64, de 18 de maio de 1990.\n\r\n\r\nNOVA EMENTA: Altera a Lei Complementar nº 64, de 18 de maio de 1990, e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições).",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2387067",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2023-09-12",
+        "classificacao": "aprov",
+        "norma": "Lei Complementar 219/2025",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2387067",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204436",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 17,
+      "projetos": [
+        {
+          "id": "2637883",
+          "num": "PL 3540/2026",
+          "titulo": "Altera a Lei nº 7.689, de 15 de dezembro de 1988, e a Lei nº 8.981, de 20 de janeiro de 1995, para fixar alíquota de Contribuição Social sobre Lucro Líquido – CSLL das sociedades resseguradoras locais e para afastar o limite de compensação de prejuízos fiscais e bases de cálculo negativas relativas às atividades de resseguro e retrocessão.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637883",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2026-07-07",
+          "classificacao": "aprov",
+          "norma": "Lei Ordinária 15525/2026",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2637883/tramitacoes",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2625949",
+          "num": "PL 2486/2026",
+          "titulo": "Altera os limites da Floresta Nacional do Jamanxim e cria a Área de Proteção Ambiental do Jamanxim, localizadas no Município de Novo Progresso, Estado do Pará.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625949",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2026-05-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2624699",
+          "num": "PLP 139/2026",
+          "titulo": "Altera a Lei nº 7.689, de 15 de dezembro de 1988, e a Lei nº 8.981, de 20 de janeiro de 1995, para fixar alíquota de Contribuição Social sobre Lucro Líquido – CSLL das sociedades resseguradoras locais e para afastar o limite de compensação de prejuízos fiscais e bases de cálculo negativas relativas às atividades de resseguro e retrocessão.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624699",
+          "situacao": "Aguardando Sanção",
+          "dataApresentacao": "2026-05-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2620178",
+          "num": "PL 2100/2026",
+          "titulo": "Altera a Lei nº 15.321, de 31 de dezembro de 2025, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2026.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620178",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+          "dataApresentacao": "2026-04-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2583547",
+          "num": "PL 5779/2025",
+          "titulo": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 – Código Civil, a Lei nº 4.591, de 16 de dezembro de 1964, a Lei nº 8.245, de 18 de outubro de 1991, e a Lei nº 9.096, de 19 de setembro de 1995, para vedar cláusulas que restrinjam o funcionamento de agremiações partidárias em imóveis comerciais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583547",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2025-11-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2565441",
+          "num": "PL 4822/2025",
+          "titulo": "Altera a Lei nº 9.096, de 19 de setembro de 1995, para dispor sobre a responsabilidade individualizada de cada órgão dos partidos políticos pela execução de sanções pecuniárias e vedar descontos de cotas do Fundo Partidário de órgãos distintos, regulamentando a forma de cumprimento, parcelamento e fiscalização dessas obrigações, aplicadas aos órgãos nacionais, órgãos estaduais, distrital e municipais das agremiações, de acordo com o artigo 15-A e § 3º do artigo 28 da Lei n.º 9.096, de 19 de setembro de 1995, bem como a decisão do Supremo Tribunal Federal na Ação Direta de Constitucionalidade 31.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2565441",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2025-09-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2541109",
+          "num": "PLP 163/2025",
+          "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para excluir do cômputo dos limites de despesas primárias as despesas temporárias com educação pública e saúde de que trata o art. 6º da Lei nº 15.164, de 14 de julho de 2025, e as despesas financiadas com recursos oriundos de empréstimos internacionais e suas respectivas contrapartidas, bem como excluir as referidas despesas com educação pública e saúde das metas fiscais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2541109",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2025-08-06",
+          "classificacao": "aprov",
+          "norma": "Lei Complementar 223/2025",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2541109/tramitacoes",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2539231",
+          "num": "PL 3675/2025",
+          "titulo": "Institui o Dia Nacional do Concessionário de Veículos Automotores de Via Terrestre.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539231",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2025-08-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2473389",
+          "num": "PLP 210/2024",
+          "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473389",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2024-11-29",
+          "classificacao": "aprov",
+          "norma": "Lei Complementar 211/2024",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2473389",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2469571",
+          "num": "PL 4398/2024",
+          "titulo": "Altera a Lei nº 9.613, de 3 de março de 1998, que dispõe sobre os crimes de \"lavagem\" ou ocultação de bens, direitos e valores; a prevenção da utilização do sistema financeiro para os ilícitos previstos nesta Lei; cria o Conselho de Controle de Atividades Financeiras - COAF, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2469571",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-11-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2469569",
+          "num": "PL 4397/2024",
+          "titulo": "Veda a disposição em convenção condominial de cláusula que restrinja, de qualquer forma, a locação de imóveis comerciais para agremiações partidárias.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2469569",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2024-11-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2452628",
+          "num": "PL 3148/2024",
+          "titulo": "Inscreve o nome de Eduardo Campos no Livro dos Heróis da Pátria \n\r\n\r\nNOVA EMENTA: Inscreve o nome de Eduardo Henrique Accioly Campos no Livro dos Heróis e Heroínas da Pátria.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2452628",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2024-08-13",
+          "classificacao": "aprov",
+          "norma": "Lei Ordinária 14999/2024",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2452628/tramitacoes",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2450501",
+          "num": "PL 3005/2024",
+          "titulo": "Denomina o trecho da Rodovia BR-416, que liga os Estados de Alagoas e Pernambuco, passando por Ibateguara e Colônia Leopoldina, de “Rodovia Alexandre Alves Cruz”.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2450501",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-07-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2432767",
+          "num": "PL 1725/2024",
+          "titulo": "Institui o Programa Acredita no Primeiro Passo, o Programa de Mobilização de Capital Privado Externo e Proteção Cambial - Programa Eco Invest Brasil, altera a Lei nº 13.999, de 18 de maio de 2020, para instituir o Programa de Crédito e Financiamento de Dívidas de Microempreendedores Individuais e Microempresas - Procred 360, institui o Programa de Renegociação de Dívidas de Microempreendedores Individuais - MEIs, Microempresas e Empresas de Pequeno Porte - Desenrola Pequenos Negócios, altera a Medida Provisória nº 2.196-3, de 24 de agosto de 2001, a Lei nº 10.735, de 11 de setembro de 2003, a Lei nº 12.087, de 11 de novembro de 2009, e a Lei nº 14.042, de 19 de agosto de 2020, e dá outras providências.\r\n\r\nNOVA EMENTA:  Institui o Programa Acredita no Primeiro Passo e o Programa de Mobilização de Capital Privado Externo e Proteção Cambial - Programa Eco Invest Brasil; altera a Lei nº 13.999, de 18 de maio de 2020, para instituir o Programa de Crédito e Financiamento de Dívidas de Microempreendedores Individuais e Microempresas - Procred 360; institui o Programa de Renegociação de Dívidas de Microempreendedores Individuais, Microempresas, Empresas de Pequeno Porte e Sociedades Cooperativas -Desenrola Pequenos Negócios; cria linha de crédito especial para financiar a aquisição de veículos destinados à renovação da frota utilizada na prestação de serviços de táxi; altera a Medida Provisória nº 2.196-3, de 24 de agosto de 2001, e as Leis nºs 7.827, de 27 de setembro de 1989, 10.735, de 11 de setembro de 2003, 12.087, de 11 de novembro de 2009, 13.340, de 28 de setembro de 2016, 13.606, de 9 de janeiro de 2018, 14.042, de 19 de agosto de 2020, 14.165, de 10 de junho de 2021, e 14.166, de 10 de junho de 2021; e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432767",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2024-05-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2388127",
+          "num": "PLP 194/2023",
+          "titulo": "Altera a redação da Lei Complementar nº 78, de 30 de dezembro de 1993.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2388127",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-09-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2387067",
+          "num": "PLP 192/2023",
+          "titulo": "Altera a Lei Complementar nº 64, de 18 de maio de 1990.\n\r\n\r\nNOVA EMENTA: Altera a Lei Complementar nº 64, de 18 de maio de 1990, e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2387067",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2023-09-12",
+          "classificacao": "aprov",
+          "norma": "Lei Complementar 219/2025",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2387067",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2387066",
+          "num": "PL 4438/2023",
+          "titulo": "Altera a Lei nº 4.737, de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos) e a Lei nº 9.504, de 30 de setembro de 1997 (Lei as Eleições), com o fim de promover reforma no ordenamento político-eleitoral (Minirreforma Eleitoral de 2023).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2387066",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2023-09-12",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 5,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204436",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 11120853,
+      "restituicoesCentavos": 0,
+      "registros": 134,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 1789541
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 1530476
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 1539663
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 216947
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 844481
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 1858390
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 1655496
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 1524941
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 160918
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 2428562
+        },
+        {
+          "nome": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+          "totalCentavos": 24115
+        },
+        {
+          "nome": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "totalCentavos": 485370
+        },
+        {
+          "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalCentavos": 7275000
+        },
+        {
+          "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalCentavos": 247980
+        },
+        {
+          "nome": "PASSAGEM AÉREA - REEMBOLSO",
+          "totalCentavos": 462687
+        },
+        {
+          "nome": "TELEFONIA",
+          "totalCentavos": 197139
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204436",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:18:47.528059+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/204436/presenca-plenario/2026"
+      ],
+      "totalDias": 69,
+      "presenca": 31,
+      "justificada": 38,
+      "naoJustificada": 0,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-02-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-02-24",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-02-25",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-02-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-02",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-10",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-18",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-19",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-25",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-03-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-07",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-08",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-09",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-14",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-15",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-16",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-17",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-22",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-23",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-04-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-29",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-04",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-05",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-06",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-07",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-08",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-12",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-13",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-14",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-15",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-20",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-21",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-05-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-27",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-02",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-06-03",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Missão Autorizada",
+          "classificacao": "justificada"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

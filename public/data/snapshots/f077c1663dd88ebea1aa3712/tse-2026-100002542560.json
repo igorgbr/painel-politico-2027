@@ -1,0 +1,433 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-3eac3cc7-5415-5aae-863a-88b833b8f05e",
+  "mandatoId": "tse-2026-100002542560",
+  "historico": "Histórico Câmara: 19 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204566",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 19,
+      "projetos": [
+        {
+          "id": "2644652",
+          "num": "PL 5190/2026",
+          "titulo": "Dispõe sobre as medidas de prevenção e conscientização em relação à violência doméstica e familiar contra a mulher, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644652",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2644606",
+          "num": "PL 5182/2026",
+          "titulo": "Institui o Programa Nacional de Recuperação de Rodovias Municipais com Uso de Materiais Recicláveis na Infraestrutura Viária, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644606",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2644602",
+          "num": "PL 5181/2026",
+          "titulo": "Institui o Programa Nacional de Energia Solar para Escolas e Unidades Públicas de Saúde - PRONESP, estabelece mecanismos de financiamento pela União para instalação de sistemas de geração de energia solar fotovoltaica em escolas e hospitais públicos e determina o reinvestimento da economia obtida em ações de saúde e educação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644602",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2644601",
+          "num": "PL 5180/2026",
+          "titulo": "Institui a Política Nacional de Infraestrutura Escolar Digital e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644601",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2644600",
+          "num": "PL 5179/2026",
+          "titulo": "Institui o Estatuto da Segurança Digital do Idoso, estabelece diretrizes para a proteção de pessoas idosas em ambientes virtuais, cria o Canal Nacional de Denúncias e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644600",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2644599",
+          "num": "PL 5178/2026",
+          "titulo": "Institui a Política Nacional de Formação Profissional para Trabalhadores Substituídos por Automação e Inteligência Artificial, estabelece o direito à requalificação tecnológica gratuita, cria incentivos fiscais para a recontratação e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644599",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2642310",
+          "num": "PL 4949/2026",
+          "titulo": "Institui diretriz para a elaboração de plano de retomada, reprogramação ou encerramento de obras públicas federais paralisadas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642310",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2642309",
+          "num": "PL 4948/2026",
+          "titulo": "Institui o Programa Nacional de Recuperação de Rodovias Municipais com Uso de Materiais Recicláveis na Infraestrutura Viária, e dá outras providências",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642309",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2642308",
+          "num": "PL 4947/2026",
+          "titulo": "Institui o Programa Nacional de Energia Solar para Escolas e Unidades Públicas de Saúde - PRONESP, estabelece mecanismos de financiamento pela União para instalação de sistemas de geração de energia solar fotovoltaica em escolas e hospitais públicos e determina o reinvestimento da economia obtida em ações de saúde e educação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642308",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-08-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2641435",
+          "num": "PL 4736/2026",
+          "titulo": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para instituir diretrizes de atendimento especializado às pessoas adultas com Transtorno do Espectro Autista e de inclusão profissional e produtiva, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641435",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-07-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2641433",
+          "num": "PL 4735/2026",
+          "titulo": "Institui a Política Nacional de Prevenção e Combate às Fraudes Bancárias Digitais, estabelece medidas obrigatórias de segurança para operações financeiras eletrônicas, cria o Protocolo Nacional de Resposta Imediata a Fraudes Bancárias e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641433",
+          "situacao": "Aguardando Autorização do Despacho",
+          "dataApresentacao": "2026-07-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2641432",
+          "num": "PL 4734/2026",
+          "titulo": "Assegura o direito à revisão humana, ao atendimento acessível e à explicação em linguagem simples nas decisões administrativas automatizadas que afetem pessoas em situação de vulnerabilidade.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641432",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-07-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2637298",
+          "num": "PL 3487/2026",
+          "titulo": "Institui a Política Nacional de Promoção da Empregabilidade de Mulheres Vítimas de Violência.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637298",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-07-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2581532",
+          "num": "PLP 234/2025",
+          "titulo": "Acrescenta o município de Caxias, no Estado do Maranhão, à Região Integrada de Desenvolvimento da Grande Teresina, de que trata a Lei Complementar nº 112, de 19 de setembro de 2001.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2581532",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2025-11-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2581509",
+          "num": "PLP 233/2025",
+          "titulo": "Acrescenta o município de Caxias, no Estado do Maranhão, à Região Integrada de Desenvolvimento da Grande Teresina, de que trata a Lei Complementar nº 112, de 19 de setembro de 2001.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2581509",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2025-11-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2555995",
+          "num": "PL 4391/2025",
+          "titulo": "Cria o Cadastro Nacional de Pessoas Condenadas por Crimes de Violência contra a Mulher (CNPC Mulher).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2555995",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2025-09-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2452561",
+          "num": "PL 3147/2024",
+          "titulo": "Institui o programa de apoio psicológico para famílias de crianças com transtorno do espectro autista",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2452561",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2024-08-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2448943",
+          "num": "PL 2861/2024",
+          "titulo": "Dispõe sobre a violência política contra a mulher.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448943",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-07-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2372889",
+          "num": "PL 3442/2023",
+          "titulo": "Altera a Lei nº 7.713, de 1988, para incluir as doenças crônicas pulmonares no rol de doenças para as quais há a previsão de isenção do imposto de renda sobre os proventos de aposentadoria ou reforma.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2372889",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-07-06",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204566",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 11302839,
+      "restituicoesCentavos": 0,
+      "registros": 100,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 3763562
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 0
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 2318754
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 1800183
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 2395118
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 1025222
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 3463669
+        },
+        {
+          "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "totalCentavos": 2800000
+        },
+        {
+          "nome": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "totalCentavos": 100175
+        },
+        {
+          "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalCentavos": 3438600
+        },
+        {
+          "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalCentavos": 1305966
+        },
+        {
+          "nome": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "totalCentavos": 40000
+        },
+        {
+          "nome": "TELEFONIA",
+          "totalCentavos": 154429
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "204566",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:19:10.939234+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/204566/presenca-plenario/2026"
+      ],
+      "totalDias": 20,
+      "presenca": 20,
+      "justificada": 0,
+      "naoJustificada": 0,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-02-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

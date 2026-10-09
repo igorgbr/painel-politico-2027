@@ -1,0 +1,1186 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-c621815a-7927-56aa-97cc-4dc4f6a193a5",
+  "mandatoId": "senado-mandato-614",
+  "historico": "Histórico Senado: 33 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "senado",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=4811&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "senado",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=4811&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [
+      {
+        "id": "8966356",
+        "num": "PL 6070/2025",
+        "titulo": "Altera a Lei nº 12.300, de 28 de julho de 2010, para modificar o Plano de Carreira dos Servidores do Senado Federal, e dá outras providências.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171880",
+        "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+        "dataApresentacao": "2025-12-01",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.350 de 17/02/2026"
+      },
+      {
+        "id": "8372754",
+        "num": "PL 699/2023",
+        "titulo": "Institui o Programa de Desenvolvimento da Indústria de Fertilizantes – PROFERT e dá outras providências.",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155940",
+        "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+        "dataApresentacao": "2023-02-28",
+        "classificacao": "aprov",
+        "norma": "Lei nº 15.496 de 03/09/2026"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=4811&sigla=PL&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05",
+        "https://legis.senado.leg.br/dadosabertos/processo.json?codigoParlamentarAutor=4811&sigla=PLP&dataInicioApresentacao=2023-02-01&dataFimApresentacao=2026-10-05"
+      ],
+      "total": 33,
+      "projetos": [
+        {
+          "id": "9096446",
+          "num": "PL 5070/2026",
+          "titulo": "Reconhece como manifestação da cultura nacional a Romaria e Festa do Bom Jesus dos Navegantes, realizada no Município de Propriá, no Estado de Sergipe.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175508",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-08-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9083691",
+          "num": "PL 3652/2026",
+          "titulo": "Institui o marco regulatório dos campos maduros, de economicidade marginal e microcampos de petróleo e gás natural; a Política Nacional dos Campos Maduros, de Economicidade Marginal e Microcampos; e o Regime Especial de Incentivos para a Exploração e Produção em Campos Maduros e de Economicidade Marginal; e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175132",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-07-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9047289",
+          "num": "PL 2384/2026",
+          "titulo": "Altera a Lei nº 13.986, de 7 de abril de 2020, para dispor sobre o patrimônio rural em afetação.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174141",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2026-05-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9036304",
+          "num": "PL 1927/2026",
+          "titulo": "Altera o art. 224 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para estender a jornada de trabalho dos empregados em instituições financeiras de crédito aos empregados de todas as instituições que exerçam funções homólogas.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173714",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-04-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9028644",
+          "num": "PL 1655/2026",
+          "titulo": "Altera a Lei nº 8.212, de 24 de julho de 1991, para dispor sobre redução temporária da contribuição previdenciária patronal incidente sobre a remuneração de trabalhador com cinquenta anos ou mais contratado para postos de trabalho, nas condições que especifica.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173528",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2026-04-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "9015704",
+          "num": "PL 1295/2026",
+          "titulo": "Altera a Lei nº 14.620, de 13 de julho de 2023, que dispõe sobre o Programa Minha Casa, Minha Vida, para ampliar as hipóteses de admissão excepcional de novo financiamento habitacional.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173174",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2026-03-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8966356",
+          "num": "PL 6070/2025",
+          "titulo": "Altera a Lei nº 12.300, de 28 de julho de 2010, para modificar o Plano de Carreira dos Servidores do Senado Federal, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171880",
+          "situacao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+          "dataApresentacao": "2025-12-01",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.350 de 17/02/2026"
+        },
+        {
+          "id": "8906236",
+          "num": "PL 4461/2025",
+          "titulo": "Acrescenta o art. 1-B à Lei nº 6.321, de 14 de abril de 1976, para dispor sobre a redução do prazo de reembolso às empresas credenciadas no âmbito do Programa de Alimentação do Trabalhador (PAT) e estabelecer limite para as taxas de transações aplicadas às operações do programa.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170368",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2025-09-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8826041",
+          "num": "PL 2159/2025",
+          "titulo": "Dispõe sobre a suspensão, por 6 (seis) meses, de todos os descontos de contribuições e mensalidades de associações e demais entidades de aposentados facultados por Lei e altera a Lei nº Lei nº 8.213, de 24 de julho de 1991, que “Dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências”",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168431",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2025-05-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8809754",
+          "num": "PL 1375/2025",
+          "titulo": "Altera a Lei nº 13.999, de 18 de maio de 2020, para atualizar o limite das operações do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), para que mais operações possam ser realizadas.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167852",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-04-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8809732",
+          "num": "PL 1374/2025",
+          "titulo": "Altera o art. 3º da Lei nº 13.848, de 25 de julho de 2019, para detalhar a autonomia administrativa das agências reguladoras federais.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167849",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2025-04-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8809731",
+          "num": "PLP 73/2025",
+          "titulo": "Altera o art. 9º da Lei Complementar nº 101, de 4 de maio de 2000, para ressalvar despesas das agências reguladoras federais da limitação de empenho e movimentação financeira.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167850",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2025-04-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8802538",
+          "num": "PLP 63/2025",
+          "titulo": "Altera o art. 47 da Lei Complementar nº 214, de 2025, para instituir crédito presumido de CBS ao setor de serviços.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167577",
+          "situacao": "AGUARDANDO DESPACHO",
+          "dataApresentacao": "2025-03-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8786598",
+          "num": "PL 87/2025",
+          "titulo": "Altera a Lei nº 10.289, de 20 de setembro de 2001, que institui o Programa Nacional de Controle do Câncer de Próstata, para disciplinar a divulgação de informações para a prevenção e a conscientização sobre o câncer de próstata.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167050",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2025-01-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8725510",
+          "num": "PL 3559/2024",
+          "titulo": "Dispõe sobre a distribuição de produtos industrializados, exceto veículos automotores, e sobre o contrato de distribuição.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165404",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-09-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8715905",
+          "num": "PL 3309/2024",
+          "titulo": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais, para tratar sobre a aplicação de normas de saúde e segurança no ambiente de trabalho, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165156",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2024-08-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8703067",
+          "num": "PL 3021/2024",
+          "titulo": "Altera a Lei nº 11.664, de 29 de abril de 2008, que dispõe sobre a efetivação de ações de saúde que assegurem a prevenção, a detecção, o tratamento e o seguimento dos cânceres do colo uterino, de mama e colorretal no âmbito do Sistema Único de Saúde (SUS), para garantir às mulheres com histórico familiar de câncer de mama o rastreamento mamográfico a partir dos trinta anos.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164839",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2024-08-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8657513",
+          "num": "PL 1668/2024",
+          "titulo": "Incluir o parágrafo 5º no artigo 15 da Lei nº 8213/1991 que trata do plano de benefícios da Previdência Social para prever obrigação do INSS comunicar as empresas sobre andamentos de situações previdenciárias envolvendo seus empregados.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163405",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-05-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8657503",
+          "num": "PL 1667/2024",
+          "titulo": "Altera o artigo 459 do Decreto Lei nº 5.452, de 1º de maio de 1943 - Consolidação das Leis do Trabalho, para inserir o parágrafo segundo.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163404",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-05-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8657495",
+          "num": "PL 1666/2024",
+          "titulo": "Altera o artigo 135 do Decreto Lei nº 5.452, de 1º de maio de 1943 - Consolidação das Leis do Trabalho.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163403",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2024-05-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8646422",
+          "num": "PL 1235/2024",
+          "titulo": "Altera a Lei nº 13.146, de 6 de julho de 2015, para prever o uso de símbolos de identificação imediata de deficiências ou de doenças crônicas.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163063",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2024-04-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8646172",
+          "num": "PL 1226/2024",
+          "titulo": "Altera a Lei nº 11.648, de 31 de março de 2008, para dispor sobre o reconhecimento formal das centrais sindicais patronais, modifica a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163046",
+          "situacao": "REQUERIMENTO APROVADO",
+          "dataApresentacao": "2024-04-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8614284",
+          "num": "PL 1/2024",
+          "titulo": "Altera a Lei nº 11.947, de 16 de junho de 2009, que dispõe sobre o atendimento da alimentação escolar, para estimular o cumprimento de percentual mínimo de aquisição de gêneros alimentícios da agricultura familiar para o Programa Nacional de Alimentação Escolar.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161856",
+          "situacao": "PRONTA PARA A PAUTA NA COMISSÃO",
+          "dataApresentacao": "2024-01-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8512222",
+          "num": "PL 3832/2023",
+          "titulo": "Altera a Lei n° 6.404, de 15 de dezembro de 1976, para aperfeiçoar o tratamento legislativo da companhia fechada que tenha receita bruta anual de até setenta e oito milhões de reais.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/159053",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-08-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8479085",
+          "num": "PL 3216/2023",
+          "titulo": "Altera os arts. 1º e 2º da Lei nº 11.648, de 31 de março de 2008, e os arts. 589 e 593 da Consolidação da Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre o reconhecimento formal das centrais sindicais de empregadores e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158382",
+          "situacao": "RETIRADA PELO AUTOR",
+          "dataApresentacao": "2023-06-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8440281",
+          "num": "PL 2310/2023",
+          "titulo": "Altera a Lei nº 9.478, de 6 de agosto de 1997, que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo e dá outras providências, para incluir municípios não confrontantes na distribuição das participações governamentais decorrentes da produção offshore de petróleo e gás natural no regime de concessão.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157210",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-05-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8415060",
+          "num": "PL 1896/2023",
+          "titulo": "Altera a Lei nº 12.340, de 1º de dezembro de 2010, para desburocratizar o apoio do Governo Federal às ações de resposta face a situações de emergência e de calamidade pública.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156886",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-04-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8413561",
+          "num": "PL 1832/2023",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras providências, para estabelecer regras de apreensão de bens utilizados nas infrações penais e administrativas, medidas administrativas, procedimentos de destinação de bens apreendidos e sanção administrativa de perdimento.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156851",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-04-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8405945",
+          "num": "PLP 79/2023",
+          "titulo": "Permite a prorrogação, até 31 de dezembro de 2042, do prazo de vigência e validade das isenções dos incentivos e dos benefícios fiscais ou financeiro-fiscais vinculados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) destinados à manutenção ou ao incremento de atividades econômicas, e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156631",
+          "situacao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+          "dataApresentacao": "2023-03-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8383708",
+          "num": "PLP 48/2023",
+          "titulo": "Altera o art. 25 da Lei Complementar nº 101, de 4 de maio de 2000, para permitir, na área de educação, a utilização de recursos transferidos em finalidade diversa da pactuada.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156169",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-03-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8380046",
+          "num": "PL 956/2023",
+          "titulo": "Dispõe sobre o programa de estímulo ao escoamento e comercialização de gás natural e seus derivados e altera as Leis nº 9.478 de 6 de agosto de 1997 e nº 14.134, de 8 de abril de 2021.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/156056",
+          "situacao": "MATÉRIA COM A RELATORIA",
+          "dataApresentacao": "2023-03-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "8372754",
+          "num": "PL 699/2023",
+          "titulo": "Institui o Programa de Desenvolvimento da Indústria de Fertilizantes – PROFERT e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155940",
+          "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "dataApresentacao": "2023-02-28",
+          "classificacao": "aprov",
+          "norma": "Lei nº 15.496 de 03/09/2026"
+        },
+        {
+          "id": "8364768",
+          "num": "PL 363/2023",
+          "titulo": "Institui o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras; altera as Leis nºs 10.826, de 22 de dezembro de 2003, 10.446, de 8 de maio de 2002, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal; revoga as Leis nºs 7.102, de 20 de junho de 1983, e 8.863, de 28 de março de 1994, e dispositivos das Leis nºs 11.718, de 20 de junho de 2008, e 9.017, de 30 de março de 1995, e da Medida Provisória nº 2.184-23, de 24 de agosto de 2001; e dá outras providências.",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155796",
+          "situacao": "RETIRADA PELO AUTOR",
+          "dataApresentacao": "2023-02-08",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 2,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de valorReembolsado por ano/mês da CEAPS, incluindo ajustes negativos.",
+      "fontes": [
+        "https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores/despesas_ceaps/2026"
+      ],
+      "totalCentavos": 46346757,
+      "restituicoesCentavos": null,
+      "registros": 192,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 5536434
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 4304574
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 5624114
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 7939139
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 6681219
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 5855970
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 5275448
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 4648225
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 481634
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.",
+          "totalCentavos": 978569
+        },
+        {
+          "nome": "Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ",
+          "totalCentavos": 2880000
+        },
+        {
+          "nome": "Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar",
+          "totalCentavos": 8573893
+        },
+        {
+          "nome": "Divulgação da atividade parlamentar",
+          "totalCentavos": 3578277
+        },
+        {
+          "nome": "Locomoção, hospedagem, alimentação, combustíveis e lubrificantes",
+          "totalCentavos": 30336018
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [],
+  "licencasSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:37:39.977041+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Licenças oficiais com interseção no período consultado. Datas efetivas e previstas separadas. Não mede presença, faltas ou dias de sessão.",
+      "fontes": [
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "registros": 2,
+      "licencas": [
+        {
+          "id": "25680",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-02-24",
+          "fim": "2026-02-25",
+          "inicioPrevisto": "2026-02-24",
+          "fimPrevisto": "2026-02-25"
+        },
+        {
+          "id": "26188",
+          "tipo": "LICENCA_ATIVIDADE_PARLAMENTAR",
+          "descricao": "Missão política ou cultural de interesse parlamentar",
+          "inicio": "2026-04-08",
+          "fim": "2026-04-09",
+          "inicioPrevisto": "2026-04-08",
+          "fimPrevisto": "2026-04-09"
+        }
+      ]
+    }
+  ],
+  "comparecimentosSenado": [
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-06-16",
+      "periodoFim": "2026-06-16",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125298",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-83-DOR",
+          "numero": 83,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 95,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7095",
+              "data": "2026-06-16",
+              "materia": "PLP 73/2025",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-06-17",
+      "periodoFim": "2026-06-17",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125318",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-84-DOR",
+          "numero": 84,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 58,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-06-30",
+      "periodoFim": "2026-06-30",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125479",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-91-DOR",
+          "numero": 91,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 86,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-07-02",
+      "periodoFim": "2026-07-02",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125478",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-93-DEX",
+          "numero": 93,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 22,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-07-07",
+      "periodoFim": "2026-07-07",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125578",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-98-DOR",
+          "numero": 98,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 79,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-07-08",
+      "periodoFim": "2026-07-08",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125638",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-100-DOR",
+          "numero": 100,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 91,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-07-09",
+      "periodoFim": "2026-07-09",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125618",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-102-DOR",
+          "numero": 102,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 29,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-07-14",
+      "periodoFim": "2026-07-14",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125698",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-106-DOR",
+          "numero": 106,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 65,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7096",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7097",
+              "data": "2026-07-14",
+              "materia": "PEC 14/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-07-15",
+      "periodoFim": "2026-07-15",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/125978",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-107-DOR",
+          "numero": 107,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 80,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7098",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7099",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7100",
+              "data": "2026-07-15",
+              "materia": "PLP 18/2021",
+              "secreta": false,
+              "registro": "Não",
+              "descricao": "Não",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-08-11",
+      "periodoFim": "2026-08-11",
+      "coletadoEm": "2026-10-09T02:31:13.162478+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126278",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 1,
+      "participacoesConferidas": 0,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-111-DOR",
+          "numero": 111,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 110,
+            "votoRegistrado": false
+          },
+          "classificacao": "comparecimento-conferido",
+          "votacoes": [],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-08-12",
+      "periodoFim": "2026-08-12",
+      "coletadoEm": "2026-10-09T02:31:13.263596+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126338",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-08-11&dataFim=2026-08-13&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-113-DOR",
+          "numero": 113,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 101,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7101",
+              "data": "2026-08-12",
+              "materia": "PLP 124/2022 (Substitutivo-CD)",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7102",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7103",
+              "data": "2026-08-12",
+              "materia": "PLP 114/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "casa": "senado",
+      "idParlamentar": "4811",
+      "periodoInicio": "2026-09-01",
+      "periodoFim": "2026-09-03",
+      "coletadoEm": "2026-10-09T02:31:13.274826+00:00",
+      "criterio": "Recortes de sessões deliberativas encerradas, conferidos separadamente. Continuações contam uma vez. DSF confrontado com todas as votações nominais do recorte, exercício e licenças efetivas. Sem nominal, confirma somente comparecimento registrado. Não mede assiduidade anual; códigos de justificativa não classificam faltas. Casos sem evidência suficiente permanecem pendentes.",
+      "fontes": [
+        "https://legis.senado.leg.br/diarios/ver/126579",
+        "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-09-03&v=2",
+        "https://legis.senado.leg.br/dadosabertos/plenario/lista/tiposComparecimento.json",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/mandatos.json?v=5",
+        "https://legis.senado.leg.br/dadosabertos/senador/4811/licencas.json?dataInicio=20260101&dataFim=20261008&v=6"
+      ],
+      "unidade": "sessoes",
+      "cobertura": "recorte-conferido",
+      "totalSessoes": 1,
+      "comparecimentosRegistrados": 1,
+      "comparecimentosConferidos": 0,
+      "participacoesConferidas": 1,
+      "justificativasRegistradas": 0,
+      "pendentes": 0,
+      "foraExercicio": 0,
+      "naoJustificada": null,
+      "sessoes": [
+        {
+          "id": "57-874-120-DOR",
+          "numero": 120,
+          "comparecimentoRegistrado": true,
+          "registroDiario": {
+            "nomeDiario": "Laércio Oliveira",
+            "uf": "SE",
+            "pagina": 55,
+            "votoRegistrado": true
+          },
+          "classificacao": "participacao-conferida",
+          "votacoes": [
+            {
+              "id": "7104",
+              "data": "2026-09-01",
+              "materia": "PDL 995/2026",
+              "secreta": true,
+              "registro": "Votou",
+              "descricao": "Votou",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            },
+            {
+              "id": "7105",
+              "data": "2026-09-03",
+              "materia": "PLP 74/2026",
+              "secreta": false,
+              "registro": "Sim",
+              "descricao": "Sim",
+              "classificacao": "participou",
+              "licencasEfetivas": []
+            }
+          ],
+          "exercicios": [
+            {
+              "inicio": "2023-02-01",
+              "fim": "2031-01-31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

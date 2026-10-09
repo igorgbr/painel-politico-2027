@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "versao": "f077c1663dd88ebea1aa3712",
+  "pessoaId": "p-d276db18-ca17-5253-8976-14a4e1cafeca",
+  "mandatoId": "tse-2026-130002543714",
+  "historico": "Histórico Câmara: 4 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {
+    "aprov": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    },
+    "neg": {
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "casa": "camara",
+      "unidade": "quantidade",
+      "cobertura": "completa",
+      "fonteUrl": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa."
+    }
+  },
+  "projetos": {
+    "aprov": [],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "227800",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 4,
+      "projetos": [
+        {
+          "id": "2439351",
+          "num": "PL 2272/2024",
+          "titulo": "Dispõe sobre o transporte rodoviário de cargas que contenham donativos destinados a regiões em estado de calamidade pública reconhecido pelo Governo Federal",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2439351",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-06-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2427043",
+          "num": "PL 1277/2024",
+          "titulo": "Destina percentual de 5% (cinco por cento) da Compensação Financeira pela Exploração de Recursos Minerais (CFEM) a órgãos municipais de meio ambiente e projetos ambientais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2427043",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2425738",
+          "num": "PL 1185/2024",
+          "titulo": "Institui o Selo “Produzido com Ingredientes Exclusivamente Nacionais”, concedido aos fabricantes de leite em pó que utilizem ingredientes exclusivamente nacionais na fabricação do produto.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2425738",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2425720",
+          "num": "PL 1182/2024",
+          "titulo": "Altera a Lei nº 8.112/1990 para dispor sobre ausência ao serviço público para realização de exames preventivos de câncer de mama e de próstata.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2425720",
+          "situacao": "Devolvida ao(à) Autor(a)",
+          "dataApresentacao": "2024-04-10",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 0,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [],
+  "presencasHistoricas": [],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}

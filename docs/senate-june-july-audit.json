@@ -1,0 +1,200 @@
+{
+  "status": "conferido",
+  "versao": "f077c1663dd88ebea1aa3712",
+  "sessoes": [
+    {
+      "numero": 83,
+      "tipo": "DOR",
+      "data": "2026-06-16",
+      "diario": "125298",
+      "encerramento": {
+        "pagina": 94,
+        "horario": "19:17"
+      },
+      "registroPaginas": [
+        95,
+        96
+      ],
+      "comparecimentos": 75,
+      "votacoesNominais": 1,
+      "resultados": [
+        {
+          "id": "7095",
+          "materia": "PLP 73/2025",
+          "paginas": [
+            104,
+            105,
+            106
+          ],
+          "sim": 51,
+          "nao": 17,
+          "abstencao": 1,
+          "presidente": 1,
+          "total": 70
+        }
+      ]
+    },
+    {
+      "numero": 84,
+      "tipo": "DOR",
+      "data": "2026-06-17",
+      "diario": "125318",
+      "encerramento": {
+        "pagina": 57,
+        "horario": "18:30"
+      },
+      "registroPaginas": [
+        58,
+        59
+      ],
+      "comparecimentos": 75,
+      "votacoesNominais": 0
+    },
+    {
+      "numero": 91,
+      "tipo": "DOR",
+      "data": "2026-06-30",
+      "diario": "125479",
+      "encerramento": {
+        "pagina": 85,
+        "horario": "19:29"
+      },
+      "registroPaginas": [
+        86,
+        87
+      ],
+      "comparecimentos": 79,
+      "votacoesNominais": 0
+    },
+    {
+      "numero": 93,
+      "tipo": "DEX",
+      "data": "2026-07-02",
+      "diario": "125478",
+      "encerramento": {
+        "pagina": 21,
+        "horario": "17:55"
+      },
+      "registroPaginas": [
+        22,
+        23
+      ],
+      "comparecimentos": 71,
+      "votacoesNominais": 0
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/ver/125298",
+      "sha256": "d0a6f03f2f5e63b4d0433a153b8b1523e4768553e76dc463735e542512d4b700",
+      "coletadoEm": "2026-10-09T03:42:07.174133+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125298&download=true&paginaInicial=3&paginaFinal=8",
+      "sha256": "ae8fdfae377e065c339ed5f2cd6e7f323b4020bc116646c5441836cfff8b2c98",
+      "coletadoEm": "2026-10-09T03:42:08.027109+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125298&download=true&paginaInicial=94&paginaFinal=96",
+      "sha256": "070989979d22f3cc5b7a2a96ab2d6b57e6756c085a7524f6b599f1f2094831d7",
+      "coletadoEm": "2026-10-09T03:42:50.453902+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125298&download=true&paginaInicial=95&paginaFinal=96",
+      "sha256": "d246c1044c9d5b75b7d2876c4b89d80fa8c6e8e992c0eeb30d9d04a2794b96b8",
+      "coletadoEm": "2026-10-09T03:43:26.506767+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/ver/125318",
+      "sha256": "e7e7dae84073e4ef51d33b15d63b454e10032e6ff3b806e2d492573cc62ee234",
+      "coletadoEm": "2026-10-09T03:42:06.471619+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125318&download=true&paginaInicial=3&paginaFinal=14",
+      "sha256": "e123b361d4df9143caff1c6c9f865bfe1fade3ac6273c84a87e38dbe97b172b4",
+      "coletadoEm": "2026-10-09T03:42:07.434258+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125318&download=true&paginaInicial=57&paginaFinal=59",
+      "sha256": "666521fe16edf876a6d4b9c2e788f4aa3891895f516d8f4dfd5661d0bd970ab5",
+      "coletadoEm": "2026-10-09T03:42:49.391496+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125318&download=true&paginaInicial=58&paginaFinal=59",
+      "sha256": "90bf06401a3a6d072a0aabac718e9ad1cbcd7ccc82bba346139891e0a574b4f4",
+      "coletadoEm": "2026-10-09T03:43:25.936631+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/ver/125479",
+      "sha256": "e55b79d66b301a50ba611b60074b2baf769c3d40000a1eb417287b9d0ccb9ba4",
+      "coletadoEm": "2026-10-09T03:40:50.174172+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125479&download=true&paginaInicial=3&paginaFinal=11",
+      "sha256": "97e33e8f3cc853f62c10844e001cf4e7e98ccf55674ffdef39bb1ef21d7999f4",
+      "coletadoEm": "2026-10-09T03:40:51.218604+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125479&download=true&paginaInicial=85&paginaFinal=87",
+      "sha256": "673bc8874e5de667a5cf5788292185a35976cbcd0c144e7baaff709042bb77a8",
+      "coletadoEm": "2026-10-09T03:41:44.155196+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125479&download=true&paginaInicial=86&paginaFinal=87",
+      "sha256": "df652b0e31dc9e6409b1da4affb6b590ca4345c1976517af1e278ac370abe8a7",
+      "coletadoEm": "2026-10-09T03:42:05.540092+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/ver/125478",
+      "sha256": "3774699299d77813a56cac75c76a566e091c5002f03c10c236756aa0a0494317",
+      "coletadoEm": "2026-10-09T03:40:49.738914+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125478&download=true&paginaInicial=3&paginaFinal=5",
+      "sha256": "a75cfaf344d20524eb1196fc8535d80c262d99ea3845f9bee4fd1212db8d8c1b",
+      "coletadoEm": "2026-10-09T03:40:50.474694+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125478&download=true&paginaInicial=21&paginaFinal=23",
+      "sha256": "0a6dc96d93f3931d0bfad18bf17f9316c1e7ea7fc98dd21d0a9234c52e8ba052",
+      "coletadoEm": "2026-10-09T03:41:43.737029+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125478&download=true&paginaInicial=22&paginaFinal=23",
+      "sha256": "37ea130569764fd799cbffac8714f1c80157d1671a26597dd62544f0264fc9a1",
+      "coletadoEm": "2026-10-09T03:42:48.372670+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=125298&download=true&paginaInicial=104&paginaFinal=106",
+      "sha256": "4e915fadf5d50c436bc5f8bcea8797c3ddb39352ec619dbb32bf55b55e730b6e",
+      "coletadoEm": "2026-10-09T03:42:48.892306+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-16&dataFim=2026-06-17&v=2",
+      "sha256": "729d4d4be8ea4888e88cc77382f2dc63c5239a46b00bc7879060b89b0ebd9c77",
+      "coletadoEm": "2026-10-09T03:42:05.792575+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-02&v=2",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "coletadoEm": "2026-10-09T03:40:48.920790+00:00"
+    },
+    {
+      "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-06-30&dataFim=2026-07-15&v=2",
+      "sha256": "5a36d0db82d25e022f78ce3ca27e7e23aac57fc1d46386cbefa925d113cad4bc",
+      "coletadoEm": "2026-10-09T03:41:42.845845+00:00"
+    }
+  ],
+  "criterio": "Encerramento, tipo de sessão, cabeçalho legislativo, períodos, páginas, colunas e total DSF conferidos. Sessão 83 tem uma nominal, confrontada com resultado impresso; 84, 91 e 93 não têm nominal. A consulta 30/6–2/7 é vazia; a consulta ampliada até 15/7 confirma exatamente as cinco nominais já conferidas e fornece o cadastro oficial de identidades. Votos vizinhos não comprovam presença/justificativa no recorte. Intervalos do painel preservados como publicados, separados do horário da ata. LS/LAP só geram justificativa com licença de início e fim efetivos cobrindo o voto; datas previstas ou abertas não completam prova. Não mede faltas regimentais.",
+  "vinculosConsultados": 42,
+  "conferenciasAcrescentadas": 168,
+  "totaisNovos": {
+    "comparecimentosRegistrados": 143,
+    "comparecimentosConferidos": 107,
+    "participacoesConferidas": 33,
+    "justificativasRegistradas": 3,
+    "pendentes": 13,
+    "foraExercicio": 12
+  },
+  "faltasNaoJustificadas": null
+}

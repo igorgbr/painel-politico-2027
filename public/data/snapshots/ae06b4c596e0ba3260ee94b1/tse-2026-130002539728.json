@@ -1,0 +1,2243 @@
+{
+  "schemaVersion": 2,
+  "versao": "ae06b4c596e0ba3260ee94b1",
+  "pessoaId": "p-7927edf6-ac2a-516a-b9fd-2aa0b9198828",
+  "mandatoId": "tse-2026-130002539728",
+  "historico": "Histórico Câmara: 173 PL/PLP apresentados de 2023-02-01 a 2026-10-05; situação na coleta",
+  "indicadores": {},
+  "projetos": {
+    "aprov": [
+      {
+        "id": "2483447",
+        "num": "PL 358/2025",
+        "titulo": "Dispõe sobre a transferência temporária da sede do Governo Federal para a cidade de Belém, no Estado do Pará, durante a realização da 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP 30), entre os dias 11 e 21 de novembro de 2025.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483447",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2025-02-10",
+        "classificacao": "aprov",
+        "norma": "Lei Ordinária 15251/2025",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483447/tramitacoes",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      },
+      {
+        "id": "2406521",
+        "num": "PL 5696/2023",
+        "titulo": "Altera as Leis nº 9.394, de 20 de dezembro de 1996, e nº 11.947, de 16 de junho de 2009, para garantir o acesso à água potável nas instituições de ensino. \r\n\r\nNOVA EMENTA: Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 11.947, de 16 de junho de 2009, para garantir o acesso à água potável nas instituições de ensino.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2406521",
+        "situacao": "Transformado em Norma Jurídica",
+        "dataApresentacao": "2023-11-24",
+        "classificacao": "aprov",
+        "norma": "Lei Ordinária 15276/2025",
+        "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2406521",
+        "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+      }
+    ],
+    "neg": []
+  },
+  "historicosLegislativos": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220623",
+      "periodoInicio": "2023-02-01",
+      "periodoFim": "2026-10-05",
+      "coletadoEm": "2026-10-06T22:44:41.845846+00:00",
+      "cobertura": "completa",
+      "criterio": "PL e PLP de autoria/coautoria apresentados no período; situação observada na coleta. Conversão exige referência oficial à lei; rejeição exige situação expressa.",
+      "fontes": [
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2023.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-2026.csv"
+      ],
+      "total": 173,
+      "projetos": [
+        {
+          "id": "2647292",
+          "num": "PL 5515/2026",
+          "titulo": "Denomina “Aeroporto Internacional de São Paulo/Guarulhos – Lito Sousa” o aeroporto internacional localizado no Município de Guarulhos, Estado de São Paulo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647292",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-10-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2647291",
+          "num": "PL 5514/2026",
+          "titulo": "Altera o Decreto-Lei nº 5452, de 1º maio de 1943, a Lei nº 8.112, de 11 de dezembro de 1990, a Lei nº 8.213, de 24 de julho de 1991 e a Lei nº 11.770, de 9 de setembro de 2008, para instituir a licença parentalidade compartilhada.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647291",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-10-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2647275",
+          "num": "PL 5504/2026",
+          "titulo": "Dispõe sobre o incentivo e a regulamentação da Mineração Urbana; institui a prioridade de aproveitamento de recursos de fontes secundárias; estabelece a obrigatoriedade de se considerar a disponibilidade de minerais a partir de fontes secundárias; e, estabelece a restrição de concessão de lavra e de licença ambiental para a extração de minerais disponíveis no passivo urbano.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647275",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-10-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2647140",
+          "num": "PL 5472/2026",
+          "titulo": "Institui a Política Nacional de Adequação do Tamanho das Turmas da Educação Básica, estabelece limites máximos de estudantes por turma e cria o Índice Nacional de Superlotação de Turmas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647140",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-09-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2646284",
+          "num": "PL 5326/2026",
+          "titulo": "Dispõe sobre vedação aos empreendedores minerários de patrocinarem e apoiarem eventos e iniciativas culturais, esportivas, educacionais e comunitárias, promovidas por entidades públicas e/ou privadas, durante a tramitação do licenciamento ambiental.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646284",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-09-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2645680",
+          "num": "PL 5284/2026",
+          "titulo": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para dispor sobre a obrigatoriedade de registro do uso de aeronaves em campanhas eleitorais como doação estimável em dinheiro.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645680",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-09-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2642137",
+          "num": "PL 4918/2026",
+          "titulo": "Dispõe medidas de proteção da saúde da população em cenários de ondas de calor e outros eventos climáticos extremos, no âmbito SUS, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642137",
+          "situacao": "Aguardando Autorização do Despacho",
+          "dataApresentacao": "2026-08-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2641453",
+          "num": "PL 4747/2026",
+          "titulo": "Inscreve o nome de Henriqueta Lisboa no Livro dos Heróis e Heroínas da Pátria.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641453",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-07-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2641449",
+          "num": "PL 4745/2026",
+          "titulo": "Dispõe sobre a inserção de mensagens educativas de conscientização sobre proteção animal em embalagens de alimentos destinados a animais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641449",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-07-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2641425",
+          "num": "PL 4730/2026",
+          "titulo": "Institui o Programa Envelhecer nos Territórios e o Programa Viva Mais Cidadania, voltados à promoção e proteção dos direitos humanos das pessoas idosas, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641425",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2026-07-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2637650",
+          "num": "PL 3528/2026",
+          "titulo": "Dispõe sobre requisitos mínimos para a realização de procedimentos cirúrgicos de esterilização em animais e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637650",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-07-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2637611",
+          "num": "PL 3524/2026",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de terrorismo de barragem, consistente no acionamento indevido de sirenes ou sistemas de alerta associados a barragens.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637611",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-07-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2637609",
+          "num": "PL 3522/2026",
+          "titulo": "Altera a redação da Lei nº 12.334, de 20 de setembro de 2010, para dispor sobre a declaração de emergência em barragens pelo empreendedor, as medidas emergenciais de proteção das pessoas e da natureza e o exercício de poder de polícia administrativa do órgão fiscalizador.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637609",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-07-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2631331",
+          "num": "PL 3029/2026",
+          "titulo": "Dispõe sobre a garantia do acesso universal ao ensino superior público no território nacional, institui o ciclo básico comum e estabelece mecanismos de equidade na progressão acadêmica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631331",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-06-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2630337",
+          "num": "PL 2919/2026",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para inserir expressamente a conduta de abandono de animais no tipo penal previsto em seu art. 32.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630337",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-06-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2630046",
+          "num": "PL 2874/2026",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para qualificar o crime de maus-tratos contra animais quando praticado para fins de produção, divulgação ou monetização de conteúdo audiovisual.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630046",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-06-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2627973",
+          "num": "PL 2630/2026",
+          "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para estabelecer medidas de proteção da infância e da adolescência contra a publicidade, promoção comercial e oferta de alimentos ultraprocessados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627973",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-05-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2627047",
+          "num": "PL 2555/2026",
+          "titulo": "Dispõe sobre a proibição da exportação de animais silvestres e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627047",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-05-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2625893",
+          "num": "PL 2478/2026",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para dispor sobre a proteção da saúde mental, do consumidor e da economia familiar no ambiente de apostas de quota fixa e jogos online, com ênfase na prevenção e redução de danos, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625893",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2026-05-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2625023",
+          "num": "PL 2421/2026",
+          "titulo": "Altera a Lei nº 6.019, de 3 de janeiro de 1974, e o Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho – CLT), para vedar a terceirização de atividades finalísticas, restringir a contratação de trabalhadores autônomos nessas hipóteses, estabelecer critérios para o reconhecimento de vínculo empregatício e dispor sobre a transição dos contratos vigentes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625023",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-05-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2624923",
+          "num": "PL 2412/2026",
+          "titulo": "Altera a Lei Brasileira de Inclusão da Pessoa com Deficiência para instituir a obrigatoriedade de capacitação de profissionais da educação para atendimento adequado de estudantes com deficiência, transtornos do neurodesenvolvimento e outras condições neuroatípicas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624923",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-05-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2624922",
+          "num": "PL 2411/2026",
+          "titulo": "Altera o art. 473 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para ampliar o prazo de afastamento remunerado em caso de falecimento de familiar, ampliar o número de consultas de pré-natal passíveis de acompanhamento e ampliar o direito do empregado de acompanhar filho ou dependente em atendimento de saúde.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624922",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-05-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2624919",
+          "num": "PL 2410/2026",
+          "titulo": "Altera a Lei nº 15.211/2025 para aperfeiçoar os mecanismos de verificação etária, estabelecer requisitos de auditabilidade tecnológica e priorizar o uso de infraestrutura pública de autenticação digital.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624919",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-05-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2624535",
+          "num": "PL 2378/2026",
+          "titulo": "Dispõe sobre a proibição do transporte e do abate de fêmeas em gestação avançada.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624535",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-05-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2624475",
+          "num": "PL 2374/2026",
+          "titulo": "Altera a Lei nº 13.575, de 26 de dezembro de 2017, e a Lei nº 13.540, de 18 de dezembro de 2017, para dispor sobre o compartilhamento de dados fiscais e econômicos com a Agência Nacional de Mineração para fins de fiscalização da Compensação Financeira pela Exploração de Recursos Minerais (CFEM).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624475",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-05-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2621041",
+          "num": "PL 2162/2026",
+          "titulo": "Altera o Código de Processo Civil para autorizar a intimação por meio eletrônico do devedor de alimentos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621041",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-05-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2620026",
+          "num": "PL 2080/2026",
+          "titulo": "Dispõe sobre a transparência e o controle no uso de aeronaves privadas por autoridades públicas, estabelece obrigações de declaração, submissão a procedimentos de segurança e alfandegários, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620026",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-04-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2619274",
+          "num": "PL 2054/2026",
+          "titulo": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-04-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2618506",
+          "num": "PL 1984/2026",
+          "titulo": "Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, para estabelecer requisitos específicos para a outorga de direitos minerários relativos a minerais estratégicos, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618506",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-04-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2616940",
+          "num": "PL 1874/2026",
+          "titulo": "Institui o Regime de Ingresso por Acesso Aberto (RIAA) nas instituições públicas de ensino superior, visando à democratização do acesso e à substituição do modelo de exame vestibular.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616940",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-04-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2612588",
+          "num": "PL 1460/2026",
+          "titulo": "Dispõe sobre a proteção da identidade pessoal contra a criação e a difusão não autorizadas de réplicas digitais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612588",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-03-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2612399",
+          "num": "PL 1440/2026",
+          "titulo": "Altera a Lei nº 14.192, de 4 de agosto de 2021, para dispor sobre o combate à violência política de gênero e raça, inclusive em meios digitais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612399",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-03-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2612364",
+          "num": "PL 1435/2026",
+          "titulo": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para incluir a educação para a proteção e o bem-estar animal como tema transversal nos currículos da educação básica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612364",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-03-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2611272",
+          "num": "PL 1332/2026",
+          "titulo": "Cria o Monumento Natural Nacional Serra do Elefante, no estado de Minas Gerais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611272",
+          "situacao": "Aguardando Deliberação",
+          "dataApresentacao": "2026-03-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2611026",
+          "num": "PL 1306/2026",
+          "titulo": "Institui linha de crédito emergencial destinada à reconstrução e retomada das atividades econômicas de pessoas jurídicas instaladas em municípios da Zona da Mata do Estado de Minas Gerais afetados por desastres naturais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611026",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-03-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2610627",
+          "num": "PL 1280/2026",
+          "titulo": "Estabelece a vedação de contingenciamento e corte injustificado de despesas destinadas à prevenção de inundações, alagamentos, secas e demais eventos climáticos extremos, e altera a Lei nº 12.608, de 10 de abril de 2012.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610627",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-03-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2607663",
+          "num": "PL 1059/2026",
+          "titulo": "Dispõe sobre a obrigação das empresas operadoras de plataformas digitais de transporte individual e de entrega de mercadorias de disponibilizar pontos de apoio aos trabalhadores cadastrados em seus sistemas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607663",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-03-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2607439",
+          "num": "PL 1006/2026",
+          "titulo": "Tipifica a promoção de misoginia e a incitação à violência ou discriminação contra mulheres, inclusive pela organização e propagação de ideologias ou teorias misóginas, inclusive as associadas a comunidades conhecidas como “red pill”, “incel”, “MGTOW” ou denominações equivalentes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607439",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-03-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2607395",
+          "num": "PL 989/2026",
+          "titulo": "Obriga maternidade, casa de parto e estabelecimento hospitalar das redes pública e privada a permitir a presença de tradutor e intérprete de Libras.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607395",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-03-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2607391",
+          "num": "PL 988/2026",
+          "titulo": "Altera o Código Penal para tipificar a promoção organizada de conteúdos que incitem violência, discriminação ou desumanização de mulheres no contexto de movimentos misóginos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607391",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2026-03-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2606313",
+          "num": "PLP 41/2026",
+          "titulo": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606313",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2026-03-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2605145",
+          "num": "PL 805/2026",
+          "titulo": "Dispõe sobre o enfrentamento à violência digital contra as mulheres por sua condição de mulher, com base na Lei Modelo Interamericana para Prevenir, Punir e Erradicar a Violência Digital de Gênero contra as Mulheres, elaborada no âmbito da Organização dos Estados Americanos (OEA).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605145",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-26",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2603547",
+          "num": "PL 618/2026",
+          "titulo": "Altera o art. 217-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940, que institui o Código Penal, para explicitar a irrelevância jurídica do consentimento da vítima menor de 14 anos na configuração do crime de estupro de vulnerável.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603547",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+          "dataApresentacao": "2026-02-20",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2602885",
+          "num": "PL 533/2026",
+          "titulo": "Dispõe sobre diretrizes nacionais de proteção dos usuários de rodovias concedidas e estabelece normas mínimas para a cobrança de pedágio.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602885",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2601791",
+          "num": "PL 418/2026",
+          "titulo": "Declara de interesse público o medicamento Lenacapavir, para fins do disposto no art. 71 da Lei nº 9.279, de 14 de maio de 1996.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601791",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2026-02-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2600314",
+          "num": "PL 136/2026",
+          "titulo": "Institui o Programa “Guilherme Motta”- Programa Nacional de Amparo Integral aos Protetores de Animais e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600314",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2026-02-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2599135",
+          "num": "PLP 280/2025",
+          "titulo": "Altera a Lei Complementar nº 140, de 8 de dezembro de 2011, para dispor sobre a competência para o licenciamento ambiental de data centers e estruturas associadas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2599135",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2025-12-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2598581",
+          "num": "PL 6569/2025",
+          "titulo": "Institui o Programa Nacional de Incentivo à Leitura na Primeira Infância – “Ler desde o Berço”",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598581",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-12-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2598119",
+          "num": "PL 6488/2025",
+          "titulo": "Altera a Lei nº 11.947, de 16 de junho de 2009, para proibir, de forma gradual, o fornecimento e a comercialização de alimentos ultraprocessados em escolas públicas e privadas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598119",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-12-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2598114",
+          "num": "PL 6487/2025",
+          "titulo": "Dispõe sobre diretrizes para a promoção do acesso, da permanência e da conclusão de curso de estudantes com Transtorno do Espectro Autista (TEA) no ensino superior e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598114",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-12-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2597573",
+          "num": "PL 6482/2025",
+          "titulo": "Amplia a proteção às vítimas de crimes sexuais, institui protocolos de acolhimento, estabelece medidas protetivas digitais, assegura acesso integral aos autos processuais, possibilita protocolo direto de provas pelas vítimas e veda o uso de imagens manipuladas nos processos judiciais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2597573",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-12-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2593292",
+          "num": "PL 6195/2025",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para incluir o feminicídio de mulheres políticas como circunstância qualificadora específica do feminicídio.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593292",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-12-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2593030",
+          "num": "PL 6184/2025",
+          "titulo": "Altera a Lei nº 8.078, de 11 de setembro de 1990, que “dispõe sobre a proteção do consumidor e dá outras providências”, para regulamentar a cobrança da taxa de conveniência em sites de vendas de ingressos on-line.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593030",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-12-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2593029",
+          "num": "PL 6183/2025",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para tipificar como crime a disponibilização, contratação, cessão ou locação de animais em atividades de guarda patrimonial.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593029",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-12-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2589470",
+          "num": "PL 6038/2025",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de desinformação dolosa em saúde pública praticada por profissional da saúde, agente público ou agente político.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589470",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-11-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2587155",
+          "num": "PL 5943/2025",
+          "titulo": "Altera a Lei nº 6.001, de 19 de dezembro de 1973, para dispor sobre a proteção da diversidade sexual e de gênero, a prevenção à discriminação e a promoção da inclusão de indígenas LGBTIA+, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2587155",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-11-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2578344",
+          "num": "PL 5462/2025",
+          "titulo": "Institui a Plataforma Escola Cuidada e dispõe sobre a transparência e o planejamento da adaptação das escolas da educação básica às mudanças climáticas.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578344",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-10-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2573825",
+          "num": "PL 5301/2025",
+          "titulo": "Institui medidas de promoção da igualdade de oportunidades e combate à discriminação contra pessoas lésbicas, gays, bissexuais, travestis, transexuais, intersexuais e demais identidades de gênero e orientações sexuais no mercado de trabalho, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2573825",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-10-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2573501",
+          "num": "PL 5286/2025",
+          "titulo": "Institui a Política Nacional de Combate ao Racismo Ambiental e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2573501",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-10-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2573245",
+          "num": "PL 5270/2025",
+          "titulo": "Institui a Política Nacional de Promoção dos Direitos e Atenção Integral às Pessoas Idosas com Transtorno do Espectro Autista (TEA), altera a Lei nº 10.741, de 1º de outubro de 2003, e a Lei nº 12.764, de 27 de dezembro de 2012, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2573245",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-10-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2572975",
+          "num": "PL 5255/2025",
+          "titulo": "Garante o direito ao transporte gratuito de ao menos uma bagagem despachada para passageiros em voos nacionais e internacionais, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2572975",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2025-10-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2560757",
+          "num": "PL 4553/2025",
+          "titulo": "Institui o Portal Nacional de Informações Estratégicas Socioambientais, Climáticas e Territoriais - “INFOCLIMA-TERRA-BRASIL”, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2560757",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-09-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2560688",
+          "num": "PL 4549/2025",
+          "titulo": "Institui o Dia Nacional da Defesa das Instituições Democráticas, a ser comemorado anualmente em 11 de setembro.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2560688",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-09-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2558525",
+          "num": "PL 4492/2025",
+          "titulo": "Altera a Lei nº 13.185, de 6 de novembro de 2015, para criar o Sistema Nacional de Monitoramento e instituir metas nacionais de redução da intimidação sistemática (bullying).",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2558525",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-09-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2557739",
+          "num": "PL 4483/2025",
+          "titulo": "Altera a Lei nº 9.096, de 19 de setembro de 1995, para vedar a utilização de recursos do Fundo Partidário no custeio de despesas relativas à residência de pessoas submetidas a medida cautelar ou a prisão domiciliar determinada pelo Poder Judiciário.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2557739",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-09-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2557551",
+          "num": "PL 4464/2025",
+          "titulo": "Proíbe a prática da debicagem em aves em território nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2557551",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-09-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2557150",
+          "num": "PL 4436/2025",
+          "titulo": "Altera a Lei nº 12.587/2012, que institui a Política Nacional de Mobilidade Urbana.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2557150",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-09-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2555392",
+          "num": "PL 4350/2025",
+          "titulo": "Institui o Sistema Nacional de Transparência e Integridade da Informação Climática (SNTIIC), como parte da Política Nacional de Mudança Climática, e dá outras disposições.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2555392",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-09-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2554220",
+          "num": "PL 4277/2025",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para tipificar o crime de matar animal sem justa causa.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2554220",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-08-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2551950",
+          "num": "PL 4199/2025",
+          "titulo": "Inscreve o nome de Sérgio Jaguaribe, o Jaguar, no Livro dos Heróis e Heroínas da Pátria.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2551950",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2025-08-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2545793",
+          "num": "PL 3999/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para determinar a necessidade de comprovação de idoneidade para concessão de autorização para exploração comercial da modalidade lotérica de apostas de quota fixa.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2545793",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-08-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2543181",
+          "num": "PL 3966/2025",
+          "titulo": "Acrescenta os arts. 213-A, 216-A, 216-B, 232-A e 319-A ao Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), para tipificar crimes de assédio e discriminação no âmbito das Forças Armadas e das instituições militares estaduais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543181",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-08-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2539835",
+          "num": "PL 3721/2025",
+          "titulo": "Institui a obrigatoriedade de previsão de espaço para bicicletas nos trens operados por ente público, concessionária ou permissionária, visando à promoção da intermodalidade.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539835",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-08-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2532595",
+          "num": "PL 3274/2025",
+          "titulo": "Inscreve o nome de Sissy Kelly Lopes de Souza no Livro dos Heróis e Heroínas da Pátria.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532595",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2025-07-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2531261",
+          "num": "PL 3192/2025",
+          "titulo": "Cria o Monumento Natural dos Profetas, no estado de Minas Gerais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2531261",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-07-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2530244",
+          "num": "PL 3177/2025",
+          "titulo": "Dispõe sobre a incorporação do exame de sangue Mineralograma no Sistema Único de Saúde (SUS) para a detecção da quantidade de minerais essenciais e tóxicos no organismo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2530244",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-07-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2529991",
+          "num": "PL 3174/2025",
+          "titulo": "Institui a proibição de instalação de ‘catracas altas’ no transporte interestadual e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2529991",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-07-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2520687",
+          "num": "PL 2714/2025",
+          "titulo": "Revoga dispositivos da Lei nº 14.515, de 29 de dezembro de 2022, que permitem a transferência à iniciativa privada de atribuições da fiscalização agropecuária, em prejuízo da saúde pública e da segurança alimentar.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2520687",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-06-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2519872",
+          "num": "PL 2670/2025",
+          "titulo": "Institui a Lei Sissy Kelly, que cria a Política Nacional de Promoção dos Direitos e Atenção Integral  às Pessoas Idosas LGBTI, altera a Lei Nº 10.741, de 1º de outubro de 2003, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2519872",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-05-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2518143",
+          "num": "PL 2627/2025",
+          "titulo": "Institui o Programa para a Redução Progressiva da Exportação de Animais Vivos para Abate, estabelece diretrizes para a transição do setor e dispõe sobre condições mínimas de bem-estar animal durante o transporte terrestre e marítimo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2518143",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-05-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2517109",
+          "num": "PL 2581/2025",
+          "titulo": "Altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2517109",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-05-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2508900",
+          "num": "PL 2310/2025",
+          "titulo": "Regulamenta a participação de crianças e adolescentes como influenciadores digitais e criadores de conteúdo monetizado em plataformas digitais e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2508900",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2025-05-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2508479",
+          "num": "PL 2279/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, que dispõe sobre a modalidade lotérica denominada apostas de quota fixa.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2508479",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-05-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2508313",
+          "num": "PL 2269/2025",
+          "titulo": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, que dispõe sobre a modalidade lotérica denominada apostas de quota fixa, para tratar sobre publicidade e propaganda comercial de apostas, de produtos, serviços ou arranjos a eles assemelhados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2508313",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-05-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2503790",
+          "num": "PL 2080/2025",
+          "titulo": "Institui a Política Nacional de Eficiência Energética e Sustentabilidade Socioambiental para Data Centers, estabelece diretrizes, metas e instrumentos para sua implementação, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503790",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-05-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2497402",
+          "num": "PL 1669/2025",
+          "titulo": "Dispõe sobre a criação de Área de Proteção Ambiental (APA) da Chapada do Lagoão, no Estado de Minas Gerais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497402",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-04-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2492392",
+          "num": "PL 1410/2025",
+          "titulo": "Institui o Programa Nacional de Incentivo às Batalhas de Rimas, aos Saraus e aos Slams, no âmbito da Política Nacional de Cultura Viva.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2492392",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2025-04-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2491171",
+          "num": "PL 1335/2025",
+          "titulo": "Veda a concessão de anistia a condenados ou investigados por crimes contra o Estado Democrático de Direito.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491171",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2025-03-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2491063",
+          "num": "PL 1318/2025",
+          "titulo": "Institui o Estatuto da Pessoa Intersexo (Lei Jacob Cristopher) e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491063",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2025-03-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2483447",
+          "num": "PL 358/2025",
+          "titulo": "Dispõe sobre a transferência temporária da sede do Governo Federal para a cidade de Belém, no Estado do Pará, durante a realização da 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP 30), entre os dias 11 e 21 de novembro de 2025.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483447",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2025-02-10",
+          "classificacao": "aprov",
+          "norma": "Lei Ordinária 15251/2025",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483447/tramitacoes",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2482258",
+          "num": "PL 58/2025",
+          "titulo": "Altera o art. 20 da Lei nº 7.716, de 5 de janeiro de 1989, para tipificar como crime a prática de saudações nazistas e qualquer outro gesto que incite crimes de ódio.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482258",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2025-02-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2481374",
+          "num": "PL 4993/2024",
+          "titulo": "Altera a Lei nº 12.334, de 20  de setembro de 2010, que estabelece a Política Nacional de Segurança de Barragens destinadas à acumulação de água para quaisquer usos, à disposição final ou temporária de rejeitos e à acumulação de resíduos industriais e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481374",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-12-19",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2479306",
+          "num": "PL 4841/2024",
+          "titulo": "Altera as Leis nº 6.880, de 9 de dezembro de 1980 (Estatuto dos Militares), 3.765, de 4 de maio de 1960, e 13.954, de 16 de dezembro de 2019, para dispor sobre os proventos dos militares inativos, as pensões militares e a transferência para a reserva remunerada.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479306",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2024-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2479282",
+          "num": "PL 4840/2024",
+          "titulo": "Eleva os valores de referência do desconto simplificado do IRPF e institui tributação mínima da alta renda.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479282",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2479279",
+          "num": "PL 4839/2024",
+          "titulo": "Dispõe sobre o teto remuneratório estabelecido no inciso XI do caput e no § 9º do art. 37 da Constituição Federal e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479279",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2479263",
+          "num": "PLP 227/2024",
+          "titulo": "Dispõe sobre as condições e limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479263",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2024-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2479121",
+          "num": "PL 4835/2024",
+          "titulo": "Dispõe sobre a obrigatoriedade de órgãos da Administração Direta e Indireta compartilhar bases de dados sobre remuneração de servidores públicos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479121",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2478432",
+          "num": "PL 4822/2024",
+          "titulo": "Regulamenta o artigo 5º, inciso III da Constituição da República Federativa do Brasil para proibir que se prescreva, promova, financie, subsidie, instigue, induza, constranja ou submeta alguém a medidas psicológicas, psiquiátricas, tratamentos religiosos e qualquer outro método que objetive a conversão da orientação sexual e/ou identidade de gênero do indivíduo; e estabelece políticas de prevenção a esta violação de direitos e de reparação as sobreviventes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2478432",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-12-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2469584",
+          "num": "PL 4399/2024",
+          "titulo": "Altera a Lei nº 13.089, de 12 de janeiro de 2015, Estatuto da Metrópole, para incluir medidas com o objetivo de preparar as cidades para o contexto de emergência climática, valendo-se de práticas de produção e de consumo de alimentos responsáveis no contexto urbano.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2469584",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-11-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2468653",
+          "num": "PL 4359/2024",
+          "titulo": "Altera e acrescenta disposições à Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2468653",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-11-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2468520",
+          "num": "PL 4340/2024",
+          "titulo": "Altera e acrescenta disposições à Lei nº 12.288, de 20 de julho de 2010, que institui o Estatuto da Igualdade Racial.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2468520",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-11-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2467875",
+          "num": "PL 4317/2024",
+          "titulo": "Altera a Lei nº 7.210, de 11 de julho de 1984, e a Lei nº 14.133, de 1º de abril de 2021, para dispor sobre a segurança alimentar e nutricional para pessoas privadas de liberdade, além de estimular a produção agroecológica nas unidades prisionais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2467875",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-11-11",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2466385",
+          "num": "PL 4200/2024",
+          "titulo": "Dispõe sobre a criação de Fundo de Diversificação Econômica e Desenvolvimento Sustentável nos municípios afetados pela mineração.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2466385",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-10-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2464777",
+          "num": "PL 4101/2024",
+          "titulo": "Altera a Lei nº 4.375, de 17 de agosto de 1964, para dispor sobre o alistamento militar de homens trans.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2464777",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-10-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2462935",
+          "num": "PL 3983/2024",
+          "titulo": "Altera o art. 121 e o art. 226 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para prever o lesbocídio como circunstância qualificadora do crime de homicídio e o estupro corretivo lesbofóbico como majorante do crime de estupro.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462935",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-10-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2462270",
+          "num": "PL 3929/2024",
+          "titulo": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941, para vedar a aplicação do acordo de não persecução penal nas hipóteses de crimes raciais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462270",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-10-14",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2459990",
+          "num": "PL 3799/2024",
+          "titulo": "Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Minas), para determinar aspectos de segurança em pilhas de estéril e de rejeitos, empilhadas a seco ou em empilhamentos drenados, desativadas ou em operação no território nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2459990",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-10-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2459738",
+          "num": "PL 3785/2024",
+          "titulo": "Proíbe a lavra de substâncias minerais em territórios produtores de água, onde existam áreas de recarga e descarga hídrica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2459738",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-10-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2459366",
+          "num": "PL 3734/2024",
+          "titulo": "Cria o Documento de Origem Mineral - DOM, altera a Lei nº 8.001, de 13 de março de 1990, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2459366",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-09-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2458654",
+          "num": "PL 3628/2024",
+          "titulo": "Altera e acrescenta disposições à Lei nº 14.817, de 2024, que estabelece diretrizes para a valorização dos profissionais da educação escolar básica pública.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2458654",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-09-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2458303",
+          "num": "PL 3556/2024",
+          "titulo": "Altera a Lei nº 14.944, de 31 de julho de 2024 (Política Nacional de Manejo Integrado do Fogo), para vedar a concessão de crédito e o recebimento de subvenção do Poder Público ou de prêmios relacionados a seguro a pessoa física ou jurídica que fizer o uso irregular do fogo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2458303",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-09-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2457463",
+          "num": "PL 3508/2024",
+          "titulo": "Dispõe sobre a garantia de assistência psicológica no âmbito do Sistema Único de Saúde (SUS) para indivíduos que realizarem denúncia de ato tipificado como racismo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2457463",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-09-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2456343",
+          "num": "PL 3412/2024",
+          "titulo": "Proíbe a separação de alunos bolsistas em instituições de ensino privadas e estabelece medidas de suporte para a promoção da inclusão social de forma efetiva.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2456343",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-09-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2456026",
+          "num": "PL 3382/2024",
+          "titulo": "Altera a Lei nº 10.257, de 10 de julho de 2001, Estatuto da Cidade, para incluir medidas com o objetivo de preparar as cidades para o contexto de emergência climática, valendo-se de práticas de produção e o consumo de alimentos responsáveis no contexto urbano.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2456026",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-08-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2455854",
+          "num": "PL 3364/2024",
+          "titulo": "Institui normas gerais de contratação por meio de Parceiras Público Populares (PPPopular); altera a Lei nº 9.608, de 18 de Fevereiro de 1998; altera a Lei nº 14.133, de 1º de Abril de 2021 e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2455854",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-08-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2454864",
+          "num": "PL 3291/2024",
+          "titulo": "Dispõe sobre a gestão ambientalmente adequada e ações de compensação ambiental decorrentes da produção e distribuição de material impresso de campanha durante o período eleitoral.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2454864",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-08-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2454257",
+          "num": "PLP 136/2024",
+          "titulo": "Altera a Lei Complementar nº79, de 7 de janeiro de 1994, e a Leinº 13.756, de 12 de dezembro de 2018, para dispor, expressamente, sobre a aplicação de recursos do Fundo Penitenciário Nacional (FUPEN) e do Fundo Nacional de Segurança Pública (FNSP) em órgãos e entidadesque implementam ações de prevenção e enfrentamento da violência contra a mulher nos âmbitos estadual e municipal.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2454257",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2024-08-21",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2450461",
+          "num": "PL 2997/2024",
+          "titulo": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para aumentar as penas para o crime de provocar incêndio em mata ou floresta.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2450461",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-07-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2448400",
+          "num": "PL 2821/2024",
+          "titulo": "Dispõe sobre a sanção administrativa para o mau uso de sistemas de alerta para desastres e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448400",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-07-10",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2448069",
+          "num": "PL 2809/2024",
+          "titulo": "Altera a Lei nº 7.797, de 10 de julho de 1989, a Lei nº 9.795, de 27 de abril de 1999, e a Lei nº 12.187, de 29 de dezembro de 2009, para incluir a previsão de educação para reação a desastres climáticos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448069",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2024-07-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2438467",
+          "num": "PL 2215/2024",
+          "titulo": "Institui o Dia Nacional para a Ação Climática.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2438467",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2024-06-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2437299",
+          "num": "PL 2141/2024",
+          "titulo": "Dispõe sobre a criação de um protocolo nacional para abrigos emergenciais de refugiados, incluindo refugiados domésticos.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2437299",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-05-30",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2437271",
+          "num": "PL 2134/2024",
+          "titulo": "Institui o Programa Nacional de Destinação Correta aos Veículos Abandonados em vias públicas e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2437271",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-05-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2437267",
+          "num": "PL 2131/2024",
+          "titulo": "Altera a Lei nº 6.938, de 31 de agosto de 1981, para incluir entre os princípios e fundamentos da Política Nacional de Meio Ambiente, o acompanhamento das séries históricas de precipitação resultantes de eventos extremos decorrentes da crise climática e projeções de chuvas para os próximos anos considerando modelos climáticos atuais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2437267",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-05-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2437263",
+          "num": "PL 2129/2024",
+          "titulo": "Cria o Monumento Natural da Lapinha da Serra, no Estado de Minas Gerais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2437263",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2024-05-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2436473",
+          "num": "PLP 99/2024",
+          "titulo": "Regulamenta o inciso IV, do § 3º do art. 9º da Emenda Constitucional 132 de 20 de dezembro de 2023, para dispor sobre a redução de alíquotas do IBS e da CBS para atividades de reabilitação urbana de zonas históricas e de áreas críticas de recuperação e reconversão urbanística.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2436473",
+          "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+          "dataApresentacao": "2024-05-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2432389",
+          "num": "PL 1703/2024",
+          "titulo": "Institucionaliza medidas de auxílio quando for reconhecido estado de calamidade pública.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432389",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-05-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2431758",
+          "num": "PL 1629/2024",
+          "titulo": "Altera a Lei nº 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima - PNMC, para prever a obrigatoriedade de elaboração dos Planos Estaduais e Municipais de Ação Climática, assim como a respectiva vinculação de recursos para a execução dos Planos, e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2431758",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-05-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2431186",
+          "num": "PL 1594/2024",
+          "titulo": "Institui a Política Nacional dos Deslocados Ambientais e Climáticos – PNDAC, estabelecendo seus direitos e fornecendo diretrizes para que o Poder Público promova sua proteção.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2431186",
+          "situacao": "Aguardando Criação de Comissão Temporária",
+          "dataApresentacao": "2024-05-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2430884",
+          "num": "PL 1540/2024",
+          "titulo": "Denomina Rodovia Antônio Francisco Lisboa o trecho da BR-381 localizado no Estado de Minas Gerais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430884",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2024-05-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2430462",
+          "num": "PL 1489/2024",
+          "titulo": "Institui o Dia Nacional do Veganismo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430462",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2430185",
+          "num": "PL 1457/2024",
+          "titulo": "Altera a Lei 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais) e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever duplicação de prazos prescricionais aplicáveis a este tipo de crimes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430185",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-04-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2430184",
+          "num": "PL 1456/2024",
+          "titulo": "Majora a pena do crime de poluição por uso indevido de substância tóxica, quando aplicada por pulverização aérea sobre área úmida",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430184",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2430056",
+          "num": "PL 1443/2024",
+          "titulo": "Dispõe sobre medidas para o bem-estar e prevenção de extravio de animais em viagens aéreas. (Lei Cão Joca)",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430056",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2024-04-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2428524",
+          "num": "PL 1370/2024",
+          "titulo": "Altera a Lei nº 12.608, de 10 de abril de 2012, que “Institui a Política Nacional de Proteção e Defesa Civil - PNPDEC; dispõe sobre o Sistema Nacional de Proteção e Defesa Civil - SINPDEC e o Conselho Nacional de Proteção e Defesa Civil - CONPDEC; autoriza a criação de sistema de informações e monitoramento de desastres; altera as Leis nºs 12.340, de 1º de dezembro de 2010, 10.257, de 10 de julho de 2001, 6.766, de 19 de\ndezembro de 1979, 8.239, de 4 de outubro de 1991, e 9.394, de 20 de dezembro de 1996; e dá outras providências.”",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428524",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2428523",
+          "num": "PL 1369/2024",
+          "titulo": "Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, que institui o Código de Mineração.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428523",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-04-22",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2427040",
+          "num": "PL 1275/2024",
+          "titulo": "Altera a Lei nº 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima - PNMC e dá outras providências, para incluir disposições relativas à emergência climática.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2427040",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-04-16",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2424793",
+          "num": "PL 1107/2024",
+          "titulo": "Altera a Lei nº 14.344, de 24 de maio de 2022, e a Lei nº 8069, de 13 de julho de 1990, para melhorar a qualidade de dados sobre violência contra crianças e adolescentes.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424793",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-08",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2424750",
+          "num": "PL 1098/2024",
+          "titulo": "Altera a Lei nº 14.611, de 3 de julho de 2023, e o Decreto-Lei nº 5.452, de 1º de maio de 1943, para incluir a produção de dados salariais com recorte por orientação sexual e identidade de gênero.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424750",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-04-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2424336",
+          "num": "PL 1057/2024",
+          "titulo": "Dispõe sobre a obrigatoriedade da oferta de alimentação vegana em órgãos e entidades da administração pública.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424336",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-04-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2424280",
+          "num": "PL 1045/2024",
+          "titulo": "Proíbe a comercialização de animais silvestres e exóticos no Brasil com a finalidade de serem criados como animais de estimação.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2424280",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2024-04-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2420615",
+          "num": "PL 722/2024",
+          "titulo": "Institui a Visão Zero, como parte da estratégia da elaboração de políticas, planos, programas e ações relacionadas à mobilidade urbana, trânsito e transporte no país.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2420615",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2024-03-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2416945",
+          "num": "PL 56/2024",
+          "titulo": "Dispõe sobre a dignidade póstuma de travestis e demais pessoas trans, altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), altera a Lei nº 6.075, de 31 de dezembro de 1973, altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416945",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2024-02-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2412648",
+          "num": "PL 5989/2023",
+          "titulo": "Proíbe a aquisição, venda, importação e reprodução intencional de animais de estimação que apresentem características físicas prejudiciais resultantes de práticas de criação seletiva, voltadas prioritariamente para a estética.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2412648",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2023-12-12",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2408834",
+          "num": "PL 5824/2023",
+          "titulo": "Disciplina a obrigatoriedade do gerenciamento adequado de resíduos sólidos gerados em eventos públicos, privados ou público-privados e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2408834",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-12-01",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2406521",
+          "num": "PL 5696/2023",
+          "titulo": "Altera as Leis nº 9.394, de 20 de dezembro de 1996, e nº 11.947, de 16 de junho de 2009, para garantir o acesso à água potável nas instituições de ensino. \r\n\r\nNOVA EMENTA: Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 11.947, de 16 de junho de 2009, para garantir o acesso à água potável nas instituições de ensino.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2406521",
+          "situacao": "Transformado em Norma Jurídica",
+          "dataApresentacao": "2023-11-24",
+          "classificacao": "aprov",
+          "norma": "Lei Ordinária 15276/2025",
+          "fonteNorma": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2406521",
+          "normaVerificadaEm": "2026-10-06T22:44:41.845846+00:00"
+        },
+        {
+          "id": "2406374",
+          "num": "PL 5687/2023",
+          "titulo": "Institui o Dia Nacional de Combate à Mutilação Genital Infantil.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2406374",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-11-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2404272",
+          "num": "PL 5535/2023",
+          "titulo": "Dispõe sobre fornecimento gratuito de água potável em eventos públicos e privados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2404272",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-11-18",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2403726",
+          "num": "PL 5492/2023",
+          "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) para dispor sobre os crimes sexuais virtuais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2403726",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-11-13",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2394511",
+          "num": "PL 4886/2023",
+          "titulo": "Institui o Dia Nacional da Visibilidade Trans.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2394511",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-09",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2394003",
+          "num": "PL 4836/2023",
+          "titulo": "Dispõe sobre a atuação e o estabelecimento de zoológicos, aquários e similares e dá outras providências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2394003",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-10-04",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2392073",
+          "num": "PL 4760/2023",
+          "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente) e a Lei nº 13.819, de 26 de abril de 2019 (Política Nacional de Prevenção da Automutilação e do Suicídio) para dispor sobre a atribuição dos Conselhos Tutelares no cuidado da saúde mental de crianças e adolescentes e dá outras providencias.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2392073",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-09-29",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2391490",
+          "num": "PL 4724/2023",
+          "titulo": "Estabelece políticas públicas de prevenção e promoção de saúde mental voltados aos profissionais de saúde e altera as leis nº 13.819, de 26 de abril de 2019 e nº 8.080, de 19 de setembro de 1990, a Lei Complementar nº 187, de 16 de dezembro de 2021 e o Decreto-Lei nº 5.452, de 1º de maio de 1943.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391490",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-09-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2388196",
+          "num": "PL 4514/2023",
+          "titulo": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943, permitindo o abono ao empregado, sem prejuízo do salário, para acompanhar filho, tutelado ou qualquer outra pessoa que esteja sob sua responsabilidade legal, até os 12 (doze) anos de idade, em consultas médicas, exames complementares, internação hospitalar ou em tratamento que exija observação permanente.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2388196",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-09-15",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2374402",
+          "num": "PL 3627/2023",
+          "titulo": "Proíbe a prática e divulgação de terapias de conversão de orientação sexual, identidade de gênero e expressão de gênero.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2374402",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-07-25",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2372720",
+          "num": "PL 3407/2023",
+          "titulo": "Acrescenta o art. 13-A à Lei nº 8.987, de 13 de fevereiro de 1995, para incluir cartões de débito e PIX como formas de pagamento de tarifas de pedágios em rodovias federais.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2372720",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-07-05",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2372064",
+          "num": "PL 3323/2023",
+          "titulo": "Altera a Lei nº 6.437, de 20 de agosto de 1977, que configura infrações à legislação sanitária federal, estabelece as sanções respectivas, e dá outras providências, para incluir a comercialização de animais vivos nos locais onde ocorra a comercialização de  alimentos destinados ao consumo humano como uma infração sanitária.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2372064",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-07-03",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2371632",
+          "num": "PL 3279/2023",
+          "titulo": "Dispõe sobre diretrizes para o registro de boletim de ocorrência de crimes resultantes de discriminação ou preconceito.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2371632",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-06-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2371631",
+          "num": "PL 3278/2023",
+          "titulo": "Dispõe sobre a criação do Dia Nacional da Visibilidade Lésbica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2371631",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-06-27",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2367806",
+          "num": "PL 2964/2023",
+          "titulo": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para incluir a educação climática como base da educação escolar.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2367806",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-06-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2367805",
+          "num": "PL 2963/2023",
+          "titulo": "Altera a Lei nº 7.797, de 10 de julho de 1989, a Lei nº 9.795, de 27 de abril de 1999, e a Lei nº Lei nº 12.187, de 29 de dezembro de 2009.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2367805",
+          "situacao": "Arquivada",
+          "dataApresentacao": "2023-06-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2367803",
+          "num": "PL 2962/2023",
+          "titulo": "Autoriza e disciplina a instalação de suporte para colocação de bicicletas nos ônibus de transporte urbano e rural de passageiros, coletivo ou individual, público ou privado, e altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2367803",
+          "situacao": "Aguardando Designação de Relator(a)",
+          "dataApresentacao": "2023-06-06",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2367087",
+          "num": "PL 2922/2023",
+          "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para proibir a venda de bebidas e alimentos ultraprocessados.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2367087",
+          "situacao": "Retirado pelo(a) Autor(a)",
+          "dataApresentacao": "2023-06-02",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2365133",
+          "num": "PL 2789/2023",
+          "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que instituiu o Código de Trânsito Brasileiro (CTB), modificando o Artigo 61, que determina as velocidades em vias urbanas e rurais, o Artigo 218, que estabelece a fiscalização de velocidades e o Artigo 280, que prevê as autuações por excesso de velocidade.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2365133",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-24",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2364286",
+          "num": "PL 2735/2023",
+          "titulo": "Dispõe sobre a adequação, durante três meses do ano, do subsídio dos Deputados, Senadores, Ministros de Estado, Ministros do Supremo Tribunal Federal, Ministros do Superior Tribunal de Justiça, Presidente e Vice-Presidente da República, para o equivalente ao piso salarial dos profissionais do magistério público da educação básica.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2364286",
+          "situacao": "Devolvida ao(à) Autor(a)",
+          "dataApresentacao": "2023-05-23",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2363108",
+          "num": "PL 2654/2023",
+          "titulo": "Dispõe sobre a criação do Dia Nacional do Orgulho Trans.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2363108",
+          "situacao": "Aguardando Parecer",
+          "dataApresentacao": "2023-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2363037",
+          "num": "PL 2644/2023",
+          "titulo": "Dispõe sobre o direito do uso do nome social na rede de serviços de saúde pública e privada.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2363037",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2363035",
+          "num": "PL 2643/2023",
+          "titulo": "Altera a Lei nº 12.662, de 5 de junho de 2012, para permitir o registro de dupla maternidade ou paternidades, além de produzir dados sobre o nascimento de crianças intersexo.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2363035",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2363013",
+          "num": "PL 2640/2023",
+          "titulo": "Dispõe sobre a criação do Selo Empresa Amiga da Diversidade.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2363013",
+          "situacao": "Situação não informada",
+          "dataApresentacao": "2023-05-17",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2359047",
+          "num": "PL 2258/2023",
+          "titulo": "Institui o “Desmatamento Zero”, com a finalidade de conter a supressão de vegetação em todo território nacional.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2359047",
+          "situacao": "Pronta para Pauta",
+          "dataApresentacao": "2023-04-28",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2354666",
+          "num": "PL 1567/2023",
+          "titulo": "Institui, em âmbito nacional, o “Maio Furta-Cor” como mês dedicado às ações de conscientização, incentivo ao cuidado e à promoção da saúde mental materna.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2354666",
+          "situacao": "Aguardando Apreciação pelo Senado Federal",
+          "dataApresentacao": "2023-03-31",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2350436",
+          "num": "PL 960/2023",
+          "titulo": "Altera a Lei nº 13.667, de 17 de maio de 2018, para dispor sobre a reserva de vagas do Sistema Nacional de Empregos para pessoas em situação de rua, travestis e demais pessoas trans.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350436",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-03-07",
+          "classificacao": "outros",
+          "norma": null
+        },
+        {
+          "id": "2349052",
+          "num": "PL 614/2023",
+          "titulo": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor) e a Lei nº 8.137 de 27 de dezembro de 1990 (crimes contra a ordem tributária, econômica e contra as relações de consumo), para dispor sobre o aumento abusivo de preços de produtos e serviços por ocasião de calamidade pública, endemias, epidemias, pandemias e suas consequências.",
+          "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349052",
+          "situacao": "Tramitando em Conjunto",
+          "dataApresentacao": "2023-02-22",
+          "classificacao": "outros",
+          "norma": null
+        }
+      ],
+      "aprov": 2,
+      "neg": 0
+    }
+  ],
+  "despesasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220623",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-09-30",
+      "coletadoEm": "2026-10-06T22:46:05.354473+00:00",
+      "cobertura": "registros-disponiveis",
+      "criterio": "Soma de vlrLiquido por competência financeira, incluindo créditos negativos. Restituições informadas separadamente, sem subtração adicional.",
+      "fontes": [
+        "https://www.camara.leg.br/cotas/Ano-2026.csv.zip"
+      ],
+      "totalCentavos": 19934524,
+      "restituicoesCentavos": 0,
+      "registros": 104,
+      "meses": [
+        {
+          "competencia": "2026-01",
+          "totalCentavos": 3058642
+        },
+        {
+          "competencia": "2026-02",
+          "totalCentavos": 2426674
+        },
+        {
+          "competencia": "2026-03",
+          "totalCentavos": 2655367
+        },
+        {
+          "competencia": "2026-04",
+          "totalCentavos": 3021592
+        },
+        {
+          "competencia": "2026-05",
+          "totalCentavos": 3013213
+        },
+        {
+          "competencia": "2026-06",
+          "totalCentavos": 1921125
+        },
+        {
+          "competencia": "2026-07",
+          "totalCentavos": 1936815
+        },
+        {
+          "competencia": "2026-08",
+          "totalCentavos": 1588954
+        },
+        {
+          "competencia": "2026-09",
+          "totalCentavos": 312142
+        }
+      ],
+      "categorias": [
+        {
+          "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+          "totalCentavos": 2064053
+        },
+        {
+          "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+          "totalCentavos": 5667564
+        },
+        {
+          "nome": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+          "totalCentavos": 757775
+        },
+        {
+          "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+          "totalCentavos": 4712000
+        },
+        {
+          "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+          "totalCentavos": 6660145
+        },
+        {
+          "nome": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+          "totalCentavos": 72987
+        }
+      ]
+    }
+  ],
+  "presencasHistoricas": [
+    {
+      "casa": "camara",
+      "idParlamentar": "220623",
+      "periodoInicio": "2026-01-01",
+      "periodoFim": "2026-10-08",
+      "coletadoEm": "2026-10-09T01:19:15.401734+00:00",
+      "cobertura": "registros-disponiveis",
+      "unidade": "dias",
+      "criterio": "Dias classificados no relatório oficial de presença em Plenário, no período de exercício. Ausências justificadas e não justificadas separadas; sujeitas a atualização.",
+      "fontes": [
+        "https://www.camara.leg.br/deputados/220623/presenca-plenario/2026"
+      ],
+      "totalDias": 69,
+      "presenca": 69,
+      "justificada": 0,
+      "naoJustificada": 0,
+      "outros": 0,
+      "dias": [
+        {
+          "data": "2026-02-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-02-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-18",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-24",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-25",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-03-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-22",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-23",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-29",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-04-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-04",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-05",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-06",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-19",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-20",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-21",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-26",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-27",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-05-28",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-09",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-10",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-16",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-17",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-06-30",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-07",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-08",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-14",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-07-15",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-11",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-12",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-13",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-08-31",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-01",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-02",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        },
+        {
+          "data": "2026-09-03",
+          "situacao": "Presença",
+          "classificacao": "presenca"
+        }
+      ]
+    }
+  ],
+  "licencasSenado": [],
+  "comparecimentosSenado": []
+}
