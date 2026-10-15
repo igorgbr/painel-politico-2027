@@ -4,16 +4,49 @@
 
 Código sob licença MIT ([LICENSE](LICENSE)). Os dados vêm de fontes públicas oficiais (TSE, Câmara dos Deputados e Senado Federal); o mapa usa svg-maps/brazil (CC BY 4.0). Erros nos dados podem ser relatados pelo formulário ou por issue.
 
-Protótipo em React, Vite e TypeScript baseado em um protótipo do Claude Design (o HTML acompanha o projeto). A versão principal usa composição oficial: eleitos do TSE em 2026 e mandatos do Senado em continuidade até 2031. Histórico legislativo, despesas e fotos estão disponíveis para vínculos confirmados. Subsídio bruto de referência integrado; presença Câmara tem cobertura parcial. Senado tem recorte parcial de sessões conferidas, com painel agregado e cobertura explícita; assiduidade anual e faltas regimentais não estão concluídas. Pagamentos individuais ficam fora da v1. O modo demonstrativo é acessível explicitamente em `/?demo=1`.
+Painel do Congresso que toma posse em 2027: mapa por estado, Senado (81 cadeiras) e Câmara (513), com detalhes de cada parlamentar e exportação dos dados.
 
-## Executar
+Feito em React, Vite e TypeScript a partir de um protótipo do Claude Design (o HTML acompanha o projeto). A composição é oficial: eleitos do TSE em 2026 e mandatos do Senado em continuidade até 2031. Histórico legislativo, despesas e fotos estão disponíveis para vínculos confirmados. Subsídio bruto de referência integrado; presença Câmara tem cobertura parcial. Senado tem recorte parcial de sessões conferidas, com painel agregado e cobertura explícita; assiduidade anual e faltas regimentais não estão concluídas. Pagamentos individuais ficam fora da v1. O modo demonstrativo é acessível explicitamente em `/?demo=1`.
+
+## Rodar localmente
+
+Requisitos: [Node.js](https://nodejs.org/) 22 ou mais recente e Git. Python 3.10+ só é necessário para rodar os testes de dados ou a ingestão.
 
 ```sh
+git clone https://github.com/igorgbr/painel-politico-2027.git
+cd painel-politico-2027
 npm ci
 npm run dev
 ```
 
-Abra http://localhost:5173. Para compilar: `npm run build`.
+Abra http://localhost:5173. Os dados publicados já estão no repositório (`public/`), então o frontend roda sem Python, sem banco e sem acessar as fontes oficiais. O clone tem cerca de 60 MB por causa das fotos e snapshots; `git clone --depth 1` baixa só a versão atual.
+
+Estrutura:
+
+| Pasta | Conteúdo |
+|---|---|
+| `src/` | Frontend (React + TypeScript) |
+| `public/` | Dados publicados, fotos e fontes; gerados pela ingestão |
+| `backend/`, `scripts/` | Ingestão em Python e scripts de verificação e deploy |
+| `tests/` | Testes da ingestão (Python, só biblioteca padrão) |
+| `docs/` | Critérios, cobertura e relatórios das coletas |
+
+## Como contribuir
+
+1. Para erro nos dados ou sugestão, abra uma [issue](https://github.com/igorgbr/painel-politico-2027/issues) ou use o [formulário de feedback](https://docs.google.com/forms/d/1fXrBZAGG1jPIEsmI-PQ2etNhapi6CuMX64FTTf4Krow/viewform). Informe o parlamentar, o dado exibido e a fonte oficial que o contradiz.
+2. Para código, faça um fork, crie uma branch a partir da `main` e abra um pull request para a `main` deste repositório.
+3. Antes do PR, rode as mesmas verificações da publicação:
+
+   ```sh
+   npm run test:data      # testes Python
+   npm run test:contract  # contrato dos dados publicados
+   npm run build          # TypeScript + build de produção
+   ```
+
+4. Não edite `public/data.json`, `public/data/snapshots/` nem `public/photos/` à mão: são gerados pela ingestão a partir das fontes oficiais. Correções de dados entram pelos coletores em `backend/`.
+5. Nunca inclua tokens, `.env`, `var/` ou arquivos de banco no commit.
+
+Deploy é feito apenas pelo mantenedor (veja abaixo); um PR aceito na `main` entra no site na publicação seguinte.
 
 ## Arquitetura
 
@@ -30,6 +63,8 @@ npm run test:contract
 ```
 
 A ingestão baixa o ZIP nacional de candidaturas de 2026 do TSE e o JSON de senadores em exercício. Seleciona apenas deputados federais/senadores eleitos e acrescenta os mandatos 2023–2031. Exclui suplentes eleitorais e candidatos não eleitos. Os dados validados são armazenados em SQLite e os detalhes publicados por versão. As contagens são verificadas por estado antes de substituir `public/data.json` de forma atômica. Em caso de falha, o último conjunto permanece disponível e o diagnóstico fica em `docs/ingest-report.json`.
+
+Use `npm run ingest -- --refresh` para ignorar o cache de uma hora e `npm run ingest -- --export-only` para republicar do SQLite sem acessar a rede. `--db` e `--cache` permitem diretórios alternativos. A ingestão permite uma execução por banco por vez no Linux.
 
 Para importar downloads oficiais locais:
 
@@ -66,18 +101,15 @@ node scripts/check-prototype.mjs
 
 É possível usar Chrome ou Brave no lugar do Chromium. `CDP_URL` e `APP_URL` permitem alterar os endereços. O script verifica seleção de estado por teclado, navegação ao parlamentar, 81/513 cadeiras, indicadores indisponíveis, fontes oficiais, filtros, persistência da busca, exportações e impressão dos 594 registros. Também simula falha HTTP, recuperação e arquivo com indicador indevido. Também verifica overflow em 375, 640 e 768px e salva capturas da área visível em `/tmp/painel-*.png`.
 
-
-Use `npm run ingest -- --refresh` para ignorar o cache de uma hora e `npm run ingest -- --export-only` para republicar do SQLite sem acessar a rede. `--db` e `--cache` permitem diretórios alternativos. A ingestão permite uma execução por banco por vez no Linux. Para produção, gerar e publicar todo `dist/`, incluindo os detalhes; nenhuma hospedagem ou rotina externa foi configurada nesta etapa.
-
 ## Histórico legislativo
 
 `npm run ingest:history` coleta PL/PLP de autoria/coautoria, com identidade verificada, para o período 1/fev/2023–5/out/2026. Listas são separadas por casa; situação e links oficiais aparecem ao selecionar o parlamentar e clicar em **Ver projetos**. Após a coleta complementar, são 402 registros com histórico disponível e 192 sem vínculo confirmado. Foram confirmadas 89 referências de norma ausentes no arquivo; cinco permanecem pendentes. Não interpretar pendência como ausência de atuação.
 
 Veja [docs/HISTORICO-LEGISLATIVO.md](docs/HISTORICO-LEGISLATIVO.md) para critérios, cobertura, fontes, limitações e opções de execução.
-# Despesas históricas
+## Despesas históricas
 
 As despesas de cota de janeiro a setembro de 2026 estão disponíveis nos detalhes dos parlamentares com identidade confirmada, separadas por Casa. Atualização: `npm run ingest:expenses`; consulta forçada: `npm run ingest:expenses -- --refresh`. Consulte [critério, cobertura e operação](docs/DESPESAS.md).
-# Subsídio e presença
+## Subsídio e presença
 
 Atualização: `npm run ingest:attendance`. Subsídio de referência e presença diária têm conceitos e coberturas próprios; veja [critérios, cobertura parcial e operação](docs/SUBSIDIO-PRESENCA.md).
 
